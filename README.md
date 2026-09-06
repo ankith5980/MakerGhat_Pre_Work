@@ -40,6 +40,78 @@ FastAPI serves the results ──► Next.js + Tailwind dashboard
 - **Student responses** — a student turn starting within 5 s of the end of a teacher question.
 - **Silence** — gaps longer than 2 s between speech segments.
 
+## Architecture
+
+Two processes and no database. The backend turns one audio file into one JSON file; the
+frontend renders those files. Every intermediate result is a plain file you can open.
+
+```
+                    ┌────────────────────────────────────────────────────────┐
+ classroom audio ──►│  backend · Python 3.11 · FastAPI · runs fully offline   │
+ (mp3 / wav)        │                                                        │
+                    │  transcribe.py  faster-whisper small (int8) + Silero VAD│
+                    │       │         → timestamped Hindi / English segments  │
+                    │  diarize.py     ECAPA-TDNN embeddings → 2 voice clusters│
+                    │       │         → teacher vote: talk time · CREPE pitch │
+                    │       │           · voice consistency (abstain if tiny) │
+                    │  analyze.py     questions · responses · silence         │
+                    │       │         → 4 engagement metrics + summary        │
+                    │  pipeline.py    writes data/results/<session>.json      │
+                    │  main.py        POST /api/analyze   (background thread) │
+                    │                 GET  /api/sessions[/{id}]               │
+                    └──────────────┬──────────────────────┬──────────────────┘
+                       dev: /api/* rewrite        npm run sync-results
+                                  │                      │
+                    ┌─────────────▼──────────────────────▼──────────────────┐
+                    │  frontend · Next.js 16 · React 19 · Tailwind 4 · TS    │
+                    │  lib/api.ts  → /api/*           (local dev, live upload)│
+                    │              → public/results/  (static build, Vercel)  │
+                    │  /              dashboard: session cards, upload or note│
+                    │  /session/[id]  transcript · timeline · evidence panel  │
+                    │                 · engagement metrics · summary          │
+                    └────────────────────────────────────────────────────────┘
+```
+
+Decisions that shaped it:
+
+- **Files, not a database.** One JSON per session is the whole persistence layer. It keeps the
+  prototype inspectable (open any result in an editor), makes results committable so the demo
+  ships pre-computed, and is the right size for a pilot of tens of classrooms.
+- **Offline after first run.** Four neural models (Whisper, Silero VAD, ECAPA-TDNN, CREPE) are
+  downloaded once and cached; no audio ever leaves the machine and no API key exists. This is
+  the constraint the brief set, and it is why summaries are template-based rather than LLM-written.
+- **Stages are independently re-runnable.** `relabel.py` re-runs speaker labelling and analysis
+  on an existing transcript without re-transcribing — an hour of audio takes 6–10 minutes to
+  transcribe but under 2 minutes to relabel, so iterating on the diarizer is cheap.
+- **Long jobs never block a request.** Uploads are processed on a background thread; the API
+  returns immediately and the UI polls the session's status until it is `done`.
+- **The data source is a build-time switch.** The same frontend talks to the backend in
+  development and reads committed JSON in production, so it can be hosted on Vercel with no
+  backend and no configuration, and switched to a hosted backend with one environment variable.
+- **Every judgement is auditable.** The result JSON records which diarization method ran, each
+  signal's value and vote in the teacher decision, and how many segments each overlay cue
+  relabelled — the UI shows all of it instead of hiding uncertainty.
+
+## Tools used
+
+| Tool | Role here | Why this one |
+| --- | --- | --- |
+| [faster-whisper](https://github.com/SYSTRAN/faster-whisper) (Whisper `small`, int8) | Speech-to-text, language detection | CTranslate2 backend runs ~4× faster than the reference Whisper on CPU at the same accuracy; multilingual, so Hindi works without a separate model. `small` is the largest size that fits the memory/latency budget of a laptop CPU. |
+| [Silero VAD](https://github.com/snakers4/silero-vad) (bundled with faster-whisper) | Voice-activity gating before decoding | Neural VAD keeps Whisper away from ambient classroom noise — the single fix that stopped hallucinated repetition loops and cut a 56-minute run to 6.5 minutes. |
+| [SpeechBrain](https://speechbrain.github.io/) ECAPA-TDNN (`spkrec-ecapa-voxceleb`) | Speaker embeddings per 2.5 s window | Strong pre-trained speaker-verification model with no account or token required, unlike gated diarization pipelines. |
+| [torchcrepe](https://github.com/maxrmorrison/torchcrepe) (CREPE `tiny`) | Neural pitch (F0) estimation per segment | Gives the teacher vote an acoustic signal — adult vs. child voice — instead of assuming the teacher talks most. `tiny` runs at ~28× real time on CPU. |
+| [scikit-learn](https://scikit-learn.org/) | Agglomerative clustering (cosine, k = 2) | Simple, deterministic, and appropriate for a two-group split; no training. |
+| [PyTorch](https://pytorch.org/) (CPU wheel) | Runtime for SpeechBrain and CREPE | CPU build keeps the install reproducible on any machine; no CUDA/cuDNN setup. |
+| [PyAV](https://github.com/PyAV-Org/PyAV) (via faster-whisper) | Audio decoding (mp3 → 16 kHz PCM) | Bundled ffmpeg libraries, so nothing has to be installed system-wide. |
+| [FastAPI](https://fastapi.tiangolo.com/) + [Uvicorn](https://www.uvicorn.org/) | HTTP API: upload, list, detail | Minimal, typed, async-friendly; three endpoints is all the prototype needs. |
+| [gdown](https://github.com/wkentaro/gdown) | Fetching the provided recordings from Google Drive | Handles public folder links from the command line. |
+| [Next.js 16](https://nextjs.org/) (App Router) + React 19 + TypeScript | Demo interface | Required by the brief; typed against the result schema so UI and backend can't drift silently. |
+| [Tailwind CSS 4](https://tailwindcss.com/) | Styling | Required by the brief; fast to iterate on functional layouts. |
+| [Vercel](https://vercel.com/) | Hosting the static demo | Free tier, deploys from GitHub on every push, no configuration beyond the root directory. |
+
+Developed and benchmarked on a single laptop: Intel i7-12650H (10 cores), 15.7 GB RAM,
+Windows 11. The RTX 3050 was deliberately left unused so the setup stays reproducible.
+
 ## Engagement metrics
 
 | Metric | Formula | Interpretation |
