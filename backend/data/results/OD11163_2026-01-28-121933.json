@@ -4,7 +4,7 @@
   "status": "done",
   "language": "hi",
   "duration_s": 1321.1,
-  "diarization_method": "embedding-clustering+heuristic",
+  "diarization_method": "embedding-clustering+pitch-vote+overlay",
   "processing_time_s": 319.0,
   "meta": {
     "activityType": "Trumpet",
@@ -1735,5 +1735,41 @@
       "interpretation": "Mixed uptake: some questions go unanswered."
     }
   ],
-  "summary": "In this 22-minute session, the teacher spoke for 86% of the speech time and students for 14%. Students took the floor 40 times, and the conversation switched between teacher and students 78 times. The teacher asked 17 questions, of which 7 drew a student response. About 6 s of the session was silent (longest pause 6 s). Lecture-heavy: the teacher dominates the airtime; students get little room to speak. Dialogic classroom: frequent back-and-forth exchange."
+  "summary": "In this 22-minute session, the teacher spoke for 86% of the speech time and students for 14%. Students took the floor 40 times, and the conversation switched between teacher and students 78 times. The teacher asked 17 questions, of which 7 drew a student response. About 6 s of the session was silent (longest pause 6 s). Lecture-heavy: the teacher dominates the airtime; students get little room to speak. Dialogic classroom: frequent back-and-forth exchange.",
+  "speaker_evidence": {
+    "votes_for_teacher": 1,
+    "votes_cast": 1,
+    "signals": [
+      {
+        "name": "talk_time",
+        "unit": "s",
+        "teacher": 1307.08,
+        "student": 0.0,
+        "agrees": true
+      },
+      {
+        "name": "pitch",
+        "unit": "Hz",
+        "teacher": 295.23,
+        "student": null,
+        "agrees": null
+      },
+      {
+        "name": "voice_consistency",
+        "unit": "dispersion",
+        "teacher": 0.49,
+        "student": 0.22,
+        "agrees": null
+      }
+    ],
+    "note": "the smaller cluster has only 0 segment(s), too few for pitch or consistency to judge; talk time decided",
+    "degenerate_overlay": {
+      "minority_share": 0.0,
+      "segments_relabelled_student": 103,
+      "by_short_duration_only": 102,
+      "by_high_pitch_only": 0,
+      "by_both": 1,
+      "teacher_median_f0_hz": 295.23
+    }
+  }
 }

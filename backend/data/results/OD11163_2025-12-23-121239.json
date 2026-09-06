@@ -4,7 +4,7 @@
   "status": "done",
   "language": "hi",
   "duration_s": 4062.2,
-  "diarization_method": "embedding-clustering+heuristic",
+  "diarization_method": "embedding-clustering+pitch-vote+overlay",
   "processing_time_s": 390.6,
   "meta": {
     "activityType": "Trumpet",
@@ -1315,5 +1315,41 @@
       "interpretation": "Questions largely go unanswered — they may be rhetorical or pacing may be too fast."
     }
   ],
-  "summary": "In this 68-minute session, the teacher spoke for 97% of the speech time and students for 3%. Students took the floor 24 times, and the conversation switched between teacher and students 48 times. The teacher asked 21 questions, of which 4 drew a student response. About 560 s of the session was silent (longest pause 300 s). Lecture-heavy: the teacher dominates the airtime; students get little room to speak. Monologue-style: long uninterrupted stretches by one speaker."
+  "summary": "In this 68-minute session, the teacher spoke for 97% of the speech time and students for 3%. Students took the floor 24 times, and the conversation switched between teacher and students 48 times. The teacher asked 21 questions, of which 4 drew a student response. About 560 s of the session was silent (longest pause 300 s). Lecture-heavy: the teacher dominates the airtime; students get little room to speak. Monologue-style: long uninterrupted stretches by one speaker.",
+  "speaker_evidence": {
+    "votes_for_teacher": 1,
+    "votes_cast": 1,
+    "signals": [
+      {
+        "name": "talk_time",
+        "unit": "s",
+        "teacher": 3131.64,
+        "student": 4.0,
+        "agrees": true
+      },
+      {
+        "name": "pitch",
+        "unit": "Hz",
+        "teacher": 280.66,
+        "student": 232.86,
+        "agrees": null
+      },
+      {
+        "name": "voice_consistency",
+        "unit": "dispersion",
+        "teacher": 0.51,
+        "student": 0.23,
+        "agrees": null
+      }
+    ],
+    "note": "the smaller cluster has only 2 segment(s), too few for pitch or consistency to judge; talk time decided",
+    "degenerate_overlay": {
+      "minority_share": 0.0013,
+      "segments_relabelled_student": 38,
+      "by_short_duration_only": 37,
+      "by_high_pitch_only": 0,
+      "by_both": 1,
+      "teacher_median_f0_hz": 280.66
+    }
+  }
 }

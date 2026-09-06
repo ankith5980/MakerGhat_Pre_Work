@@ -4,7 +4,7 @@
   "status": "done",
   "language": "hi",
   "duration_s": 2250.5,
-  "diarization_method": "embedding-clustering",
+  "diarization_method": "embedding-clustering+pitch-vote",
   "processing_time_s": 57.4,
   "meta": {
     "activityType": "Shadow Art",
@@ -328,5 +328,32 @@
       "interpretation": "Questions are landing: most draw a student response."
     }
   ],
-  "summary": "In this 38-minute session, the teacher spoke for 63% of the speech time and students for 37%. Students took the floor 8 times, and the conversation switched between teacher and students 12 times. The teacher asked 1 question, of which 1 drew a student response. About 182 s of the session was silent (longest pause 167 s). Teacher-led but balanced: mostly instruction with regular student contributions. Monologue-style: long uninterrupted stretches by one speaker."
+  "summary": "In this 38-minute session, the teacher spoke for 63% of the speech time and students for 37%. Students took the floor 8 times, and the conversation switched between teacher and students 12 times. The teacher asked 1 question, of which 1 drew a student response. About 182 s of the session was silent (longest pause 167 s). Teacher-led but balanced: mostly instruction with regular student contributions. Monologue-style: long uninterrupted stretches by one speaker.",
+  "speaker_evidence": {
+    "votes_for_teacher": 2,
+    "votes_cast": 3,
+    "signals": [
+      {
+        "name": "talk_time",
+        "unit": "s",
+        "teacher": 239.8,
+        "student": 142.39,
+        "agrees": true
+      },
+      {
+        "name": "pitch",
+        "unit": "Hz",
+        "teacher": 296.37,
+        "student": 244.95,
+        "agrees": false
+      },
+      {
+        "name": "voice_consistency",
+        "unit": "dispersion",
+        "teacher": 0.3,
+        "student": 0.46,
+        "agrees": true
+      }
+    ]
+  }
 }

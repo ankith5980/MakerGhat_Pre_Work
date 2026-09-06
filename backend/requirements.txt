@@ -5,6 +5,7 @@ faster-whisper
 speechbrain
 torch
 torchaudio
+torchcrepe
 scikit-learn
 soundfile
 numpy

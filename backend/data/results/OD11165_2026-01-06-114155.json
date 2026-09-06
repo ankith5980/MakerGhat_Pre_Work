@@ -4,7 +4,7 @@
   "status": "done",
   "language": "hi",
   "duration_s": 3859.7,
-  "diarization_method": "embedding-clustering+heuristic",
+  "diarization_method": "embedding-clustering+pitch-vote+overlay",
   "processing_time_s": 612.6,
   "meta": {
     "activityType": "Trumpet",
@@ -278,7 +278,7 @@
     {
       "start": 470.42,
       "end": 480.67,
-      "speaker": "teacher",
+      "speaker": "student",
       "text": "ये भी कोब्टीचन है, सब को मैं ती मिनिड तच़ुमगि, भल्द जलवाग्य है.",
       "is_question": false
     },
@@ -635,7 +635,7 @@
     {
       "start": 1253.36,
       "end": 1257.56,
-      "speaker": "teacher",
+      "speaker": "student",
       "text": "पर तोम लोग इसको दारेट जोडोँगे",
       "is_question": false
     },
@@ -782,14 +782,14 @@
     {
       "start": 1332.05,
       "end": 1335.39,
-      "speaker": "teacher",
+      "speaker": "student",
       "text": "आम पीट्चल",
       "is_question": false
     },
     {
       "start": 1335.39,
       "end": 1345.84,
-      "speaker": "teacher",
+      "speaker": "student",
       "text": "आसे रख भी दी एड़",
       "is_question": false
     },
@@ -803,7 +803,7 @@
     {
       "start": 1349.12,
       "end": 1353.71,
-      "speaker": "teacher",
+      "speaker": "student",
       "text": "वोड",
       "is_question": false
     },
@@ -1209,7 +1209,7 @@
     {
       "start": 1836.1,
       "end": 1844.11,
-      "speaker": "teacher",
+      "speaker": "student",
       "text": "अब एक काम करो एग गरुब से मेरे को ये गुरूप का ए कनाम चेए",
       "is_question": false
     },
@@ -1251,7 +1251,7 @@
     {
       "start": 1910.26,
       "end": 1977.04,
-      "speaker": "teacher",
+      "speaker": "student",
       "text": "आपो द़र इभवान को मिलके एक दर्खनें",
       "is_question": false
     },
@@ -1678,7 +1678,7 @@
     {
       "start": 2256.76,
       "end": 2259.48,
-      "speaker": "teacher",
+      "speaker": "student",
       "text": "तुभ भीर खारिज करतूंँगे मैं आंप को.",
       "is_question": false
     },
@@ -2847,7 +2847,7 @@
     {
       "start": 2913.33,
       "end": 2917.34,
-      "speaker": "teacher",
+      "speaker": "student",
       "text": "लोग कर सब मादे ते भि दार",
       "is_question": false
     },
@@ -2917,9 +2917,9 @@
     {
       "start": 2938.02,
       "end": 2949.91,
-      "speaker": "teacher",
+      "speaker": "student",
       "text": "अंचा बच्छे कैसे हो",
-      "is_question": true
+      "is_question": false
     },
     {
       "start": 2949.91,
@@ -3001,7 +3001,7 @@
     {
       "start": 2968.17,
       "end": 3013.92,
-      "speaker": "teacher",
+      "speaker": "student",
       "text": "अगर तो बज़ाद बाट बना बीजाग तुछ़़।",
       "is_question": false
     },
@@ -3064,7 +3064,7 @@
     {
       "start": 3077.54,
       "end": 3109.53,
-      "speaker": "teacher",
+      "speaker": "student",
       "text": "तीज़, आयी शी मैद दी",
       "is_question": false
     },
@@ -3092,7 +3092,7 @@
     {
       "start": 3118.09,
       "end": 3138.71,
-      "speaker": "teacher",
+      "speaker": "student",
       "text": "तेके",
       "is_question": false
     },
@@ -3463,7 +3463,7 @@
     {
       "start": 3401.9,
       "end": 3410.4,
-      "speaker": "teacher",
+      "speaker": "student",
       "text": "तिस थक इंटि।, सपका सक्झिन्रीु मैः",
       "is_question": false
     },
@@ -3498,7 +3498,7 @@
     {
       "start": 3436.06,
       "end": 3441.92,
-      "speaker": "teacher",
+      "speaker": "student",
       "text": "यहाँ दूस्रा अप्सिन दिक्रटा है कुम सब को",
       "is_question": false
     },
@@ -3869,7 +3869,7 @@
     {
       "start": 3631.84,
       "end": 3634.38,
-      "speaker": "teacher",
+      "speaker": "student",
       "text": "नहीं ने नै",
       "is_question": false
     },
@@ -4107,7 +4107,7 @@
     {
       "start": 3763.34,
       "end": 3772.19,
-      "speaker": "teacher",
+      "speaker": "student",
       "text": "वैसे सम लेग ना",
       "is_question": false
     },
@@ -4149,7 +4149,7 @@
     {
       "start": 3785.6,
       "end": 3788.6,
-      "speaker": "teacher",
+      "speaker": "student",
       "text": "बेदा मैं कोबलाक लगन लें जेगा",
       "is_question": false
     },
@@ -4282,22 +4282,22 @@
     {
       "start": 3847.86,
       "end": 3852.86,
-      "speaker": "teacher",
+      "speaker": "student",
       "text": "तीदशी रेगी तिदेयो",
       "is_question": false
     }
   ],
   "stats": {
     "duration_s": 3859.7,
-    "teacher_talk_s": 2357.7,
-    "student_talk_s": 527.6,
-    "teacher_talk_pct": 81.7,
-    "student_talk_pct": 18.3,
+    "teacher_talk_s": 2099.3,
+    "student_talk_s": 786.0,
+    "teacher_talk_pct": 72.8,
+    "student_talk_pct": 27.2,
     "teacher_turns": 140,
-    "student_turns": 136,
-    "teacher_questions": 32,
+    "student_turns": 138,
+    "teacher_questions": 31,
     "student_responses": 19,
-    "speaker_switches": 269,
+    "speaker_switches": 270,
     "silence_total_s": 944.1,
     "longest_silence_s": 472.6
   },
@@ -4305,16 +4305,16 @@
     {
       "key": "teacher_dominance",
       "name": "Teacher Dominance Ratio",
-      "value": 0.82,
-      "display": "82%",
+      "value": 0.73,
+      "display": "73%",
       "formula": "teacher talk time ÷ total speech time",
       "explanation": "Share of all speech that comes from the teacher.",
-      "interpretation": "Lecture-heavy: the teacher dominates the airtime; students get little room to speak."
+      "interpretation": "Teacher-led but balanced: mostly instruction with regular student contributions."
     },
     {
       "key": "student_participation",
       "name": "Student Participation Indicator",
-      "value": 2.11,
+      "value": 2.15,
       "display": "2.1 turns/min",
       "formula": "student speaking turns ÷ session minutes",
       "explanation": "How frequently students take the floor, normalized by session length.",
@@ -4323,7 +4323,7 @@
     {
       "key": "interaction_density",
       "name": "Interaction Density",
-      "value": 4.18,
+      "value": 4.2,
       "display": "4.2 switches/min",
       "formula": "teacher↔student speaker switches ÷ session minutes",
       "explanation": "How often the conversation passes between teacher and students — a proxy for back-and-forth dialogue.",
@@ -4332,12 +4332,48 @@
     {
       "key": "question_response_rate",
       "name": "Question–Response Rate",
-      "value": 0.59,
-      "display": "59%",
+      "value": 0.61,
+      "display": "61%",
       "formula": "teacher questions answered by a student within 5 s ÷ total teacher questions",
       "explanation": "How many of the teacher's questions actually draw a student response.",
-      "interpretation": "Mixed uptake: some questions go unanswered."
+      "interpretation": "Questions are landing: most draw a student response."
     }
   ],
-  "summary": "In this 64-minute session, the teacher spoke for 82% of the speech time and students for 18%. Students took the floor 136 times, and the conversation switched between teacher and students 269 times. The teacher asked 32 questions, of which 19 drew a student response. About 944 s of the session was silent (longest pause 473 s). Lecture-heavy: the teacher dominates the airtime; students get little room to speak. Dialogic classroom: frequent back-and-forth exchange."
+  "summary": "In this 64-minute session, the teacher spoke for 73% of the speech time and students for 27%. Students took the floor 138 times, and the conversation switched between teacher and students 270 times. The teacher asked 31 questions, of which 19 drew a student response. About 944 s of the session was silent (longest pause 473 s). Teacher-led but balanced: mostly instruction with regular student contributions. Dialogic classroom: frequent back-and-forth exchange.",
+  "speaker_evidence": {
+    "votes_for_teacher": 1,
+    "votes_cast": 1,
+    "signals": [
+      {
+        "name": "talk_time",
+        "unit": "s",
+        "teacher": 2883.28,
+        "student": 2.0,
+        "agrees": true
+      },
+      {
+        "name": "pitch",
+        "unit": "Hz",
+        "teacher": 294.12,
+        "student": 237.09,
+        "agrees": null
+      },
+      {
+        "name": "voice_consistency",
+        "unit": "dispersion",
+        "teacher": 0.51,
+        "student": 0.42,
+        "agrees": null
+      }
+    ],
+    "note": "the smaller cluster has only 1 segment(s), too few for pitch or consistency to judge; talk time decided",
+    "degenerate_overlay": {
+      "minority_share": 0.0007,
+      "segments_relabelled_student": 329,
+      "by_short_duration_only": 290,
+      "by_high_pitch_only": 19,
+      "by_both": 20,
+      "teacher_median_f0_hz": 294.12
+    }
+  }
 }

@@ -4,6 +4,7 @@ import Link from "next/link";
 import { use, useEffect, useState } from "react";
 import { MetricCard } from "@/components/MetricCard";
 import { SessionTimeline } from "@/components/SessionTimeline";
+import { SpeakerEvidencePanel } from "@/components/SpeakerEvidence";
 import { StatTile } from "@/components/StatTile";
 import { TranscriptView } from "@/components/TranscriptView";
 import {
@@ -136,6 +137,10 @@ export default function SessionPage({
 
       {transcript && session.duration_s != null && (
         <SessionTimeline lines={transcript} duration={session.duration_s} />
+      )}
+
+      {session.speaker_evidence && (
+        <SpeakerEvidencePanel evidence={session.speaker_evidence} />
       )}
 
       {metrics && (

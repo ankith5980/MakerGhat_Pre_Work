@@ -4,7 +4,7 @@
   "status": "done",
   "language": "hi",
   "duration_s": 3611.9,
-  "diarization_method": "embedding-clustering+heuristic",
+  "diarization_method": "embedding-clustering+pitch-vote+overlay",
   "processing_time_s": 241.6,
   "meta": {
     "activityType": "Wind Anemometer",
@@ -47,7 +47,7 @@
     {
       "start": 233.55,
       "end": 236.8,
-      "speaker": "teacher",
+      "speaker": "student",
       "text": "अरे ज़रोद में है",
       "is_question": false
     },
@@ -222,7 +222,7 @@
     {
       "start": 567.46,
       "end": 572.98,
-      "speaker": "teacher",
+      "speaker": "student",
       "text": "त रैक बूलेंजा",
       "is_question": false
     },
@@ -348,10 +348,10 @@
   ],
   "stats": {
     "duration_s": 3611.9,
-    "teacher_talk_s": 2246.5,
-    "student_talk_s": 32.6,
-    "teacher_talk_pct": 98.6,
-    "student_talk_pct": 1.4,
+    "teacher_talk_s": 2237.7,
+    "student_talk_s": 41.3,
+    "teacher_talk_pct": 98.2,
+    "student_talk_pct": 1.8,
     "teacher_turns": 11,
     "student_turns": 10,
     "teacher_questions": 1,
@@ -364,8 +364,8 @@
     {
       "key": "teacher_dominance",
       "name": "Teacher Dominance Ratio",
-      "value": 0.99,
-      "display": "99%",
+      "value": 0.98,
+      "display": "98%",
       "formula": "teacher talk time ÷ total speech time",
       "explanation": "Share of all speech that comes from the teacher.",
       "interpretation": "Lecture-heavy: the teacher dominates the airtime; students get little room to speak."
@@ -398,5 +398,41 @@
       "interpretation": "Questions largely go unanswered — they may be rhetorical or pacing may be too fast."
     }
   ],
-  "summary": "In this 60-minute session, the teacher spoke for 99% of the speech time and students for 1%. Students took the floor 10 times, and the conversation switched between teacher and students 19 times. The teacher asked 1 question, of which 0 drew a student response. About 1249 s of the session was silent (longest pause 1246 s). Lecture-heavy: the teacher dominates the airtime; students get little room to speak. Monologue-style: long uninterrupted stretches by one speaker."
+  "summary": "In this 60-minute session, the teacher spoke for 98% of the speech time and students for 2%. Students took the floor 10 times, and the conversation switched between teacher and students 19 times. The teacher asked 1 question, of which 0 drew a student response. About 1249 s of the session was silent (longest pause 1246 s). Lecture-heavy: the teacher dominates the airtime; students get little room to speak. Monologue-style: long uninterrupted stretches by one speaker.",
+  "speaker_evidence": {
+    "votes_for_teacher": 1,
+    "votes_cast": 1,
+    "signals": [
+      {
+        "name": "talk_time",
+        "unit": "s",
+        "teacher": 2279.06,
+        "student": 0.0,
+        "agrees": true
+      },
+      {
+        "name": "pitch",
+        "unit": "Hz",
+        "teacher": 256.84,
+        "student": null,
+        "agrees": null
+      },
+      {
+        "name": "voice_consistency",
+        "unit": "dispersion",
+        "teacher": 0.5,
+        "student": null,
+        "agrees": null
+      }
+    ],
+    "note": "the smaller cluster has only 0 segment(s), too few for pitch or consistency to judge; talk time decided",
+    "degenerate_overlay": {
+      "minority_share": 0.0,
+      "segments_relabelled_student": 21,
+      "by_short_duration_only": 18,
+      "by_high_pitch_only": 2,
+      "by_both": 1,
+      "teacher_median_f0_hz": 256.84
+    }
+  }
 }

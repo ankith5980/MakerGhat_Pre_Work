@@ -52,8 +52,32 @@ export interface SessionSummary {
   error?: string;
 }
 
+export interface SpeakerSignal {
+  name: "talk_time" | "pitch" | "voice_consistency";
+  unit: string;
+  teacher: number | null;
+  student: number | null;
+  agrees: boolean | null;
+}
+
+export interface SpeakerEvidence {
+  votes_for_teacher: number;
+  votes_cast: number;
+  signals: SpeakerSignal[];
+  note?: string;
+  degenerate_overlay?: {
+    minority_share: number;
+    segments_relabelled_student: number;
+    by_short_duration_only: number;
+    by_high_pitch_only: number;
+    by_both: number;
+    teacher_median_f0_hz: number | null;
+  };
+}
+
 export interface SessionDetail extends SessionSummary {
   diarization_method?: string;
+  speaker_evidence?: SpeakerEvidence | null;
   processing_time_s?: number;
   transcript?: TranscriptLine[];
   metrics?: Metric[];

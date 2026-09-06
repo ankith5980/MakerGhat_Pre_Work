@@ -15,7 +15,7 @@ RESULTS_DIR.mkdir(parents=True, exist_ok=True)
 def process_audio(audio_path: str, session_id: str, meta: dict | None = None) -> dict:
     started = time.time()
     segments, language, duration = transcribe(audio_path)
-    labels, method = label_speakers(audio_path, segments)
+    labels, method, evidence = label_speakers(audio_path, segments)
     analysis = analyze(segments, labels, duration)
     result = {
         "id": session_id,
@@ -24,6 +24,7 @@ def process_audio(audio_path: str, session_id: str, meta: dict | None = None) ->
         "language": language,
         "duration_s": round(duration, 1),
         "diarization_method": method,
+        "speaker_evidence": evidence,
         "processing_time_s": round(time.time() - started, 1),
         "meta": meta or {},
         **analysis,
