@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { UploadCard } from "@/components/UploadCard";
+import { IS_STATIC, fetchSessions } from "@/lib/api";
 import {
   formatDuration,
   languageName,
@@ -16,14 +17,13 @@ export default function Dashboard() {
 
   const refresh = useCallback(async () => {
     try {
-      const res = await fetch("/api/sessions");
-      if (!res.ok) throw new Error(`API returned ${res.status}`);
-      const data = await res.json();
-      setSessions(data.sessions);
+      setSessions(await fetchSessions());
       setError(null);
     } catch {
       setError(
-        "Could not reach the analysis backend. Start it with: uvicorn app.main:app --port 8000 (from the backend folder)."
+        IS_STATIC
+          ? "Could not load the pre-computed results (public/results/index.json). Run `npm run sync-results` and redeploy."
+          : "Could not reach the analysis backend. Start it with: uvicorn app.main:app --port 8000 (from the backend folder)."
       );
     }
   }, []);
@@ -64,7 +64,7 @@ export default function Dashboard() {
         </p>
       </section>
 
-      <UploadCard onUploaded={refresh} />
+      {IS_STATIC ? <StaticNote /> : <UploadCard onUploaded={refresh} />}
 
       <section>
         <h3 className="mb-3 text-sm font-semibold uppercase tracking-wide text-slate-500">
@@ -143,6 +143,27 @@ function SessionCard({ session: s }: { session: SessionSummary }) {
 
   if (s.status !== "done") return card;
   return <Link href={`/session/${s.id}`}>{card}</Link>;
+}
+
+function StaticNote() {
+  return (
+    <section className="rounded-2xl border border-slate-200 bg-white p-5 text-sm text-slate-600 shadow-sm">
+      <p className="font-medium text-slate-800">
+        This hosted demo shows five pre-analyzed classroom recordings.
+      </p>
+      <p className="mt-1">
+        Live analysis — uploading a recording to be transcribed, speaker-labelled
+        and scored — runs fully offline on your own machine.{" "}
+        <a
+          href="https://github.com/ankith5980/MakerGhat_Pre_Work"
+          className="font-medium text-indigo-600 hover:underline"
+        >
+          Clone the repository
+        </a>{" "}
+        and follow the README to try it.
+      </p>
+    </section>
+  );
 }
 
 function Chip({ children }: { children: React.ReactNode }) {

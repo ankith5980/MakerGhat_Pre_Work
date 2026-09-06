@@ -7,6 +7,7 @@ import { SessionTimeline } from "@/components/SessionTimeline";
 import { SpeakerEvidencePanel } from "@/components/SpeakerEvidence";
 import { StatTile } from "@/components/StatTile";
 import { TranscriptView } from "@/components/TranscriptView";
+import { fetchSession } from "@/lib/api";
 import {
   formatDuration,
   languageName,
@@ -26,9 +27,7 @@ export default function SessionPage({
     let cancelled = false;
     async function load() {
       try {
-        const res = await fetch(`/api/sessions/${id}`);
-        if (!res.ok) throw new Error(`API returned ${res.status}`);
-        const data: SessionDetail = await res.json();
+        const data = await fetchSession(id);
         if (cancelled) return;
         setSession(data);
         if (data.status === "processing") setTimeout(load, 4000);

@@ -109,6 +109,25 @@ npm run dev     # http://localhost:3000  (proxies /api/* to the backend)
 The dashboard lists the pre-processed sessions and accepts new uploads; uploads are
 transcribed in a background thread and the UI polls until the analysis is ready.
 
+## Hosting the demo
+
+The frontend chooses its data source at build time:
+
+- **`api`** — the default under `npm run dev`. Talks to the FastAPI backend through the
+  `/api` rewrite.
+- **`static`** — the default for production builds. Reads the pre-computed results committed
+  under `frontend/public/results/`, so the dashboard and every session page work with no
+  backend at all; the upload card becomes a note pointing here. This is what the hosted demo
+  uses.
+
+Override with `NEXT_PUBLIC_DATA_MODE=api|static`, or point a production build at a hosted
+backend with `NEXT_PUBLIC_BACKEND_URL=https://…` (which also selects `api` mode).
+
+**Deploy to Vercel:** import the GitHub repository, set **Root Directory** to `frontend`, and
+deploy. No environment variables are needed. After re-processing audio, run
+`npm run sync-results` inside `frontend/` and commit `public/results/` so the hosted copy
+updates on the next push.
+
 ## Honest limitations (it's an MVP)
 
 - Speaker separation is 2-cluster (teacher vs "any student") — individual students are not
