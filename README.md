@@ -51,7 +51,10 @@ FastAPI serves the results ──► Next.js + Tailwind dashboard
 
 Each metric is returned with its formula, explanation, and a plain-language interpretation band,
 and is rendered on the session page. The session view also draws a **timeline strip** showing who
-holds the floor across the hour — silences and teacher↔student exchanges are visible at a glance.
+holds the floor across the hour — silences and teacher↔student exchanges are visible at a glance —
+and a **"How the teacher was identified" panel** that shows each of the three signals' values for
+the teacher and student clusters, whether each agreed with the outcome or abstained, and, when the
+clustering collapsed, how many student turns were recovered by duration versus by pitch.
 
 ## Results on the provided recordings
 
@@ -74,11 +77,22 @@ teachers — exactly the kind of signal administrators currently have no way to 
 
 ```
 backend/    FastAPI + analysis pipeline (Python 3.11)
-  app/      transcribe.py · diarize.py · analyze.py · pipeline.py · main.py
+  app/transcribe.py       faster-whisper wrapper (Silero VAD, tuned decoding)
+  app/diarize.py          ECAPA embeddings → 2 clusters → three-signal teacher vote (CREPE pitch)
+  app/analyze.py          questions, responses, silence, engagement metrics, summary
+  app/pipeline.py         audio → result JSON
+  app/main.py             FastAPI endpoints (upload, list, detail)
   scripts/preprocess.py   batch-process the provided recordings
-  data/audio/             downloaded classroom recordings (gdown)
-  data/results/           one JSON result per session
+  scripts/relabel.py      re-run speaker labelling + metrics on existing transcripts
+  data/audio/             downloaded classroom recordings (gdown; not committed)
+  data/results/           one JSON result per session (committed)
 frontend/   Next.js (App Router) + Tailwind demo UI
+  app/page.tsx                 dashboard: session cards, upload (or hosted-demo note)
+  app/session/[id]/page.tsx    transcript, timeline, evidence panel, metrics, summary
+  components/                  UploadCard · SessionTimeline · SpeakerEvidence · MetricCard · …
+  lib/api.ts                   data source: FastAPI (dev) or public/results/ (static builds)
+  scripts/sync-results.mjs     copies backend/data/results into public/results/
+  public/results/              committed results the hosted demo serves
 ```
 
 ## Running it
@@ -93,6 +107,9 @@ venv\Scripts\pip install -r requirements.txt --extra-index-url https://download.
 # one-time: download the provided classroom audio + pre-compute results
 venv\Scripts\python -m gdown --folder "https://drive.google.com/drive/folders/1_WNSZFva4XPiRHlKxrhpUkrih5MiPk0D" -O data/audio
 venv\Scripts\python scripts/preprocess.py
+
+# optional: re-run speaker labelling and metrics on existing transcripts without re-transcribing
+venv\Scripts\python scripts/relabel.py
 
 # serve the API
 venv\Scripts\python -m uvicorn app.main:app --port 8000

@@ -12,6 +12,9 @@
                        Per-segment median F0 from the CREPE neural pitch tracker.
      voice consistency the teacher is one voice, the students are many, so the
                        teacher cluster is tighter in embedding space.
+   Pitch and consistency abstain when either cluster has fewer than 3 segments:
+   a one- or two-segment cluster is trivially tight and its pitch is a single
+   noisy reading, so only talk time can judge it.
 
 3. Far-field classroom noise can collapse the clustering (one cluster swallows
    nearly everything). When the minority cluster holds < 3 % of talk time two
