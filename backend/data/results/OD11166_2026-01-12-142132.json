@@ -1,0 +1,332 @@
+{
+  "id": "OD11166_2026-01-12-142132",
+  "filename": "OD11166_2026-01-12-142132.mp3",
+  "status": "done",
+  "language": "hi",
+  "duration_s": 2250.5,
+  "diarization_method": "embedding-clustering",
+  "processing_time_s": 57.4,
+  "meta": {
+    "activityType": "Shadow Art",
+    "teacherId": "OD11166",
+    "totalStudents": 27,
+    "boys": 17,
+    "girls": 10,
+    "timestamp": "2026-01-12 15:20:50",
+    "teacherName": "Sudipto"
+  },
+  "transcript": [
+    {
+      "start": 166.77,
+      "end": 205.79,
+      "speaker": "teacher",
+      "text": "अब आप यह आत बच्छा इपाई आन प्रच़ा है यापना आम आस पन्सिल आये आ आक आरी आला अस आहाँ आंगा परश्टर बन कर तो आ।",
+      "is_question": false
+    },
+    {
+      "start": 205.79,
+      "end": 208.78,
+      "speaker": "student",
+      "text": "आाबी क्या क्षे से देखना",
+      "is_question": false
+    },
+    {
+      "start": 208.78,
+      "end": 210.78,
+      "speaker": "student",
+      "text": "अके",
+      "is_question": false
+    },
+    {
+      "start": 210.78,
+      "end": 213.01,
+      "speaker": "student",
+      "text": "मैं पच आी ब अना के लिए दिखाता हो अम अंपलोगो",
+      "is_question": false
+    },
+    {
+      "start": 213.01,
+      "end": 215.65,
+      "speaker": "student",
+      "text": "अगर बद्यागा तो आप देखाता होगो",
+      "is_question": false
+    },
+    {
+      "start": 215.65,
+      "end": 217.65,
+      "speaker": "student",
+      "text": "लेकें दरो मत भूथ नहीं आया आहाँ",
+      "is_question": false
+    },
+    {
+      "start": 217.65,
+      "end": 253.86,
+      "speaker": "student",
+      "text": "शापना लाई हो",
+      "is_question": false
+    },
+    {
+      "start": 253.86,
+      "end": 267.76,
+      "speaker": "teacher",
+      "text": "तेसा क्यशक या करोखे",
+      "is_question": false
+    },
+    {
+      "start": 267.76,
+      "end": 292.54,
+      "speaker": "student",
+      "text": "आस पेंसिल है राथवटाएए",
+      "is_question": false
+    },
+    {
+      "start": 292.54,
+      "end": 294.58,
+      "speaker": "student",
+      "text": "शलो एक चीस करूंगे बैश्टू",
+      "is_question": false
+    },
+    {
+      "start": 294.58,
+      "end": 298.3,
+      "speaker": "student",
+      "text": "लिकिन आतोब आको सालिंट रहा है",
+      "is_question": false
+    },
+    {
+      "start": 298.3,
+      "end": 306.58,
+      "speaker": "student",
+      "text": "अगर बचारे के पाज पुजन नहीं है",
+      "is_question": false
+    },
+    {
+      "start": 306.58,
+      "end": 310.69,
+      "speaker": "student",
+      "text": "अंगे बीचचरे गपास प्चन लिए अने अहुंट",
+      "is_question": false
+    },
+    {
+      "start": 310.69,
+      "end": 312.69,
+      "speaker": "student",
+      "text": "अ भी में क्या करूँँं गा",
+      "is_question": false
+    },
+    {
+      "start": 312.69,
+      "end": 314.85,
+      "speaker": "student",
+      "text": "मेरेपच पप्सद तोर्छ निई है",
+      "is_question": false
+    },
+    {
+      "start": 314.85,
+      "end": 316.98,
+      "speaker": "student",
+      "text": "मेने मोभाईल केट पीछे तुर्स आप",
+      "is_question": false
+    },
+    {
+      "start": 316.98,
+      "end": 319.01,
+      "speaker": "student",
+      "text": "इसको मैं जलाउगा",
+      "is_question": false
+    },
+    {
+      "start": 319.01,
+      "end": 321.01,
+      "speaker": "student",
+      "text": "और ज़लाने किबाच",
+      "is_question": false
+    },
+    {
+      "start": 321.01,
+      "end": 323.83,
+      "speaker": "student",
+      "text": "अच्छे से देखो",
+      "is_question": false
+    },
+    {
+      "start": 324.33,
+      "end": 325.33,
+      "speaker": "student",
+      "text": "परच़ाई ताना",
+      "is_question": false
+    },
+    {
+      "start": 325.83,
+      "end": 326.83,
+      "speaker": "teacher",
+      "text": "ने",
+      "is_question": false
+    },
+    {
+      "start": 327.41,
+      "end": 328.75,
+      "speaker": "student",
+      "text": "दिख़ो ये बलाक भोड",
+      "is_question": false
+    },
+    {
+      "start": 340.03,
+      "end": 341.03,
+      "speaker": "student",
+      "text": "अरे चोटा हाथ है",
+      "is_question": false
+    },
+    {
+      "start": 345.0,
+      "end": 346.5,
+      "speaker": "student",
+      "text": "इसकबी हात कर बराग और दोंगा",
+      "is_question": false
+    },
+    {
+      "start": 346.5,
+      "end": 349.5,
+      "speaker": "student",
+      "text": "आप पिछटे जाए प्चे घाउ पुछ ज़़ पाविलो पीछिट़",
+      "is_question": false
+    },
+    {
+      "start": 349.5,
+      "end": 353.36,
+      "speaker": "teacher",
+      "text": "आरे, बबरग हा थ होगे आत",
+      "is_question": false
+    },
+    {
+      "start": 353.36,
+      "end": 380.33,
+      "speaker": "teacher",
+      "text": "तोब लोए किया दखार?",
+      "is_question": true
+    },
+    {
+      "start": 380.33,
+      "end": 381.33,
+      "speaker": "student",
+      "text": "ये क्या ता?",
+      "is_question": false
+    },
+    {
+      "start": 381.33,
+      "end": 477.3,
+      "speaker": "teacher",
+      "text": "फिर से जलाउंगा टोर्च",
+      "is_question": false
+    },
+    {
+      "start": 477.3,
+      "end": 479.92,
+      "speaker": "student",
+      "text": "आप लोग पीछे देखोँगे",
+      "is_question": false
+    },
+    {
+      "start": 479.92,
+      "end": 481.04,
+      "speaker": "student",
+      "text": "चिक है",
+      "is_question": false
+    },
+    {
+      "start": 481.04,
+      "end": 482.32,
+      "speaker": "student",
+      "text": "पिछ दोखगग",
+      "is_question": false
+    },
+    {
+      "start": 482.32,
+      "end": 509.84,
+      "speaker": "teacher",
+      "text": "पन्षी बना सकता आ आलोओ",
+      "is_question": false
+    },
+    {
+      "start": 509.84,
+      "end": 528.2,
+      "speaker": "student",
+      "text": "यै क््यया है",
+      "is_question": false
+    },
+    {
+      "start": 528.2,
+      "end": 532.63,
+      "speaker": "student",
+      "text": "अक्के बेरे गुड डोएग",
+      "is_question": false
+    },
+    {
+      "start": 532.63,
+      "end": 534.23,
+      "speaker": "student",
+      "text": "बाट कोई ब�नासकतः",
+      "is_question": false
+    },
+    {
+      "start": 534.23,
+      "end": 565.79,
+      "speaker": "teacher",
+      "text": "सब लेव सप कुत ब बलासचते हो",
+      "is_question": false
+    }
+  ],
+  "stats": {
+    "duration_s": 2250.5,
+    "teacher_talk_s": 239.8,
+    "student_talk_s": 142.4,
+    "teacher_talk_pct": 62.7,
+    "student_talk_pct": 37.3,
+    "teacher_turns": 7,
+    "student_turns": 8,
+    "teacher_questions": 1,
+    "student_responses": 1,
+    "speaker_switches": 12,
+    "silence_total_s": 182.0,
+    "longest_silence_s": 166.8
+  },
+  "metrics": [
+    {
+      "key": "teacher_dominance",
+      "name": "Teacher Dominance Ratio",
+      "value": 0.63,
+      "display": "63%",
+      "formula": "teacher talk time ÷ total speech time",
+      "explanation": "Share of all speech that comes from the teacher.",
+      "interpretation": "Teacher-led but balanced: mostly instruction with regular student contributions."
+    },
+    {
+      "key": "student_participation",
+      "name": "Student Participation Indicator",
+      "value": 0.21,
+      "display": "0.2 turns/min",
+      "formula": "student speaking turns ÷ session minutes",
+      "explanation": "How frequently students take the floor, normalized by session length.",
+      "interpretation": "Low participation: students rarely speak."
+    },
+    {
+      "key": "interaction_density",
+      "name": "Interaction Density",
+      "value": 0.32,
+      "display": "0.3 switches/min",
+      "formula": "teacher↔student speaker switches ÷ session minutes",
+      "explanation": "How often the conversation passes between teacher and students — a proxy for back-and-forth dialogue.",
+      "interpretation": "Monologue-style: long uninterrupted stretches by one speaker."
+    },
+    {
+      "key": "question_response_rate",
+      "name": "Question–Response Rate",
+      "value": 1.0,
+      "display": "100%",
+      "formula": "teacher questions answered by a student within 5 s ÷ total teacher questions",
+      "explanation": "How many of the teacher's questions actually draw a student response.",
+      "interpretation": "Questions are landing: most draw a student response."
+    }
+  ],
+  "summary": "In this 38-minute session, the teacher spoke for 63% of the speech time and students for 37%. Students took the floor 8 times, and the conversation switched between teacher and students 12 times. The teacher asked 1 question, of which 1 drew a student response. About 182 s of the session was silent (longest pause 167 s). Teacher-led but balanced: mostly instruction with regular student contributions. Monologue-style: long uninterrupted stretches by one speaker."
+}

@@ -1,0 +1,1319 @@
+{
+  "id": "OD11163_2025-12-23-121239",
+  "filename": "OD11163_2025-12-23-121239.mp3",
+  "status": "done",
+  "language": "hi",
+  "duration_s": 4062.2,
+  "diarization_method": "embedding-clustering+heuristic",
+  "processing_time_s": 390.6,
+  "meta": {
+    "activityType": "Trumpet",
+    "teacherId": "OD11163",
+    "totalStudents": 22,
+    "boys": 15,
+    "girls": 7,
+    "timestamp": "2025-12-23 13:21:25",
+    "teacherName": "Santana"
+  },
+  "transcript": [
+    {
+      "start": 2.42,
+      "end": 8.86,
+      "speaker": "teacher",
+      "text": "बद्मगर बादे बन प्रद़ाश में पहले आप पो बताना हैं",
+      "is_question": false
+    },
+    {
+      "start": 8.86,
+      "end": 11.86,
+      "speaker": "teacher",
+      "text": "विछली त्राष मेख याप क्याखती येपे",
+      "is_question": true
+    },
+    {
+      "start": 11.86,
+      "end": 16.86,
+      "speaker": "teacher",
+      "text": "और उसे भाज आतम ब बहाँगे अगी जागग आस मे यप़गाडी खेग.",
+      "is_question": false
+    },
+    {
+      "start": 16.86,
+      "end": 19.3,
+      "speaker": "student",
+      "text": "अ वाच नहीं आरेए.",
+      "is_question": false
+    },
+    {
+      "start": 19.3,
+      "end": 23.98,
+      "speaker": "teacher",
+      "text": "मगलप, आको आमके सक सेसर लेडिए,",
+      "is_question": false
+    },
+    {
+      "start": 23.98,
+      "end": 32.98,
+      "speaker": "teacher",
+      "text": "अगर बद्याग नहीं बाद़ा नावाज पीट़े ने तो बहुत नगी न प्रद नीगगे बीदे पाशाँ पर निगाख नोग कर देखाच नुद.",
+      "is_question": false
+    },
+    {
+      "start": 32.98,
+      "end": 38.98,
+      "speaker": "teacher",
+      "text": "तीचा दिजा पुस्पूचुम्मी यह पिटिचर के साथ पहने लिए पटीजर पेटा़ न है तुर भी बताना है.",
+      "is_question": false
+    },
+    {
+      "start": 38.98,
+      "end": 90.67,
+      "speaker": "teacher",
+      "text": "अद्या बदिख अस्वाज तेज़ बोलना है, ताकि मेरे कान बागाद, अर्द खान कार, यह खेख हैं, पहले पिछले क्यष में आप याप है ये आन आतेच किसी को, आम नाय खिल, उपने कचरो से लिए तुछ, और वोत दिस को प्रदष्स के अम पाटपोर, क्चाडबोर �",
+      "is_question": false
+    },
+    {
+      "start": 90.67,
+      "end": 102.73,
+      "speaker": "teacher",
+      "text": "अपने बच्ट्चाँ तो बागा तुब आप प्र साथ्गिट के शिष्विश्डिम आता पहले नाद.",
+      "is_question": false
+    },
+    {
+      "start": 102.73,
+      "end": 104.89,
+      "speaker": "student",
+      "text": "अर्द शाचिद क्या मैं?",
+      "is_question": false
+    },
+    {
+      "start": 104.89,
+      "end": 106.89,
+      "speaker": "student",
+      "text": "अन पर सब क्षाटिड का?",
+      "is_question": false
+    },
+    {
+      "start": 106.89,
+      "end": 118.74,
+      "speaker": "teacher",
+      "text": "अं बहुत आन बुर श्यच याज बोग़ा कि लिए पुसाउट ये आम पाड़े किई ने.",
+      "is_question": false
+    },
+    {
+      "start": 161.83,
+      "end": 167.93,
+      "speaker": "teacher",
+      "text": "अगर तो आप दोग़ाँ लिए प्रद़े लेए क्या जोल से ज़ोल्चाए",
+      "is_question": true
+    },
+    {
+      "start": 167.93,
+      "end": 172.93,
+      "speaker": "teacher",
+      "text": "वो बजद जेँगे वेगागी विख़ग लीए में",
+      "is_question": false
+    },
+    {
+      "start": 172.93,
+      "end": 176.93,
+      "speaker": "teacher",
+      "text": "जैगि वीग क्ष्ट्बाद के आत बात लगते रहा है",
+      "is_question": false
+    },
+    {
+      "start": 176.93,
+      "end": 181.02,
+      "speaker": "teacher",
+      "text": "वह देखाउगो वर दिश्वाज वार लोच्छाई वगुए",
+      "is_question": false
+    },
+    {
+      "start": 181.02,
+      "end": 186.02,
+      "speaker": "teacher",
+      "text": "अगर दिए बच्छ़िज़ी भैसे देना है",
+      "is_question": false
+    },
+    {
+      "start": 186.02,
+      "end": 190.82,
+      "speaker": "teacher",
+      "text": "और जब अ दईने वक जो़ से बताना",
+      "is_question": false
+    },
+    {
+      "start": 190.82,
+      "end": 201.38,
+      "speaker": "teacher",
+      "text": "कैसी ब दानगा हा एक लेकवाँ इस प्चीजे है",
+      "is_question": false
+    },
+    {
+      "start": 201.38,
+      "end": 203.38,
+      "speaker": "student",
+      "text": "ये मेट्टीर्स है ना",
+      "is_question": false
+    },
+    {
+      "start": 203.38,
+      "end": 208.78,
+      "speaker": "teacher",
+      "text": "तो आपको जागता या जैग़ा आता",
+      "is_question": false
+    },
+    {
+      "start": 208.78,
+      "end": 217.09,
+      "speaker": "teacher",
+      "text": "उस मेंटिर्याउस को यह पर च्यजा अना",
+      "is_question": false
+    },
+    {
+      "start": 217.09,
+      "end": 240.05,
+      "speaker": "teacher",
+      "text": "अप दो थो बग़ लग लिए था थे लेग कर तो तुद जाएगा ता वोग समाल की ल्गत्टी तेद करते थी आप को लोख लाग.",
+      "is_question": false
+    },
+    {
+      "start": 240.05,
+      "end": 255.0,
+      "speaker": "teacher",
+      "text": "अमना खल ठैक्चिबिटि ओता है ग्रोंप्ष्विदि.",
+      "is_question": false
+    },
+    {
+      "start": 255.0,
+      "end": 259.0,
+      "speaker": "teacher",
+      "text": "तो आप लड़्टे अल ल्ड्द्या एक साद ब्रोब बनावें",
+      "is_question": false
+    },
+    {
+      "start": 259.0,
+      "end": 265.0,
+      "speaker": "teacher",
+      "text": "अखर भर बुप्रे एँ लाडके याग तु डो लल्ग्धे आ बो बल बब़़ा और जर देखाएं",
+      "is_question": false
+    },
+    {
+      "start": 265.0,
+      "end": 268.0,
+      "speaker": "teacher",
+      "text": "अक आक तو एंगा काम काना आते लंट्चे औलख सा कम परेग़ आूँँ।",
+      "is_question": false
+    },
+    {
+      "start": 268.0,
+      "end": 270.0,
+      "speaker": "student",
+      "text": "अगर तीट की अलक सा कापपरेगा",
+      "is_question": false
+    },
+    {
+      "start": 270.0,
+      "end": 272.0,
+      "speaker": "student",
+      "text": "असा हमारी से सुच्छा नहीं अता है",
+      "is_question": false
+    },
+    {
+      "start": 272.0,
+      "end": 274.0,
+      "speaker": "student",
+      "text": "एक सब में जुल के कामपारे लेँग़ा",
+      "is_question": false
+    },
+    {
+      "start": 274.0,
+      "end": 276.0,
+      "speaker": "student",
+      "text": "और खर किसी का लिस्प लागी",
+      "is_question": false
+    },
+    {
+      "start": 276.0,
+      "end": 278.0,
+      "speaker": "student",
+      "text": "समान बरावर लगेखा",
+      "is_question": false
+    },
+    {
+      "start": 278.0,
+      "end": 280.58,
+      "speaker": "teacher",
+      "text": "प्यर्",
+      "is_question": false
+    },
+    {
+      "start": 280.58,
+      "end": 282.58,
+      "speaker": "student",
+      "text": "अंगिजा की कि दिक्कत तो नी होगना",
+      "is_question": false
+    },
+    {
+      "start": 282.58,
+      "end": 284.58,
+      "speaker": "student",
+      "text": "अरी देपने हो गने ना",
+      "is_question": false
+    },
+    {
+      "start": 284.58,
+      "end": 315.18,
+      "speaker": "teacher",
+      "text": "अजो दो लोग ना अक नहीं कामपर रोँ ने वुप नी कांपार नोई वोपने नुत नैं असा न निए वागाँ कि अरगे अंगी अत देखाश मैं, नग़ भाई की आप़ाए की कि कैसे बुक खोड़ना आता, अन अम दुर बी उपल शोट दर की, आक तो कै से भी गुम बन",
+      "is_question": true
+    },
+    {
+      "start": 315.18,
+      "end": 326.34,
+      "speaker": "teacher",
+      "text": "बाइस लोग भूँ, तो चार ब्रुब बनेगा, रग में पाज लुक लगगेखा,",
+      "is_question": false
+    },
+    {
+      "start": 326.34,
+      "end": 332.63,
+      "speaker": "teacher",
+      "text": "तु बरूक मे एक एख यच तर रहाग है, भी आख, थिना बूर पने गा?",
+      "is_question": true
+    },
+    {
+      "start": 332.63,
+      "end": 341.66,
+      "speaker": "teacher",
+      "text": "चव़, च्वाँएग, छाए जुर भ़द्गता, हीक आं, और दूस मे,",
+      "is_question": false
+    },
+    {
+      "start": 341.66,
+      "end": 349.54,
+      "speaker": "teacher",
+      "text": "अगर दो लड़की हो ना ज़र्वी हैं",
+      "is_question": false
+    },
+    {
+      "start": 349.54,
+      "end": 377.78,
+      "speaker": "teacher",
+      "text": "एक प्रुप से लाड़्ो के साज बना है, असा नहीं होगा",
+      "is_question": false
+    },
+    {
+      "start": 377.78,
+      "end": 387.11,
+      "speaker": "teacher",
+      "text": "अन खला मचाना तोर पोर का लिए",
+      "is_question": false
+    },
+    {
+      "start": 387.11,
+      "end": 392.0,
+      "speaker": "teacher",
+      "text": "अमारा वो क्या बल गया",
+      "is_question": true
+    },
+    {
+      "start": 392.0,
+      "end": 428.81,
+      "speaker": "teacher",
+      "text": "चोची जुं क्भान लेंग, मेट्टीयों सेगे आप तुकाम पहना मैं",
+      "is_question": false
+    },
+    {
+      "start": 428.81,
+      "end": 620.66,
+      "speaker": "teacher",
+      "text": "अगर बद्यागा तो बादे पाटे ना अक नहीं तुब आप बताडाना आता न पदाबना कि असी बहुत नेगे अत बोलेँ प्रदोल अन आन पर देखा दिया पुस बने आ आसी करी मुर्द कैसाँद़ा और वो आरी नई अरीद तरजा बस दो लोग लुम बुल्ग की खा�",
+      "is_question": false
+    },
+    {
+      "start": 620.66,
+      "end": 628.36,
+      "speaker": "teacher",
+      "text": "अबिशन पताओ अस चीजो की तोर्फृडने को लिए आदंगाः",
+      "is_question": false
+    },
+    {
+      "start": 628.36,
+      "end": 633.45,
+      "speaker": "teacher",
+      "text": "दंकाँ अत्चना नहीं है दो रोखो वो मैं जानेको पोली वुत्या",
+      "is_question": false
+    },
+    {
+      "start": 633.45,
+      "end": 636.41,
+      "speaker": "teacher",
+      "text": "जर ज़ानीको कोल लोगी सब ज जना",
+      "is_question": false
+    },
+    {
+      "start": 636.41,
+      "end": 638.41,
+      "speaker": "student",
+      "text": "जीन जंद ज्डानिका एक ना पिडिई",
+      "is_question": false
+    },
+    {
+      "start": 638.41,
+      "end": 644.6,
+      "speaker": "teacher",
+      "text": "विष्टा जो जि क्यआ है",
+      "is_question": false
+    },
+    {
+      "start": 644.6,
+      "end": 646.6,
+      "speaker": "student",
+      "text": "मेरा में येंची जाए कि",
+      "is_question": false
+    },
+    {
+      "start": 646.6,
+      "end": 652.71,
+      "speaker": "teacher",
+      "text": "किट्स आप, कित्स को कै लेई अप भार के लिज करना है,",
+      "is_question": false
+    },
+    {
+      "start": 652.71,
+      "end": 658.1,
+      "speaker": "teacher",
+      "text": "कोड़ को लीग ना, यह ताम दो, फाड दू, पाद द़्ू",
+      "is_question": false
+    },
+    {
+      "start": 658.1,
+      "end": 667.08,
+      "speaker": "teacher",
+      "text": "मराशी न वो पोईपा, की तोद़ फोट ने का लैई क्या ची,",
+      "is_question": true
+    },
+    {
+      "start": 667.08,
+      "end": 671.14,
+      "speaker": "teacher",
+      "text": "इस भ़ सोवन नहीं, सब को, सो अन आते,",
+      "is_question": false
+    },
+    {
+      "start": 671.14,
+      "end": 797.04,
+      "speaker": "teacher",
+      "text": "तर्गिमा मारन में लोग साख मिज्ल्दी काम कर लागी आँप तो क्या अप्ता ये अ दो लिए विश्पेख हो जाए.",
+      "is_question": true
+    },
+    {
+      "start": 797.04,
+      "end": 830.92,
+      "speaker": "teacher",
+      "text": "तु त्रदंद मुझे पतान. क्झा क्हा चीजे चरूटे कुत.",
+      "is_question": false
+    },
+    {
+      "start": 830.92,
+      "end": 837.16,
+      "speaker": "teacher",
+      "text": "कूंसी चिचो का जरुलग पद्तः? साक्टी पनाबे किली.",
+      "is_question": false
+    },
+    {
+      "start": 837.16,
+      "end": 900.4,
+      "speaker": "teacher",
+      "text": "अगर बात्रीं और नील नागी तो आप याप",
+      "is_question": false
+    },
+    {
+      "start": 900.4,
+      "end": 904.4,
+      "speaker": "teacher",
+      "text": "येख परीबाख है, खम्प्लिट ख़ब खाए, गम्लीट़ासा है",
+      "is_question": false
+    },
+    {
+      "start": 904.4,
+      "end": 908.4,
+      "speaker": "teacher",
+      "text": "जिस से एक एनरजी सूव्से लेपिप़ों होग़, पिर से",
+      "is_question": false
+    },
+    {
+      "start": 908.4,
+      "end": 911.4,
+      "speaker": "teacher",
+      "text": "यह यग प्रिब़्ेग सुवसे है औग, भीश्मित योड़ है",
+      "is_question": false
+    },
+    {
+      "start": 911.4,
+      "end": 916.4,
+      "speaker": "teacher",
+      "text": "अगर बल बच्च लफते है यह विज अता है, वोगा वेद वीज करते नहीं है",
+      "is_question": false
+    },
+    {
+      "start": 916.4,
+      "end": 921.4,
+      "speaker": "teacher",
+      "text": "वह सार्टेग अक अर्किट अस अहँप या प्लोट साभ्गेट होखा",
+      "is_question": false
+    },
+    {
+      "start": 921.4,
+      "end": 926.4,
+      "speaker": "teacher",
+      "text": "अंप्छ ये अनपा अम अल्ब यी अ पन और चोभी हैं",
+      "is_question": false
+    },
+    {
+      "start": 926.4,
+      "end": 931.91,
+      "speaker": "teacher",
+      "text": "यो भी येट्रोनी अग्प्लिवेंच याग खम्टूनेच है",
+      "is_question": false
+    },
+    {
+      "start": 931.91,
+      "end": 934.03,
+      "speaker": "student",
+      "text": "तो जलेगा यह चले गा",
+      "is_question": false
+    },
+    {
+      "start": 934.03,
+      "end": 936.63,
+      "speaker": "teacher",
+      "text": "अक ख्यान वह दो च़लें ग़ यीभी होगती च्लेया",
+      "is_question": false
+    },
+    {
+      "start": 936.63,
+      "end": 939.43,
+      "speaker": "teacher",
+      "text": "यय फिर लाइड़़ कर ज़ेखा प्रीवी ने",
+      "is_question": false
+    },
+    {
+      "start": 939.43,
+      "end": 944.11,
+      "speaker": "teacher",
+      "text": "अर अस विच में होंगगे देः तु वो साथे कुन्सी जाए है",
+      "is_question": false
+    },
+    {
+      "start": 944.11,
+      "end": 946.14,
+      "speaker": "student",
+      "text": "तो तुब आप यहाँ ता तरब़ागाई नहीं तेख्छ़े काज़ने हैं",
+      "is_question": false
+    },
+    {
+      "start": 946.14,
+      "end": 949.07,
+      "speaker": "teacher",
+      "text": "कुन्सी साखिट तिद तब 2 प्रोखाट्ती",
+      "is_question": false
+    },
+    {
+      "start": 949.07,
+      "end": 953.18,
+      "speaker": "teacher",
+      "text": "क्या क्च्टट?",
+      "is_question": true
+    },
+    {
+      "start": 953.18,
+      "end": 959.06,
+      "speaker": "teacher",
+      "text": "तीद है त्दे हें चुत।",
+      "is_question": false
+    },
+    {
+      "start": 959.06,
+      "end": 961.25,
+      "speaker": "student",
+      "text": "लेक्विच चलने कर वस्ठाए वुस",
+      "is_question": false
+    },
+    {
+      "start": 961.25,
+      "end": 974.16,
+      "speaker": "teacher",
+      "text": "तक लिएं साकिठ क्हां है",
+      "is_question": false
+    },
+    {
+      "start": 974.16,
+      "end": 977.7,
+      "speaker": "teacher",
+      "text": "जिस्ते क्से किया होता है",
+      "is_question": false
+    },
+    {
+      "start": 997.98,
+      "end": 1016.27,
+      "speaker": "teacher",
+      "text": "अपने लाज़ प्रज्ट यह तो लग़ में लेग लीग हैं ये एक अलग्ऽ पुट्च बनागा या आप यै.",
+      "is_question": false
+    },
+    {
+      "start": 1016.27,
+      "end": 1023.26,
+      "speaker": "teacher",
+      "text": "उदर देखों ती भी है तिब श्विज बोड बच्ठ ब बंआगे यी अन आत्प्जाँँ.",
+      "is_question": false
+    },
+    {
+      "start": 1023.26,
+      "end": 1030.02,
+      "speaker": "teacher",
+      "text": "लैग मेरे दब है.",
+      "is_question": false
+    },
+    {
+      "start": 1030.02,
+      "end": 1046.09,
+      "speaker": "teacher",
+      "text": "अगर लिए तो तर थी तुब आप यह ता प्रट्टीः तेखाएगे नहीं ती आम अम आत्देः करते लेएन तिद.",
+      "is_question": false
+    },
+    {
+      "start": 1046.09,
+      "end": 1056.05,
+      "speaker": "teacher",
+      "text": "अंगा अस दे पाद़ाजागी बाईद तब क्या बदिट तत बीद कर तहाँ त्राट़ीग तैदीट.",
+      "is_question": true
+    },
+    {
+      "start": 1056.05,
+      "end": 1059.05,
+      "speaker": "teacher",
+      "text": "तो तर्ट्किट के जो प्रपाल होते हैं",
+      "is_question": false
+    },
+    {
+      "start": 1059.05,
+      "end": 1062.05,
+      "speaker": "teacher",
+      "text": "तुछ तेमप्च्छे नहीं आंगेल से वं साथ्पिद को",
+      "is_question": false
+    },
+    {
+      "start": 1062.05,
+      "end": 1071.06,
+      "speaker": "teacher",
+      "text": "तिसको थ्या पुलेंएं लिए लेकिन उसके लीएना",
+      "is_question": false
+    },
+    {
+      "start": 1071.06,
+      "end": 1074.8,
+      "speaker": "teacher",
+      "text": "पहले उंकोजानी सात्गिड जू है",
+      "is_question": false
+    },
+    {
+      "start": 1074.8,
+      "end": 1077.98,
+      "speaker": "teacher",
+      "text": "सार्क्इप कैसे हें",
+      "is_question": true
+    },
+    {
+      "start": 1077.98,
+      "end": 1079.98,
+      "speaker": "student",
+      "text": "जैसिकी उपल साक्कीट है",
+      "is_question": false
+    },
+    {
+      "start": 1079.98,
+      "end": 1103.16,
+      "speaker": "teacher",
+      "text": "अर यह नहीं क्लोज़ साव्टी प्याग ना अप पिसकल अस्था है",
+      "is_question": false
+    },
+    {
+      "start": 1103.16,
+      "end": 1137.55,
+      "speaker": "teacher",
+      "text": "अतर एक बलब है और अन अही देल एख जैसे की एलेक्चिती जार रही हैं",
+      "is_question": false
+    },
+    {
+      "start": 1137.55,
+      "end": 1140.55,
+      "speaker": "teacher",
+      "text": "तीक है, अ अं अorth गडदद हो गया",
+      "is_question": false
+    },
+    {
+      "start": 1140.55,
+      "end": 1143.55,
+      "speaker": "teacher",
+      "text": "अक भलप्तक अम को जणात है",
+      "is_question": false
+    },
+    {
+      "start": 1143.55,
+      "end": 1146.55,
+      "speaker": "teacher",
+      "text": "तो ये एसे जी ची ते चार है है कि जर लही में",
+      "is_question": false
+    },
+    {
+      "start": 1146.55,
+      "end": 1150.51,
+      "speaker": "teacher",
+      "text": "अद्दा अ गे और असको पार कर के बल्प ता पूँस के",
+      "is_question": false
+    },
+    {
+      "start": 1150.51,
+      "end": 1153.77,
+      "speaker": "teacher",
+      "text": "बुल्त जला बागेगा नहीं जब जरा आपाएगग.",
+      "is_question": false
+    },
+    {
+      "start": 1153.77,
+      "end": 1159.95,
+      "speaker": "teacher",
+      "text": "इसके अहँज़ समजो की एजु त़ाजा रही ने ये वलन.",
+      "is_question": false
+    },
+    {
+      "start": 1159.95,
+      "end": 1165.39,
+      "speaker": "teacher",
+      "text": "यह जो तर गए जू सरकि लगिट जेलाने कि या?",
+      "is_question": true
+    },
+    {
+      "start": 1165.39,
+      "end": 1167.39,
+      "speaker": "student",
+      "text": "यै क्या है तूर्ग लाइज.",
+      "is_question": false
+    },
+    {
+      "start": 1167.39,
+      "end": 1170.39,
+      "speaker": "teacher",
+      "text": "तूँगारिट जाने के लिए लेग लाग है",
+      "is_question": false
+    },
+    {
+      "start": 1170.39,
+      "end": 1190.74,
+      "speaker": "teacher",
+      "text": "इसको बीच में बोगोखा अपन्साड",
+      "is_question": false
+    },
+    {
+      "start": 1190.74,
+      "end": 1196.42,
+      "speaker": "teacher",
+      "text": "मगलगजामा बल्ख है",
+      "is_question": false
+    },
+    {
+      "start": 1196.42,
+      "end": 1211.16,
+      "speaker": "teacher",
+      "text": "इलेक्रिसिडी प्रुज शाट्टिख सेखी",
+      "is_question": false
+    },
+    {
+      "start": 1211.16,
+      "end": 1216.05,
+      "speaker": "teacher",
+      "text": "एक उरा रस्चा पुर्ज साच्ठिच सेंगी",
+      "is_question": false
+    },
+    {
+      "start": 1216.05,
+      "end": 1217.05,
+      "speaker": "student",
+      "text": "या मखन है",
+      "is_question": false
+    },
+    {
+      "start": 1217.05,
+      "end": 1220.18,
+      "speaker": "teacher",
+      "text": "इलेकिसी ली च्लोओ कमप्लेट सास्ता",
+      "is_question": false
+    },
+    {
+      "start": 1220.18,
+      "end": 1253.1,
+      "speaker": "teacher",
+      "text": "अगर तो तरब बच्चादा प्रद़ाग ती आप पच़द परड़ी ते आने पाडी ने बाख़े नहीं तुछ ताए तबज़ तैदे अन पनद्दीः पुर्डिएग.",
+      "is_question": false
+    },
+    {
+      "start": 1253.1,
+      "end": 1279.55,
+      "speaker": "teacher",
+      "text": "अगर लेक्टिसिटी लगा लिए तुगें अरीं तो वो असे उग़्ोग जागती ये वापर अ अन शीच अंग कर देखें को नहीं.",
+      "is_question": false
+    },
+    {
+      "start": 1279.55,
+      "end": 1287.83,
+      "speaker": "teacher",
+      "text": "ती शॉएज अहँट ने से ख़ाए कि लीए मेंदा है.",
+      "is_question": false
+    },
+    {
+      "start": 1287.83,
+      "end": 1291.83,
+      "speaker": "teacher",
+      "text": "अगर तो ज़ागा चाए तुब आप दोग़े नाद.",
+      "is_question": false
+    },
+    {
+      "start": 1291.83,
+      "end": 1295.83,
+      "speaker": "teacher",
+      "text": "तर प्र वाजद ताड तीशा पर लगते लेगे वोपर होड़ वर जो़ कर देप।",
+      "is_question": false
+    },
+    {
+      "start": 1295.83,
+      "end": 1304.5,
+      "speaker": "teacher",
+      "text": "तब सुत अंग तेशी त्या होता है क्यों तैद में दाखा वेद्वंदा हाँ.",
+      "is_question": true
+    },
+    {
+      "start": 1304.5,
+      "end": 1308.5,
+      "speaker": "teacher",
+      "text": "अपर और सुच औड कर देखे पर में लाई दिए पुर्देंगे तुसुौच",
+      "is_question": false
+    },
+    {
+      "start": 1308.5,
+      "end": 1311.5,
+      "speaker": "teacher",
+      "text": "अन करने से क्या होगा है, कुन सी साव के द्मटा हा?",
+      "is_question": true
+    },
+    {
+      "start": 1311.5,
+      "end": 1325.4,
+      "speaker": "teacher",
+      "text": "दब कि?",
+      "is_question": true
+    },
+    {
+      "start": 1325.4,
+      "end": 1337.42,
+      "speaker": "teacher",
+      "text": "प्लोज भग्र या बदा पिज़े साही है",
+      "is_question": false
+    },
+    {
+      "start": 1337.42,
+      "end": 1459.04,
+      "speaker": "teacher",
+      "text": "अगर अर तो तुब अत्टाग, अक अन तर प्चाएगा, ताद्बाखाँ, आप दुत्या आत पुुस्पूँँ नहीं आयाई आर आन पच्छ्द नेईई, दो अस द्यद को पाचग नाप्ताट, नदीग कोपनेग़, पर दिए पिज़ाउगे अंगी ते पीची पहुर, �",
+      "is_question": false
+    },
+    {
+      "start": 1459.04,
+      "end": 1462.04,
+      "speaker": "teacher",
+      "text": "अर येप्दिसी दिजाने कर रस्टा प्रीड़ रोगें",
+      "is_question": false
+    },
+    {
+      "start": 1462.04,
+      "end": 1466.14,
+      "speaker": "teacher",
+      "text": "अगर बेद, बहुज बज़ेई कुन्जे पाईग़",
+      "is_question": false
+    },
+    {
+      "start": 1466.14,
+      "end": 1521.99,
+      "speaker": "teacher",
+      "text": "अके अंग़्, अमचोडके माखन पताएग, पुरे रष्चा ख़द",
+      "is_question": false
+    },
+    {
+      "start": 1521.99,
+      "end": 1526.34,
+      "speaker": "teacher",
+      "text": "तेखे, यीप र स्था रह्षच खागा, रिषिट रीज्ठी",
+      "is_question": false
+    },
+    {
+      "start": 1526.34,
+      "end": 1598.39,
+      "speaker": "teacher",
+      "text": "अगर बाट्री क्या बुद्ये बदुर क्रादे क्छाँगा नागे असे इन्जी ताखा अत्रे विज़ का आप पाड़े काई तो अनावापा प्रटे के आत्बी केप, अरवे परदा़ा वी पुत्त बराने कि च्विर्च्ता लोग बना रहा है, वो बत्यो ग़ पच़्द �",
+      "is_question": true
+    },
+    {
+      "start": 1598.39,
+      "end": 1609.8,
+      "speaker": "teacher",
+      "text": "तो बग़ा तुब योग है",
+      "is_question": false
+    },
+    {
+      "start": 1609.8,
+      "end": 1611.8,
+      "speaker": "student",
+      "text": "रोड है, जिसके तरो खर्विज़ जापने",
+      "is_question": false
+    },
+    {
+      "start": 1611.8,
+      "end": 1615.34,
+      "speaker": "teacher",
+      "text": "वाडिस की ते बन दे है?",
+      "is_question": true
+    },
+    {
+      "start": 1615.34,
+      "end": 1619.2,
+      "speaker": "teacher",
+      "text": "जंगर दी हमाझा वो गब क्याश्ट्उन में लेके ही आप आर्र्मे लिए दिखे हाँ",
+      "is_question": true
+    },
+    {
+      "start": 1619.2,
+      "end": 1660.24,
+      "speaker": "teacher",
+      "text": "जवास मप्त्र को ताब",
+      "is_question": false
+    },
+    {
+      "start": 1660.24,
+      "end": 1662.24,
+      "speaker": "student",
+      "text": "ती मोटी बेटेद आंप सो साईले",
+      "is_question": false
+    },
+    {
+      "start": 1662.24,
+      "end": 1884.35,
+      "speaker": "teacher",
+      "text": "अभी आपको अंगा दो चिब पीज़़ तो वाड़ा आनो गो भी क्योंप गज़्ूँँ.",
+      "is_question": true
+    },
+    {
+      "start": 1884.35,
+      "end": 1886.58,
+      "speaker": "student",
+      "text": "अर्वाया पिजिए अक खच्चूं.",
+      "is_question": false
+    },
+    {
+      "start": 1886.58,
+      "end": 1987.39,
+      "speaker": "teacher",
+      "text": "अम अस्प्रचाखित.",
+      "is_question": false
+    },
+    {
+      "start": 1987.39,
+      "end": 2047.18,
+      "speaker": "teacher",
+      "text": "अन्गे तेखाग़ किया कि आतके अतकोगी अ अहुपने.",
+      "is_question": false
+    },
+    {
+      "start": 2047.18,
+      "end": 2049.18,
+      "speaker": "student",
+      "text": "अल्एप किआँ आस्स्तार्स नाव.",
+      "is_question": false
+    },
+    {
+      "start": 2049.18,
+      "end": 2076.29,
+      "speaker": "teacher",
+      "text": "अगर प्रद़ खाए बच्छाँ पाश्टाः ख़ागा परचाई आप ख्चछ आत पूड़े पोडि बतादेगेद.",
+      "is_question": false
+    },
+    {
+      "start": 2076.29,
+      "end": 2188.59,
+      "speaker": "teacher",
+      "text": "ये जो यो पिज़ट खिट़ स्वाट के लिएग यह तो वो ग़ोगोखा.",
+      "is_question": false
+    },
+    {
+      "start": 2188.59,
+      "end": 2282.92,
+      "speaker": "teacher",
+      "text": "या बो ते च्नाच बना खर तू पीच कर थे अ दू.",
+      "is_question": false
+    },
+    {
+      "start": 2282.92,
+      "end": 2453.53,
+      "speaker": "teacher",
+      "text": "अगर तो बवागा तुब बाखाँ ताई पापार्टा टाए एनर्सी आईगे अके ये है यह यिनकन्दिसेद बल यै हैप बर्त यप स्वब्श आम लोग करोँग याब",
+      "is_question": false
+    },
+    {
+      "start": 2453.53,
+      "end": 2473.78,
+      "speaker": "teacher",
+      "text": "तो अपन ताष्पैस अंगा असे लिए पर बतादेखु तब ज़ेजा.",
+      "is_question": false
+    },
+    {
+      "start": 2473.78,
+      "end": 2547.29,
+      "speaker": "teacher",
+      "text": "तुवाडी के वर ने बोस्विकाल भे या बेग।",
+      "is_question": false
+    },
+    {
+      "start": 2547.29,
+      "end": 2561.7,
+      "speaker": "teacher",
+      "text": "तर ती वाल केपाच बदागे भाज आप देकोग़ अक सुत्ब क्या करनाखे तेदॉग लाएप क्षाँँ जराना थेए.",
+      "is_question": true
+    },
+    {
+      "start": 2561.7,
+      "end": 2567.85,
+      "speaker": "teacher",
+      "text": "तो अपने ताब, बआल चीरी सब योंगी तुर्फीटाः नहीं सभी जोगाग़ाँ.",
+      "is_question": false
+    },
+    {
+      "start": 2567.85,
+      "end": 2594.82,
+      "speaker": "teacher",
+      "text": "ती अमबा, अंप दिख तर्याउ देखाएगो तेशादी खानगे ना.",
+      "is_question": false
+    },
+    {
+      "start": 2594.82,
+      "end": 2729.8,
+      "speaker": "teacher",
+      "text": "तब की द़दाईग पर प्रच्छ़ी पुदग, तिए त्रीच पाश्च़ेग.",
+      "is_question": false
+    },
+    {
+      "start": 2729.8,
+      "end": 2801.59,
+      "speaker": "teacher",
+      "text": "अग, तो तीब तागा नहीं, अर्गे तेखावा, आप दिख़ाओ उज़ुम को दीख आंगवव?",
+      "is_question": true
+    },
+    {
+      "start": 2801.59,
+      "end": 2826.99,
+      "speaker": "teacher",
+      "text": "इसी श्विस चाए तिज तरे लिए, मिट्टिद करते है ना?",
+      "is_question": true
+    },
+    {
+      "start": 2826.99,
+      "end": 2948.56,
+      "speaker": "teacher",
+      "text": "अन अस देगी तब, यह न बार्साई दोग तुजो बगिव शोँग है, वोच्परव।",
+      "is_question": false
+    },
+    {
+      "start": 2948.56,
+      "end": 2950.69,
+      "speaker": "student",
+      "text": "अगर दी बादी",
+      "is_question": false
+    },
+    {
+      "start": 2950.69,
+      "end": 2952.69,
+      "speaker": "student",
+      "text": "अंगा दिए",
+      "is_question": false
+    },
+    {
+      "start": 2952.69,
+      "end": 2955.14,
+      "speaker": "student",
+      "text": "बुष्खाली तुर्जा",
+      "is_question": false
+    },
+    {
+      "start": 2955.14,
+      "end": 2957.14,
+      "speaker": "student",
+      "text": "अही भेश्वाग",
+      "is_question": false
+    },
+    {
+      "start": 2957.14,
+      "end": 2959.58,
+      "speaker": "student",
+      "text": "बद्पी उना वंदा पता",
+      "is_question": false
+    },
+    {
+      "start": 2959.58,
+      "end": 2964.02,
+      "speaker": "teacher",
+      "text": "बर बोड़ जाडन",
+      "is_question": false
+    },
+    {
+      "start": 2964.02,
+      "end": 3017.03,
+      "speaker": "teacher",
+      "text": "बन आप आन",
+      "is_question": false
+    },
+    {
+      "start": 3017.03,
+      "end": 3019.7,
+      "speaker": "teacher",
+      "text": "अर्र त्रेष बीद",
+      "is_question": false
+    },
+    {
+      "start": 3019.7,
+      "end": 3021.7,
+      "speaker": "student",
+      "text": "शोट अ ब्रजीश",
+      "is_question": false
+    },
+    {
+      "start": 3021.7,
+      "end": 3023.86,
+      "speaker": "student",
+      "text": "बिसे अत देग",
+      "is_question": false
+    },
+    {
+      "start": 3023.86,
+      "end": 3025.86,
+      "speaker": "student",
+      "text": "अन बहाँ ब बस्टब दोग",
+      "is_question": false
+    },
+    {
+      "start": 3326.09,
+      "end": 3347.04,
+      "speaker": "teacher",
+      "text": "अगर तो बआज़े बनाया देखे से किसाग़ा",
+      "is_question": false
+    },
+    {
+      "start": 3347.04,
+      "end": 3349.04,
+      "speaker": "student",
+      "text": "उसमें दो़ो नीजे जब डाद",
+      "is_question": false
+    },
+    {
+      "start": 3349.04,
+      "end": 3351.04,
+      "speaker": "student",
+      "text": "तिर इसम्य तूबजर ड़़्डा",
+      "is_question": false
+    },
+    {
+      "start": 3351.04,
+      "end": 3353.04,
+      "speaker": "student",
+      "text": "उप्या में",
+      "is_question": false
+    },
+    {
+      "start": 3353.04,
+      "end": 3396.13,
+      "speaker": "teacher",
+      "text": "उक्ष्ट्ब्यों तेछ्छ बाज़्र पेश्वें",
+      "is_question": false
+    },
+    {
+      "start": 3396.13,
+      "end": 3410.03,
+      "speaker": "teacher",
+      "text": "तीछच अरे पोडवाश",
+      "is_question": false
+    },
+    {
+      "start": 3410.03,
+      "end": 3411.03,
+      "speaker": "student",
+      "text": "क्यूं",
+      "is_question": false
+    },
+    {
+      "start": 3411.03,
+      "end": 3413.03,
+      "speaker": "student",
+      "text": "अक्कि सब",
+      "is_question": false
+    },
+    {
+      "start": 3519.99,
+      "end": 3543.02,
+      "speaker": "teacher",
+      "text": "अगर बच्छा देखा लिज पाला साथी तादा प्रद़ा नागे तो अरी बाईद तर पर दिएगा तेपाब बीद.",
+      "is_question": false
+    },
+    {
+      "start": 3543.02,
+      "end": 3554.24,
+      "speaker": "teacher",
+      "text": "तुबबा उपने लेग तीट तब किष्टाउग कर तैदेंगी थाप्बी रहा है तिद्वाश्दी पीशद करतें त्चाए तताचदोग.",
+      "is_question": false
+    },
+    {
+      "start": 3554.24,
+      "end": 3556.78,
+      "speaker": "teacher",
+      "text": "अगर बाई तागा प्रद लग़ पाद़।",
+      "is_question": false
+    },
+    {
+      "start": 3556.78,
+      "end": 3558.98,
+      "speaker": "student",
+      "text": "जो ज़ो",
+      "is_question": false
+    },
+    {
+      "start": 3558.98,
+      "end": 3561.94,
+      "speaker": "teacher",
+      "text": "भाँ में या देखा",
+      "is_question": false
+    },
+    {
+      "start": 3561.94,
+      "end": 3565.76,
+      "speaker": "teacher",
+      "text": "पैलिज",
+      "is_question": false
+    },
+    {
+      "start": 3565.76,
+      "end": 3570.9,
+      "speaker": "teacher",
+      "text": "पेलिस पटल चाखटिख",
+      "is_question": false
+    },
+    {
+      "start": 3570.9,
+      "end": 3573.22,
+      "speaker": "student",
+      "text": "शीरी सब चेट शेग",
+      "is_question": false
+    },
+    {
+      "start": 3573.22,
+      "end": 3575.22,
+      "speaker": "student",
+      "text": "खाए ख़िद मेरे तूरो चल राश",
+      "is_question": false
+    },
+    {
+      "start": 3575.22,
+      "end": 3591.9,
+      "speaker": "teacher",
+      "text": "अको इगे दिचा थी मों एक ने डूच़",
+      "is_question": false
+    },
+    {
+      "start": 3591.9,
+      "end": 3593.9,
+      "speaker": "student",
+      "text": "अस बच्चना लिए?",
+      "is_question": false
+    },
+    {
+      "start": 3681.23,
+      "end": 3687.42,
+      "speaker": "teacher",
+      "text": "अगर लग लिए लेग, लोग से जाड़ी, अर द़़ागे ली,",
+      "is_question": false
+    },
+    {
+      "start": 3687.42,
+      "end": 3692.54,
+      "speaker": "teacher",
+      "text": "ये यह ता खोभी ज़ैएन, इसका अस्टा पीए, जर तो लैगा,",
+      "is_question": false
+    },
+    {
+      "start": 3692.54,
+      "end": 3695.95,
+      "speaker": "teacher",
+      "text": "इचकर सब यचाट, यक निस में या वोडा, न्च्वित यर यो भो गया,",
+      "is_question": false
+    }
+  ],
+  "stats": {
+    "duration_s": 4062.2,
+    "teacher_talk_s": 3054.8,
+    "student_talk_s": 80.9,
+    "teacher_talk_pct": 97.4,
+    "student_talk_pct": 2.6,
+    "teacher_turns": 27,
+    "student_turns": 24,
+    "teacher_questions": 21,
+    "student_responses": 4,
+    "speaker_switches": 48,
+    "silence_total_s": 560.3,
+    "longest_silence_s": 300.2
+  },
+  "metrics": [
+    {
+      "key": "teacher_dominance",
+      "name": "Teacher Dominance Ratio",
+      "value": 0.97,
+      "display": "97%",
+      "formula": "teacher talk time ÷ total speech time",
+      "explanation": "Share of all speech that comes from the teacher.",
+      "interpretation": "Lecture-heavy: the teacher dominates the airtime; students get little room to speak."
+    },
+    {
+      "key": "student_participation",
+      "name": "Student Participation Indicator",
+      "value": 0.35,
+      "display": "0.4 turns/min",
+      "formula": "student speaking turns ÷ session minutes",
+      "explanation": "How frequently students take the floor, normalized by session length.",
+      "interpretation": "Low participation: students rarely speak."
+    },
+    {
+      "key": "interaction_density",
+      "name": "Interaction Density",
+      "value": 0.71,
+      "display": "0.7 switches/min",
+      "formula": "teacher↔student speaker switches ÷ session minutes",
+      "explanation": "How often the conversation passes between teacher and students — a proxy for back-and-forth dialogue.",
+      "interpretation": "Monologue-style: long uninterrupted stretches by one speaker."
+    },
+    {
+      "key": "question_response_rate",
+      "name": "Question–Response Rate",
+      "value": 0.19,
+      "display": "19%",
+      "formula": "teacher questions answered by a student within 5 s ÷ total teacher questions",
+      "explanation": "How many of the teacher's questions actually draw a student response.",
+      "interpretation": "Questions largely go unanswered — they may be rhetorical or pacing may be too fast."
+    }
+  ],
+  "summary": "In this 68-minute session, the teacher spoke for 97% of the speech time and students for 3%. Students took the floor 24 times, and the conversation switched between teacher and students 48 times. The teacher asked 21 questions, of which 4 drew a student response. About 560 s of the session was silent (longest pause 300 s). Lecture-heavy: the teacher dominates the airtime; students get little room to speak. Monologue-style: long uninterrupted stretches by one speaker."
+}

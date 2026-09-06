@@ -1,0 +1,4343 @@
+{
+  "id": "OD11165_2026-01-06-114155",
+  "filename": "OD11165_2026-01-06-114155.mp3",
+  "status": "done",
+  "language": "hi",
+  "duration_s": 3859.7,
+  "diarization_method": "embedding-clustering+heuristic",
+  "processing_time_s": 612.6,
+  "meta": {
+    "activityType": "Trumpet",
+    "teacherId": "OD11165",
+    "totalStudents": 8,
+    "boys": 5,
+    "girls": 3,
+    "timestamp": "2026-01-06 12:51:13",
+    "teacherName": "Aayushi"
+  },
+  "transcript": [
+    {
+      "start": 0.5,
+      "end": 1.5,
+      "speaker": "student",
+      "text": "चालो गरते है",
+      "is_question": false
+    },
+    {
+      "start": 2.0,
+      "end": 5.16,
+      "speaker": "teacher",
+      "text": "लास्टें आई ख्रेट क्या करवायत है यादर",
+      "is_question": true
+    },
+    {
+      "start": 5.5,
+      "end": 9.5,
+      "speaker": "teacher",
+      "text": "लुज ययाधर?",
+      "is_question": true
+    },
+    {
+      "start": 9.5,
+      "end": 11.94,
+      "speaker": "student",
+      "text": "जिसको वज़ी के से नहीं",
+      "is_question": false
+    },
+    {
+      "start": 11.94,
+      "end": 15.94,
+      "speaker": "teacher",
+      "text": "बार जब भी की सीथ को कुत बोलना है, पर पहली क्झा क्रना आ है",
+      "is_question": false
+    },
+    {
+      "start": 15.94,
+      "end": 19.07,
+      "speaker": "teacher",
+      "text": "ती कर अब, लज्च तें क्हा था यद्र",
+      "is_question": false
+    },
+    {
+      "start": 19.07,
+      "end": 21.68,
+      "speaker": "teacher",
+      "text": "इसकु किस तो यहाजर हा दूप रोग",
+      "is_question": false
+    },
+    {
+      "start": 21.68,
+      "end": 70.3,
+      "speaker": "teacher",
+      "text": "अग, अक, और अर बच्चा दे ना, बिड्जान या थे, विद्झान के आद, गदी, दरशन, खदि लियान, मोश्टन आयाद जागा, कार्थे अ, इशरी,",
+      "is_question": false
+    },
+    {
+      "start": 70.3,
+      "end": 75.8,
+      "speaker": "teacher",
+      "text": "दो नो दब रव, डरषन,दर शन नबब कष, जदाटी नेक्स तें सिकाँगे,",
+      "is_question": false
+    },
+    {
+      "start": 75.8,
+      "end": 82.22,
+      "speaker": "teacher",
+      "text": "अगर बाद बद कर दिया।",
+      "is_question": false
+    },
+    {
+      "start": 82.22,
+      "end": 84.7,
+      "speaker": "student",
+      "text": "अम भो बोड़ पडा यूसके",
+      "is_question": false
+    },
+    {
+      "start": 84.7,
+      "end": 86.7,
+      "speaker": "student",
+      "text": "अंग नों बता इूँँ।",
+      "is_question": false
+    },
+    {
+      "start": 86.7,
+      "end": 88.7,
+      "speaker": "student",
+      "text": "अह नहीं तो अनको जाए तुमको",
+      "is_question": false
+    },
+    {
+      "start": 88.7,
+      "end": 93.77,
+      "speaker": "teacher",
+      "text": "जीगे चाँ तब आज ब अस बना प्रद",
+      "is_question": false
+    },
+    {
+      "start": 93.77,
+      "end": 95.77,
+      "speaker": "student",
+      "text": "अर पर वो पना है उसकी",
+      "is_question": false
+    },
+    {
+      "start": 95.77,
+      "end": 187.18,
+      "speaker": "teacher",
+      "text": "अ भवग़ को वह़द",
+      "is_question": false
+    },
+    {
+      "start": 187.18,
+      "end": 196.5,
+      "speaker": "teacher",
+      "text": "पता ही उजके",
+      "is_question": false
+    },
+    {
+      "start": 196.5,
+      "end": 215.45,
+      "speaker": "teacher",
+      "text": "अगर बदा लिए बन्द कर गया",
+      "is_question": false
+    },
+    {
+      "start": 215.45,
+      "end": 218.45,
+      "speaker": "teacher",
+      "text": "मैं वोड़ बता एदूसके",
+      "is_question": false
+    },
+    {
+      "start": 218.45,
+      "end": 221.99,
+      "speaker": "teacher",
+      "text": "वंको वर पताएडूखे",
+      "is_question": false
+    },
+    {
+      "start": 221.99,
+      "end": 224.99,
+      "speaker": "teacher",
+      "text": "वागा सम पथा जो तो थीगे",
+      "is_question": false
+    },
+    {
+      "start": 224.99,
+      "end": 227.6,
+      "speaker": "teacher",
+      "text": "जा दो आज भाँपिस न चना ये वगगते",
+      "is_question": false
+    },
+    {
+      "start": 227.6,
+      "end": 230.94,
+      "speaker": "teacher",
+      "text": "या बैटरी",
+      "is_question": false
+    },
+    {
+      "start": 230.94,
+      "end": 232.94,
+      "speaker": "student",
+      "text": "अक बेट्री चलाई तुमने",
+      "is_question": false
+    },
+    {
+      "start": 232.94,
+      "end": 234.94,
+      "speaker": "student",
+      "text": "आर्ज सोटी पेपर की साच ज़ाओग",
+      "is_question": false
+    },
+    {
+      "start": 316.43,
+      "end": 336.28,
+      "speaker": "teacher",
+      "text": "तच्चच नब आप तुश नाद्रों आत्टूँ",
+      "is_question": false
+    },
+    {
+      "start": 343.23,
+      "end": 370.44,
+      "speaker": "teacher",
+      "text": "खर्र्थ बाईग ने पास्वो तम्दार नो बबायग से ख्रर्म नहीं तेबआई",
+      "is_question": false
+    },
+    {
+      "start": 370.44,
+      "end": 373.44,
+      "speaker": "teacher",
+      "text": "तस्मचाख निए पुस्से श्पाज्बो न है",
+      "is_question": false
+    },
+    {
+      "start": 373.44,
+      "end": 381.77,
+      "speaker": "teacher",
+      "text": "लोकन लौकन मदद बतल बहुत नी आ भाए",
+      "is_question": false
+    },
+    {
+      "start": 381.77,
+      "end": 400.51,
+      "speaker": "teacher",
+      "text": "मिटल सेग्छ ब्भाया बन्तार",
+      "is_question": false
+    },
+    {
+      "start": 400.51,
+      "end": 405.06,
+      "speaker": "teacher",
+      "text": "अगर बातो जेए तुबारे एगी दागो देखा",
+      "is_question": false
+    },
+    {
+      "start": 405.06,
+      "end": 409.55,
+      "speaker": "teacher",
+      "text": "नहीं तो श्टील वा ने तावो उपने वो",
+      "is_question": false
+    },
+    {
+      "start": 409.55,
+      "end": 413.94,
+      "speaker": "teacher",
+      "text": "तीख पर वु मेटल अ ब अन ये मेंटर है",
+      "is_question": false
+    },
+    {
+      "start": 413.94,
+      "end": 459.14,
+      "speaker": "teacher",
+      "text": "नज यै या यह नाज़ प्रण खलाख से बग़गे रहें",
+      "is_question": false
+    },
+    {
+      "start": 459.14,
+      "end": 461.14,
+      "speaker": "student",
+      "text": "यए मजाम तिग रेगा",
+      "is_question": false
+    },
+    {
+      "start": 461.14,
+      "end": 463.42,
+      "speaker": "student",
+      "text": "निक अरो लग कचा हो नीग",
+      "is_question": false
+    },
+    {
+      "start": 463.42,
+      "end": 469.42,
+      "speaker": "teacher",
+      "text": "तो बज़ाए करेंगे तुब जब़़ी करीगगा ता अच्छे से पड़य करोगी किक्या?",
+      "is_question": true
+    },
+    {
+      "start": 470.42,
+      "end": 480.67,
+      "speaker": "teacher",
+      "text": "ये भी कोब्टीचन है, सब को मैं ती मिनिड तच़ुमगि, भल्द जलवाग्य है.",
+      "is_question": false
+    },
+    {
+      "start": 481.67,
+      "end": 510.52,
+      "speaker": "teacher",
+      "text": "वोखी भ्रुर रहेग तेंमें ने लिए रू.",
+      "is_question": false
+    },
+    {
+      "start": 510.52,
+      "end": 519.9,
+      "speaker": "teacher",
+      "text": "अगर बदागा दो बादे नहीं ने तो भी नाई तुछ़ाप्ट्चुत लाख़र पते मैं तवो नी भूँँ नि मै शेप बे भोँनी अंगी",
+      "is_question": false
+    },
+    {
+      "start": 519.9,
+      "end": 524.49,
+      "speaker": "teacher",
+      "text": "शाएग भँंँ मैद",
+      "is_question": false
+    },
+    {
+      "start": 524.49,
+      "end": 526.99,
+      "speaker": "teacher",
+      "text": "वच्छ देखा",
+      "is_question": false
+    },
+    {
+      "start": 526.99,
+      "end": 528.99,
+      "speaker": "student",
+      "text": "शैग, अक्पल, आक्मल",
+      "is_question": false
+    },
+    {
+      "start": 528.99,
+      "end": 540.58,
+      "speaker": "teacher",
+      "text": "तो ज़ाग़ दिए कुई कृई थूग आप चीए खे नहीं खाँची ये",
+      "is_question": false
+    },
+    {
+      "start": 540.58,
+      "end": 542.58,
+      "speaker": "student",
+      "text": "दोख्र दी साथ जाखतो ना",
+      "is_question": false
+    },
+    {
+      "start": 542.58,
+      "end": 544.74,
+      "speaker": "student",
+      "text": "दौख़र बताते रह भी ख्याचिये",
+      "is_question": false
+    },
+    {
+      "start": 544.74,
+      "end": 546.74,
+      "speaker": "student",
+      "text": "अम द़खको के सात खम गरते है",
+      "is_question": false
+    },
+    {
+      "start": 546.74,
+      "end": 547.74,
+      "speaker": "student",
+      "text": "तीखे",
+      "is_question": false
+    },
+    {
+      "start": 547.74,
+      "end": 550.24,
+      "speaker": "teacher",
+      "text": "तु दाप्तर रो",
+      "is_question": false
+    },
+    {
+      "start": 550.24,
+      "end": 551.24,
+      "speaker": "student",
+      "text": "देपा दही हो",
+      "is_question": false
+    },
+    {
+      "start": 551.24,
+      "end": 560.76,
+      "speaker": "teacher",
+      "text": "आसे चाभ्सुंगे लाब मैं",
+      "is_question": false
+    },
+    {
+      "start": 560.76,
+      "end": 566.62,
+      "speaker": "teacher",
+      "text": "अदाक्र ने में नव्स्नी उपर लाँ अस्प्रिज़न लगाम कर सोगी",
+      "is_question": false
+    },
+    {
+      "start": 566.62,
+      "end": 567.62,
+      "speaker": "student",
+      "text": "नुट्रीषन निस्म।",
+      "is_question": false
+    },
+    {
+      "start": 567.62,
+      "end": 573.67,
+      "speaker": "teacher",
+      "text": "तुकि मे विमाली याप दे कोई थाना चीए",
+      "is_question": false
+    },
+    {
+      "start": 573.67,
+      "end": 576.67,
+      "speaker": "teacher",
+      "text": "यह उंको नहीं खान चाहते पूँनकी बाडी के नसाचे",
+      "is_question": false
+    },
+    {
+      "start": 576.67,
+      "end": 578.67,
+      "speaker": "student",
+      "text": "उनके चरी पेजा ति हम को लिए भाग़ा",
+      "is_question": false
+    },
+    {
+      "start": 578.67,
+      "end": 582.15,
+      "speaker": "teacher",
+      "text": "पार बद़़ो तब जागी जुब़ता हो",
+      "is_question": false
+    },
+    {
+      "start": 582.15,
+      "end": 590.17,
+      "speaker": "teacher",
+      "text": "पीटिन लेए बिटा",
+      "is_question": false
+    },
+    {
+      "start": 590.17,
+      "end": 607.34,
+      "speaker": "teacher",
+      "text": "उसको दो को प्ट्च्छ की घब्रत है",
+      "is_question": false
+    },
+    {
+      "start": 607.34,
+      "end": 609.34,
+      "speaker": "student",
+      "text": "आप आ आ, आस्विच है",
+      "is_question": false
+    },
+    {
+      "start": 609.34,
+      "end": 610.34,
+      "speaker": "student",
+      "text": "का अथा आयज?",
+      "is_question": false
+    },
+    {
+      "start": 610.34,
+      "end": 611.34,
+      "speaker": "student",
+      "text": "इस में स्झ्फ्ष",
+      "is_question": false
+    },
+    {
+      "start": 611.34,
+      "end": 613.94,
+      "speaker": "teacher",
+      "text": "आत आ स्स्सवीच नहीं होता",
+      "is_question": false
+    },
+    {
+      "start": 613.94,
+      "end": 615.94,
+      "speaker": "student",
+      "text": "बतन तो होटआ",
+      "is_question": false
+    },
+    {
+      "start": 615.94,
+      "end": 617.94,
+      "speaker": "student",
+      "text": "ये वाला बन दन अत डाना",
+      "is_question": false
+    },
+    {
+      "start": 617.94,
+      "end": 618.94,
+      "speaker": "student",
+      "text": "हो था, चालो",
+      "is_question": false
+    },
+    {
+      "start": 1091.5,
+      "end": 1100.16,
+      "speaker": "teacher",
+      "text": "अदिए तो तुब बज़ाग बा़ नहीं तेंगाएं जो जाड़वाई बहार हैं",
+      "is_question": false
+    },
+    {
+      "start": 1100.16,
+      "end": 1118.53,
+      "speaker": "teacher",
+      "text": "ती साइट पे न है तिस की सैट के लेज और औ़",
+      "is_question": false
+    },
+    {
+      "start": 1118.53,
+      "end": 1121.04,
+      "speaker": "teacher",
+      "text": "ताज्ब़िट़ सबन नाँ एंजा तर बेडो थे",
+      "is_question": false
+    },
+    {
+      "start": 1121.04,
+      "end": 1177.44,
+      "speaker": "teacher",
+      "text": "त्यों थी बन करना पोडना",
+      "is_question": false
+    },
+    {
+      "start": 1177.44,
+      "end": 1179.44,
+      "speaker": "student",
+      "text": "तब किस चाला सप्ट़्े तैख्ली",
+      "is_question": false
+    },
+    {
+      "start": 1179.44,
+      "end": 1181.57,
+      "speaker": "student",
+      "text": "याज़, ये जब यह थी से गोगा?",
+      "is_question": false
+    },
+    {
+      "start": 1181.57,
+      "end": 1185.34,
+      "speaker": "teacher",
+      "text": "लाई, लई दिए लिग, तो तुश्रा नाम भी है,",
+      "is_question": false
+    },
+    {
+      "start": 1185.34,
+      "end": 1196.84,
+      "speaker": "teacher",
+      "text": "उसका ल्ई में, एल दी, अगर अत बड़े तेखा हो ग़ा,",
+      "is_question": false
+    },
+    {
+      "start": 1196.84,
+      "end": 1200.77,
+      "speaker": "teacher",
+      "text": "तिम डायो, पर यो थुम लोपनी त्तुन यै लेदी यर जागे,",
+      "is_question": false
+    },
+    {
+      "start": 1200.77,
+      "end": 1208.58,
+      "speaker": "teacher",
+      "text": "तो तुब आप आत बदे लोगे तब सिख ज़ावों",
+      "is_question": false
+    },
+    {
+      "start": 1208.58,
+      "end": 1223.65,
+      "speaker": "teacher",
+      "text": "उस में आ अगर अत्छे से देखा होँ तंदो गर",
+      "is_question": false
+    },
+    {
+      "start": 1223.65,
+      "end": 1227.31,
+      "speaker": "teacher",
+      "text": "दिएका दा की नहीं दोखे अं",
+      "is_question": false
+    },
+    {
+      "start": 1227.31,
+      "end": 1229.41,
+      "speaker": "student",
+      "text": "इस मैं बी एक बाडा एं चोटर है ना",
+      "is_question": false
+    },
+    {
+      "start": 1229.41,
+      "end": 1235.88,
+      "speaker": "teacher",
+      "text": "तو जो बरी वाली साँँ, पोसिट्टिव, बतलग पलस वगी सैँ",
+      "is_question": false
+    },
+    {
+      "start": 1235.88,
+      "end": 1238.88,
+      "speaker": "teacher",
+      "text": "अर थोटी वाली सैड वो कोंषी या?",
+      "is_question": true
+    },
+    {
+      "start": 1238.88,
+      "end": 1240.1,
+      "speaker": "student",
+      "text": "मैंग़ुश",
+      "is_question": false
+    },
+    {
+      "start": 1240.1,
+      "end": 1244.1,
+      "speaker": "teacher",
+      "text": "पर एक बात पतादू वूमेख़ बैट्री में",
+      "is_question": false
+    },
+    {
+      "start": 1244.1,
+      "end": 1247.1,
+      "speaker": "teacher",
+      "text": "प्लुस की साइड किसे जुलेगी?",
+      "is_question": true
+    },
+    {
+      "start": 1247.1,
+      "end": 1248.1,
+      "speaker": "student",
+      "text": "पलॉस के सार",
+      "is_question": false
+    },
+    {
+      "start": 1248.1,
+      "end": 1250.1,
+      "speaker": "student",
+      "text": "अद मैग़्िस कि सायट किسे चुरेएगा?",
+      "is_question": false
+    },
+    {
+      "start": 1250.1,
+      "end": 1252.36,
+      "speaker": "student",
+      "text": "मैनगन्च केसार",
+      "is_question": false
+    },
+    {
+      "start": 1252.36,
+      "end": 1253.36,
+      "speaker": "student",
+      "text": "तीके",
+      "is_question": false
+    },
+    {
+      "start": 1253.36,
+      "end": 1257.56,
+      "speaker": "teacher",
+      "text": "पर तोम लोग इसको दारेट जोडोँगे",
+      "is_question": false
+    },
+    {
+      "start": 1257.56,
+      "end": 1258.68,
+      "speaker": "student",
+      "text": "तु क्या अगा?",
+      "is_question": false
+    },
+    {
+      "start": 1258.68,
+      "end": 1260.09,
+      "speaker": "student",
+      "text": "बैंट",
+      "is_question": false
+    },
+    {
+      "start": 1260.09,
+      "end": 1261.29,
+      "speaker": "student",
+      "text": "एलटी नी चलेग़ा",
+      "is_question": false
+    },
+    {
+      "start": 1261.29,
+      "end": 1263.01,
+      "speaker": "student",
+      "text": "एक एगी क्झाजगैग?",
+      "is_question": false
+    },
+    {
+      "start": 1263.01,
+      "end": 1264.25,
+      "speaker": "student",
+      "text": "फुँस औजाएव",
+      "is_question": false
+    },
+    {
+      "start": 1264.25,
+      "end": 1266.09,
+      "speaker": "student",
+      "text": "फ्ँुस का मजलब क्हाँ था है",
+      "is_question": false
+    },
+    {
+      "start": 1266.09,
+      "end": 1269.37,
+      "speaker": "teacher",
+      "text": "की बहुत जाता करंथ देडिया हमने",
+      "is_question": false
+    },
+    {
+      "start": 1269.37,
+      "end": 1271.21,
+      "speaker": "student",
+      "text": "और हमारा जे लाइत हैर",
+      "is_question": false
+    },
+    {
+      "start": 1271.21,
+      "end": 1274.21,
+      "speaker": "teacher",
+      "text": "उसको लेनी सकता है, तो पूट जारें",
+      "is_question": false
+    },
+    {
+      "start": 1274.21,
+      "end": 1275.44,
+      "speaker": "student",
+      "text": "तीके",
+      "is_question": false
+    },
+    {
+      "start": 1275.44,
+      "end": 1281.42,
+      "speaker": "teacher",
+      "text": "बलड़ पोर लईदी नी प्षुटेगा उग़ा होती हैं",
+      "is_question": false
+    },
+    {
+      "start": 1281.42,
+      "end": 1285.48,
+      "speaker": "teacher",
+      "text": "वो तार में पंट़गे जी और वग अलगो जैगी",
+      "is_question": false
+    },
+    {
+      "start": 1285.48,
+      "end": 1286.48,
+      "speaker": "student",
+      "text": "तिके",
+      "is_question": false
+    },
+    {
+      "start": 1286.48,
+      "end": 1289.48,
+      "speaker": "teacher",
+      "text": "तु खबभी लिए लीटी वर बाट्टिली को",
+      "is_question": false
+    },
+    {
+      "start": 1289.48,
+      "end": 1291.48,
+      "speaker": "student",
+      "text": "साच मे नहीं जोलना",
+      "is_question": false
+    },
+    {
+      "start": 1291.48,
+      "end": 1292.48,
+      "speaker": "student",
+      "text": "त्के",
+      "is_question": false
+    },
+    {
+      "start": 1292.48,
+      "end": 1295.48,
+      "speaker": "teacher",
+      "text": "वहा दा अपन क्या जो मैं आप समवगार",
+      "is_question": true
+    },
+    {
+      "start": 1295.48,
+      "end": 1298.64,
+      "speaker": "teacher",
+      "text": "पेपर और पैंषी",
+      "is_question": false
+    },
+    {
+      "start": 1298.64,
+      "end": 1330.05,
+      "speaker": "teacher",
+      "text": "तीगे प्यप्र अर फैंसी लिए",
+      "is_question": false
+    },
+    {
+      "start": 1330.05,
+      "end": 1332.05,
+      "speaker": "student",
+      "text": "तिगट चल तो को नहीं अ पाडिले ता",
+      "is_question": false
+    },
+    {
+      "start": 1332.05,
+      "end": 1335.39,
+      "speaker": "teacher",
+      "text": "आम पीट्चल",
+      "is_question": false
+    },
+    {
+      "start": 1335.39,
+      "end": 1345.84,
+      "speaker": "teacher",
+      "text": "आसे रख भी दी एड़",
+      "is_question": false
+    },
+    {
+      "start": 1345.84,
+      "end": 1349.12,
+      "speaker": "teacher",
+      "text": "रेगो",
+      "is_question": false
+    },
+    {
+      "start": 1349.12,
+      "end": 1353.71,
+      "speaker": "teacher",
+      "text": "वोड",
+      "is_question": false
+    },
+    {
+      "start": 1353.71,
+      "end": 1355.71,
+      "speaker": "student",
+      "text": "वैआब लग पिटग",
+      "is_question": false
+    },
+    {
+      "start": 1355.71,
+      "end": 1358.22,
+      "speaker": "teacher",
+      "text": "श्टलो तस की कि तेखा",
+      "is_question": false
+    },
+    {
+      "start": 1358.22,
+      "end": 1360.26,
+      "speaker": "student",
+      "text": "दस",
+      "is_question": false
+    },
+    {
+      "start": 1360.26,
+      "end": 1361.26,
+      "speaker": "student",
+      "text": "डो",
+      "is_question": false
+    },
+    {
+      "start": 1361.26,
+      "end": 1423.83,
+      "speaker": "teacher",
+      "text": "अद्र जों निभब हैं जिसा लिखते हो तो कारा गलती अ प्रिते लोग आगे रेड़ से पिसे बाना है लेद कर स्पेली ल्ग, लगी जे अंगा जी बी पी.",
+      "is_question": false
+    },
+    {
+      "start": 1423.83,
+      "end": 1425.9,
+      "speaker": "student",
+      "text": "अगर बाद ना एक अस्टी पीग़।",
+      "is_question": false
+    },
+    {
+      "start": 1425.9,
+      "end": 1426.9,
+      "speaker": "student",
+      "text": "आत्या?",
+      "is_question": false
+    },
+    {
+      "start": 1426.9,
+      "end": 1429.66,
+      "speaker": "teacher",
+      "text": "अत्छ मैं आदेजु मैद।",
+      "is_question": false
+    },
+    {
+      "start": 1429.66,
+      "end": 1431.98,
+      "speaker": "student",
+      "text": "ये किस्से बनी आं?",
+      "is_question": false
+    },
+    {
+      "start": 1431.98,
+      "end": 1432.98,
+      "speaker": "student",
+      "text": "लेड़ से",
+      "is_question": false
+    },
+    {
+      "start": 1432.98,
+      "end": 1435.98,
+      "speaker": "teacher",
+      "text": "तो गाडिकाली चीज बआप या बैट्ची दे।",
+      "is_question": false
+    },
+    {
+      "start": 1435.98,
+      "end": 1437.98,
+      "speaker": "student",
+      "text": "यह जो काभदबालि चिज है।",
+      "is_question": false
+    },
+    {
+      "start": 1437.98,
+      "end": 1438.98,
+      "speaker": "student",
+      "text": "ती क्यम दै?",
+      "is_question": false
+    },
+    {
+      "start": 1438.98,
+      "end": 1440.98,
+      "speaker": "student",
+      "text": "लैड अं लग्डाँ में",
+      "is_question": false
+    },
+    {
+      "start": 1440.98,
+      "end": 1442.84,
+      "speaker": "student",
+      "text": "ल्द क्झा था?",
+      "is_question": false
+    },
+    {
+      "start": 1583.46,
+      "end": 1592.12,
+      "speaker": "teacher",
+      "text": "अग, अर देखाद बदा लगा नहीं तो जोचा बना वागे ना.",
+      "is_question": false
+    },
+    {
+      "start": 1592.12,
+      "end": 1593.18,
+      "speaker": "student",
+      "text": "तीगए.",
+      "is_question": false
+    },
+    {
+      "start": 1593.18,
+      "end": 1598.74,
+      "speaker": "teacher",
+      "text": "तुब रख आश्वात प्रच्ट्ग.",
+      "is_question": false
+    },
+    {
+      "start": 1598.74,
+      "end": 1599.74,
+      "speaker": "student",
+      "text": "विस्दो व्जद्ब.",
+      "is_question": false
+    },
+    {
+      "start": 1599.74,
+      "end": 1602.96,
+      "speaker": "teacher",
+      "text": "और जिजनी भी तार खो सकेज्च.",
+      "is_question": false
+    },
+    {
+      "start": 1602.96,
+      "end": 1604.96,
+      "speaker": "student",
+      "text": "तर को मराडी में क्या रोते है.",
+      "is_question": false
+    },
+    {
+      "start": 1604.96,
+      "end": 1614.2,
+      "speaker": "teacher",
+      "text": "त्र के वोलते ते दार कुत.",
+      "is_question": false
+    },
+    {
+      "start": 1614.2,
+      "end": 1620.49,
+      "speaker": "teacher",
+      "text": "अदनी कहे नी वनाने है",
+      "is_question": false
+    },
+    {
+      "start": 1620.49,
+      "end": 1625.42,
+      "speaker": "teacher",
+      "text": "तीके",
+      "is_question": false
+    },
+    {
+      "start": 1625.42,
+      "end": 1626.42,
+      "speaker": "student",
+      "text": "एक मिनिद्का",
+      "is_question": false
+    },
+    {
+      "start": 1626.42,
+      "end": 1633.54,
+      "speaker": "teacher",
+      "text": "पेपर पटना निची है",
+      "is_question": false
+    },
+    {
+      "start": 1633.54,
+      "end": 1634.54,
+      "speaker": "student",
+      "text": "इत टायादरखना",
+      "is_question": false
+    },
+    {
+      "start": 1634.54,
+      "end": 1650.36,
+      "speaker": "teacher",
+      "text": "अर्गे",
+      "is_question": false
+    },
+    {
+      "start": 1650.36,
+      "end": 1652.36,
+      "speaker": "student",
+      "text": "अत जाएन ख्लिज",
+      "is_question": false
+    },
+    {
+      "start": 1652.36,
+      "end": 1653.36,
+      "speaker": "student",
+      "text": "नहीं पतना है",
+      "is_question": false
+    },
+    {
+      "start": 1653.36,
+      "end": 1654.36,
+      "speaker": "student",
+      "text": "अन दे प्फ़टे ला मैं ने की हाँ",
+      "is_question": false
+    },
+    {
+      "start": 1654.36,
+      "end": 1658.79,
+      "speaker": "teacher",
+      "text": "अमरा पुष्टा",
+      "is_question": false
+    },
+    {
+      "start": 1658.79,
+      "end": 1660.79,
+      "speaker": "student",
+      "text": "अंचा बगी एप पना",
+      "is_question": false
+    },
+    {
+      "start": 1660.79,
+      "end": 1661.79,
+      "speaker": "student",
+      "text": "अही पिट़ा अस्वरा",
+      "is_question": false
+    },
+    {
+      "start": 1661.79,
+      "end": 1673.95,
+      "speaker": "teacher",
+      "text": "अगर दो बच्टाए तो तरके नहीं तुछ जो दूग तागे तेखाद.",
+      "is_question": false
+    },
+    {
+      "start": 1673.95,
+      "end": 1688.5,
+      "speaker": "teacher",
+      "text": "तीखे शोडी तब रखदाख तैखी थाई तिख्चाड.",
+      "is_question": false
+    },
+    {
+      "start": 1688.5,
+      "end": 1690.5,
+      "speaker": "student",
+      "text": "तक दम अरग़ त्खिट शालो.",
+      "is_question": false
+    },
+    {
+      "start": 1690.5,
+      "end": 1694.5,
+      "speaker": "teacher",
+      "text": "अंब मैं अ भी समचली हूंँ ततरकी निग्षारी क्यूती कोम्म्तेचन है.",
+      "is_question": false
+    },
+    {
+      "start": 1694.5,
+      "end": 1697.5,
+      "speaker": "teacher",
+      "text": "तो मैं अब अरी समचाल की कैसे करना है",
+      "is_question": true
+    },
+    {
+      "start": 1697.5,
+      "end": 1699.5,
+      "speaker": "student",
+      "text": "तुछ सा दियान से यह देख़ो",
+      "is_question": false
+    },
+    {
+      "start": 1699.5,
+      "end": 1700.5,
+      "speaker": "student",
+      "text": "अंच रवचे कै से है",
+      "is_question": false
+    },
+    {
+      "start": 1700.5,
+      "end": 1703.1,
+      "speaker": "teacher",
+      "text": "सबरग दो नीचए",
+      "is_question": false
+    },
+    {
+      "start": 1703.1,
+      "end": 1705.71,
+      "speaker": "teacher",
+      "text": "अम मेरे पीख्यांगा",
+      "is_question": false
+    },
+    {
+      "start": 1705.71,
+      "end": 1708.71,
+      "speaker": "teacher",
+      "text": "तीक आप ये बनादी आमने दू लाईज",
+      "is_question": false
+    },
+    {
+      "start": 1708.71,
+      "end": 1714.46,
+      "speaker": "teacher",
+      "text": "यै बआना थी अ आंपने को लगे",
+      "is_question": false
+    },
+    {
+      "start": 1714.46,
+      "end": 1715.46,
+      "speaker": "student",
+      "text": "द्यआं से सुनना",
+      "is_question": false
+    },
+    {
+      "start": 1715.46,
+      "end": 1717.46,
+      "speaker": "student",
+      "text": "अक बाट्री जो है",
+      "is_question": false
+    },
+    {
+      "start": 1717.46,
+      "end": 1724.46,
+      "speaker": "teacher",
+      "text": "अपने आप आत आसे प्वाँगे असेद पर पाश़ाद करे लिए तो लगाग लेग.",
+      "is_question": false
+    },
+    {
+      "start": 1724.46,
+      "end": 1728.46,
+      "speaker": "teacher",
+      "text": "अर वार्द़स वली का लैए.",
+      "is_question": false
+    },
+    {
+      "start": 1728.46,
+      "end": 1732.46,
+      "speaker": "teacher",
+      "text": "अ अन वो पीच़ लाए, अत वी लीए का.",
+      "is_question": false
+    },
+    {
+      "start": 1732.46,
+      "end": 1743.26,
+      "speaker": "teacher",
+      "text": "अं वे विश्ट लोग, वह वर ल्ग़, लुएग का, याप कर रेए है.",
+      "is_question": false
+    },
+    {
+      "start": 1743.26,
+      "end": 1785.94,
+      "speaker": "teacher",
+      "text": "अगर अर ना बदादी का यागा नहींगे तो अस बाट्टीग प्लुच के लिए बनाच तेखा पिलग़ा थे अन आप आता दीखे ने थी तुम आन पाड़े पीटग के कि लेग.",
+      "is_question": false
+    },
+    {
+      "start": 1788.56,
+      "end": 1819.66,
+      "speaker": "teacher",
+      "text": "अंपना ती रफाँ लग, अम देपा लीएग है तापडीचा वाशा रहा है.",
+      "is_question": false
+    },
+    {
+      "start": 1819.66,
+      "end": 1822.66,
+      "speaker": "teacher",
+      "text": "अगर नागा और लीदीग़ा माझनस यहाँ लग.",
+      "is_question": false
+    },
+    {
+      "start": 1822.66,
+      "end": 1827.75,
+      "speaker": "teacher",
+      "text": "तीखे एक गुब का देखींगे कैसे हो रहा है.",
+      "is_question": true
+    },
+    {
+      "start": 1827.75,
+      "end": 1834.1,
+      "speaker": "teacher",
+      "text": "ताएग औग सबको अंप इतना तो मैंना कता लिया ये बी बनादियग,",
+      "is_question": false
+    },
+    {
+      "start": 1834.1,
+      "end": 1836.1,
+      "speaker": "student",
+      "text": "अर मैद तैमर रख हूँँंँी तुमनेट का.",
+      "is_question": false
+    },
+    {
+      "start": 1836.1,
+      "end": 1844.11,
+      "speaker": "teacher",
+      "text": "अब एक काम करो एग गरुब से मेरे को ये गुरूप का ए कनाम चेए",
+      "is_question": false
+    },
+    {
+      "start": 1844.11,
+      "end": 1852.28,
+      "speaker": "teacher",
+      "text": "दिसकस कर के मैं 30, तीस का किन लिए हूं",
+      "is_question": false
+    },
+    {
+      "start": 1852.28,
+      "end": 1894.23,
+      "speaker": "teacher",
+      "text": "द्सकष कर गे ए एतना माना ची, बिजे पी पाटी एस यह जा,",
+      "is_question": false
+    },
+    {
+      "start": 1894.23,
+      "end": 1898.81,
+      "speaker": "teacher",
+      "text": "तो ओगनाव है ना, पवरेष प्वाडी याग है, एन आम है",
+      "is_question": false
+    },
+    {
+      "start": 1898.81,
+      "end": 1901.13,
+      "speaker": "student",
+      "text": "बेर ब्रश्वग कोप्ष्ट्च्छगे है",
+      "is_question": false
+    },
+    {
+      "start": 1901.13,
+      "end": 1910.26,
+      "speaker": "teacher",
+      "text": "दिसकस कर देख तो हाँ",
+      "is_question": false
+    },
+    {
+      "start": 1910.26,
+      "end": 1977.04,
+      "speaker": "teacher",
+      "text": "आपो द़र इभवान को मिलके एक दर्खनें",
+      "is_question": false
+    },
+    {
+      "start": 1977.04,
+      "end": 1979.66,
+      "speaker": "teacher",
+      "text": "ताब लोगो बोदल्गन",
+      "is_question": false
+    },
+    {
+      "start": 1979.66,
+      "end": 1981.46,
+      "speaker": "student",
+      "text": "आंप दो तीखे",
+      "is_question": false
+    },
+    {
+      "start": 1981.46,
+      "end": 1982.86,
+      "speaker": "student",
+      "text": "अख्स वादिश लेग",
+      "is_question": false
+    },
+    {
+      "start": 1982.86,
+      "end": 1987.72,
+      "speaker": "teacher",
+      "text": "अकर खलगष कनेक्शिया",
+      "is_question": false
+    },
+    {
+      "start": 1987.72,
+      "end": 1989.52,
+      "speaker": "student",
+      "text": "तुबल् फुूज हो जाएगा",
+      "is_question": false
+    },
+    {
+      "start": 1989.52,
+      "end": 1992.52,
+      "speaker": "teacher",
+      "text": "मदला बल जलेगा नी और अपने पास जाडा भल बनेई है",
+      "is_question": false
+    },
+    {
+      "start": 1993.47,
+      "end": 1994.55,
+      "speaker": "student",
+      "text": "इत देयाद रखना",
+      "is_question": false
+    },
+    {
+      "start": 1996.05,
+      "end": 1996.89,
+      "speaker": "student",
+      "text": "नग़ा या ताईम है",
+      "is_question": false
+    },
+    {
+      "start": 1998.15,
+      "end": 1999.99,
+      "speaker": "student",
+      "text": "ए बाइ लला के योगर आई तुमीदा",
+      "is_question": false
+    },
+    {
+      "start": 1999.99,
+      "end": 2000.87,
+      "speaker": "student",
+      "text": "तोम लग क्यो ख़़?",
+      "is_question": false
+    },
+    {
+      "start": 2000.87,
+      "end": 2001.59,
+      "speaker": "student",
+      "text": "ना!",
+      "is_question": false
+    },
+    {
+      "start": 2017.19,
+      "end": 2017.67,
+      "speaker": "student",
+      "text": "नहीं दिचा",
+      "is_question": false
+    },
+    {
+      "start": 2017.67,
+      "end": 2018.19,
+      "speaker": "student",
+      "text": "निदि चाए",
+      "is_question": false
+    },
+    {
+      "start": 2018.19,
+      "end": 2018.99,
+      "speaker": "student",
+      "text": "नूए दीच्या",
+      "is_question": false
+    },
+    {
+      "start": 2018.99,
+      "end": 2019.67,
+      "speaker": "student",
+      "text": "न्च़ूर",
+      "is_question": false
+    },
+    {
+      "start": 2019.67,
+      "end": 2020.23,
+      "speaker": "student",
+      "text": "नै",
+      "is_question": false
+    },
+    {
+      "start": 2020.23,
+      "end": 2021.11,
+      "speaker": "student",
+      "text": "नंग़्र",
+      "is_question": false
+    },
+    {
+      "start": 2021.11,
+      "end": 2023.11,
+      "speaker": "student",
+      "text": "तुछ आप यह उज़़ को और उस्पो लिखाल तो जब निकाल।",
+      "is_question": false
+    },
+    {
+      "start": 2023.11,
+      "end": 2033.34,
+      "speaker": "teacher",
+      "text": "नाज बिस्को अप",
+      "is_question": false
+    },
+    {
+      "start": 2033.34,
+      "end": 2039.16,
+      "speaker": "teacher",
+      "text": "मैं माश्ती नी कर दिए श्वाग नहीं जो मै बुल्रू मैशिक ने लेगाएंगे वाम मैरे बापिस नुन रहा हैं।",
+      "is_question": false
+    },
+    {
+      "start": 2039.16,
+      "end": 2041.66,
+      "speaker": "teacher",
+      "text": "इत आया दरपना",
+      "is_question": false
+    },
+    {
+      "start": 2041.66,
+      "end": 2044.82,
+      "speaker": "teacher",
+      "text": "मस्तिक ताम्त्ते मसति करो मेरे को खिए दिखत्नी है",
+      "is_question": false
+    },
+    {
+      "start": 2044.82,
+      "end": 2049.11,
+      "speaker": "teacher",
+      "text": "पर जब पड़ाई कर रहा और ये मारा माडे मेंको बिलकुन लेई चीए",
+      "is_question": false
+    },
+    {
+      "start": 2049.11,
+      "end": 2050.11,
+      "speaker": "student",
+      "text": "समज्मा आप?",
+      "is_question": false
+    },
+    {
+      "start": 2052.42,
+      "end": 2054.94,
+      "speaker": "teacher",
+      "text": "तीख, यह क्या है?",
+      "is_question": true
+    },
+    {
+      "start": 2054.94,
+      "end": 2057.94,
+      "speaker": "teacher",
+      "text": "बैट्टरी औ़ उस पे क्छा लगी हा?",
+      "is_question": true
+    },
+    {
+      "start": 2057.94,
+      "end": 2061.0,
+      "speaker": "teacher",
+      "text": "चिप, च्विः, ने चवी नहीं",
+      "is_question": false
+    },
+    {
+      "start": 2061.0,
+      "end": 2068.9,
+      "speaker": "teacher",
+      "text": "तुछ नाँँ तो तरीवाग ताई तेखाउ तीगाए और प्लज़ेटी वाली साइड कहाओझा नहीं पुस बलाच वली चापईद पर तब पाशद़ तिदाः पीद कर वो बदी पपासद्द.",
+      "is_question": false
+    },
+    {
+      "start": 2068.9,
+      "end": 2072.24,
+      "speaker": "teacher",
+      "text": "पोड़िव वली सेट कहा है?",
+      "is_question": true
+    },
+    {
+      "start": 2072.24,
+      "end": 2075.17,
+      "speaker": "teacher",
+      "text": "पलस वगली चाए?",
+      "is_question": true
+    },
+    {
+      "start": 2075.17,
+      "end": 2077.17,
+      "speaker": "student",
+      "text": "बलेक",
+      "is_question": false
+    },
+    {
+      "start": 2077.17,
+      "end": 2079.17,
+      "speaker": "student",
+      "text": "प्लसवट वालीसाट",
+      "is_question": false
+    },
+    {
+      "start": 2079.17,
+      "end": 2081.17,
+      "speaker": "student",
+      "text": "ब्रेद",
+      "is_question": false
+    },
+    {
+      "start": 2081.17,
+      "end": 2083.3,
+      "speaker": "student",
+      "text": "और मैनस भलीचाय",
+      "is_question": false
+    },
+    {
+      "start": 2083.3,
+      "end": 2085.3,
+      "speaker": "student",
+      "text": "इस मैं",
+      "is_question": false
+    },
+    {
+      "start": 2085.3,
+      "end": 2089.73,
+      "speaker": "teacher",
+      "text": "पफलस्वलि साँँसी",
+      "is_question": false
+    },
+    {
+      "start": 2089.73,
+      "end": 2091.73,
+      "speaker": "student",
+      "text": "जो लम्भी वोली काई",
+      "is_question": false
+    },
+    {
+      "start": 2091.73,
+      "end": 2093.73,
+      "speaker": "student",
+      "text": "जे",
+      "is_question": false
+    },
+    {
+      "start": 2093.73,
+      "end": 2095.73,
+      "speaker": "student",
+      "text": "ज़म बी उई ए वी ए",
+      "is_question": false
+    },
+    {
+      "start": 2095.73,
+      "end": 2099.81,
+      "speaker": "teacher",
+      "text": "औग जिए क्या?",
+      "is_question": true
+    },
+    {
+      "start": 2099.81,
+      "end": 2101.81,
+      "speaker": "student",
+      "text": "चटिओ वेली में का आँ?",
+      "is_question": false
+    },
+    {
+      "start": 2101.81,
+      "end": 2103.81,
+      "speaker": "student",
+      "text": "चल लगा",
+      "is_question": false
+    },
+    {
+      "start": 2103.81,
+      "end": 2105.81,
+      "speaker": "student",
+      "text": "तो तुब अगा था ता पापा",
+      "is_question": false
+    },
+    {
+      "start": 2105.81,
+      "end": 2107.81,
+      "speaker": "student",
+      "text": "अरे दारे की लग़ा ना",
+      "is_question": false
+    },
+    {
+      "start": 2107.81,
+      "end": 2111.66,
+      "speaker": "teacher",
+      "text": "वैद बोल रीए।",
+      "is_question": false
+    },
+    {
+      "start": 2111.66,
+      "end": 2119.07,
+      "speaker": "teacher",
+      "text": "या गो ख्या",
+      "is_question": false
+    },
+    {
+      "start": 2119.07,
+      "end": 2121.07,
+      "speaker": "student",
+      "text": "ये यहांपी रग गे प्लुस वली से",
+      "is_question": false
+    },
+    {
+      "start": 2121.07,
+      "end": 2137.79,
+      "speaker": "teacher",
+      "text": "और यै यप रह गी मैंगे से",
+      "is_question": false
+    },
+    {
+      "start": 2137.79,
+      "end": 2149.33,
+      "speaker": "teacher",
+      "text": "जला",
+      "is_question": false
+    },
+    {
+      "start": 2149.33,
+      "end": 2151.55,
+      "speaker": "student",
+      "text": "उसको चोडा दबाखे रकना बड़ेगं़",
+      "is_question": false
+    },
+    {
+      "start": 2151.55,
+      "end": 2153.55,
+      "speaker": "student",
+      "text": "द भागके",
+      "is_question": false
+    },
+    {
+      "start": 2153.55,
+      "end": 2166.53,
+      "speaker": "teacher",
+      "text": "उल्टा उुल्ता अुुता",
+      "is_question": false
+    },
+    {
+      "start": 2231.63,
+      "end": 2236.11,
+      "speaker": "teacher",
+      "text": "तो तुडा अपने अंदास ते कुत और बनाव कर असे रखना",
+      "is_question": false
+    },
+    {
+      "start": 2236.11,
+      "end": 2240.47,
+      "speaker": "teacher",
+      "text": "ये दो लाई नज़ोडनी चीए, पर इस में कॉछ द्रोइंग कर के करूए",
+      "is_question": false
+    },
+    {
+      "start": 2240.47,
+      "end": 2242.58,
+      "speaker": "student",
+      "text": "ती तिए त्रुंख करों?",
+      "is_question": false
+    },
+    {
+      "start": 2242.58,
+      "end": 2243.98,
+      "speaker": "student",
+      "text": "सब मिलके क्रहों",
+      "is_question": false
+    },
+    {
+      "start": 2243.98,
+      "end": 2248.14,
+      "speaker": "teacher",
+      "text": "तीनो पची है मेरे को, इदर आपका ची, उद़ आ पक चे, अद आम पाचि, यद्टार अ आतकाटी,",
+      "is_question": false
+    },
+    {
+      "start": 2248.14,
+      "end": 2249.14,
+      "speaker": "student",
+      "text": "तिके,",
+      "is_question": false
+    },
+    {
+      "start": 2250.28,
+      "end": 2252.96,
+      "speaker": "teacher",
+      "text": "तो तेई द्रोंग चाही हे में रगों,",
+      "is_question": false
+    },
+    {
+      "start": 2252.96,
+      "end": 2253.96,
+      "speaker": "student",
+      "text": "त्रिकल,",
+      "is_question": false
+    },
+    {
+      "start": 2256.76,
+      "end": 2259.48,
+      "speaker": "teacher",
+      "text": "तुभ भीर खारिज करतूंँगे मैं आंप को.",
+      "is_question": false
+    },
+    {
+      "start": 2259.48,
+      "end": 2261.6,
+      "speaker": "student",
+      "text": "अंके ग्रुक को बिस्कोलिपाय,",
+      "is_question": false
+    },
+    {
+      "start": 2261.6,
+      "end": 2263.98,
+      "speaker": "student",
+      "text": "अगर बाज़ा बच्छाँ बहार",
+      "is_question": false
+    },
+    {
+      "start": 2263.98,
+      "end": 2265.98,
+      "speaker": "student",
+      "text": "अर्वाद बीट्टीशाग ब्चाईगे",
+      "is_question": false
+    },
+    {
+      "start": 2265.98,
+      "end": 2267.98,
+      "speaker": "student",
+      "text": "अन्ग़दाब बोगा़",
+      "is_question": false
+    },
+    {
+      "start": 2267.98,
+      "end": 2273.22,
+      "speaker": "teacher",
+      "text": "अस्प्ड़ीजा प्रश़्े बूँँ",
+      "is_question": false
+    },
+    {
+      "start": 2273.22,
+      "end": 2276.21,
+      "speaker": "teacher",
+      "text": "अहँ, बैद्दिशन जाएग,",
+      "is_question": false
+    },
+    {
+      "start": 2276.21,
+      "end": 2278.34,
+      "speaker": "student",
+      "text": "अम बना, अंगी बिद़ोड,",
+      "is_question": false
+    },
+    {
+      "start": 2278.34,
+      "end": 2280.34,
+      "speaker": "student",
+      "text": "अ अ मैं बेदे लेगते है,",
+      "is_question": false
+    },
+    {
+      "start": 2280.34,
+      "end": 2285.02,
+      "speaker": "teacher",
+      "text": "अगर बाटरी कित बूल्ट किया?",
+      "is_question": true
+    },
+    {
+      "start": 2285.02,
+      "end": 2287.02,
+      "speaker": "student",
+      "text": "अर्दी बआट्री अंगा अस्वाड्रिए ना",
+      "is_question": false
+    },
+    {
+      "start": 2287.02,
+      "end": 2289.02,
+      "speaker": "student",
+      "text": "अन देख लेग बेद्रे वोल्त की है",
+      "is_question": false
+    },
+    {
+      "start": 2289.02,
+      "end": 2291.02,
+      "speaker": "student",
+      "text": "अम दिख में लिग मेरेव लगे बीदा बिदे लागी नहीं बोल दीए",
+      "is_question": false
+    },
+    {
+      "start": 2291.02,
+      "end": 2293.02,
+      "speaker": "student",
+      "text": "अह आप द्या आस्स्यस लोग है",
+      "is_question": false
+    },
+    {
+      "start": 2293.02,
+      "end": 2295.02,
+      "speaker": "student",
+      "text": "मस्ति करो और मसति खरो",
+      "is_question": false
+    },
+    {
+      "start": 2295.02,
+      "end": 2299.02,
+      "speaker": "teacher",
+      "text": "अगर बाटरी कित वोल्ड की है",
+      "is_question": false
+    },
+    {
+      "start": 2299.02,
+      "end": 2303.02,
+      "speaker": "teacher",
+      "text": "अर्गा बीट्री अस्वाडरी हो आप आता है",
+      "is_question": false
+    },
+    {
+      "start": 2303.02,
+      "end": 2307.11,
+      "speaker": "teacher",
+      "text": "अक बलापा लाग बआवर है",
+      "is_question": false
+    },
+    {
+      "start": 2307.11,
+      "end": 2313.86,
+      "speaker": "teacher",
+      "text": "अह ख़ाँई ब्लाता आ पाशाएँ लोग की आन प्रादा",
+      "is_question": false
+    },
+    {
+      "start": 2313.86,
+      "end": 2317.86,
+      "speaker": "teacher",
+      "text": "अन बना पीद्रि लेगे लिए बिटिग है",
+      "is_question": false
+    },
+    {
+      "start": 2317.86,
+      "end": 2321.86,
+      "speaker": "teacher",
+      "text": "अगर ना मोडु तो उसके तुछो़ अलगलक साइज के हैं।",
+      "is_question": false
+    },
+    {
+      "start": 2321.86,
+      "end": 2323.86,
+      "speaker": "student",
+      "text": "तीके, तचोद अ लंभा ला चोर है।",
+      "is_question": false
+    },
+    {
+      "start": 2323.86,
+      "end": 2327.11,
+      "speaker": "teacher",
+      "text": "उक अन सा है",
+      "is_question": false
+    },
+    {
+      "start": 2327.11,
+      "end": 2330.88,
+      "speaker": "teacher",
+      "text": "अर्वाला बायर हे, हो कंची चाएन विश भतात है",
+      "is_question": false
+    },
+    {
+      "start": 2330.88,
+      "end": 2335.18,
+      "speaker": "teacher",
+      "text": "प्लाच, थीक और",
+      "is_question": false
+    },
+    {
+      "start": 2335.18,
+      "end": 2337.73,
+      "speaker": "teacher",
+      "text": "औल ब्लैप अहला",
+      "is_question": false
+    },
+    {
+      "start": 2337.73,
+      "end": 2339.73,
+      "speaker": "student",
+      "text": "या वो ताता था",
+      "is_question": false
+    },
+    {
+      "start": 2339.73,
+      "end": 2341.73,
+      "speaker": "student",
+      "text": "यह आपकी एलेडी",
+      "is_question": false
+    },
+    {
+      "start": 2341.73,
+      "end": 2358.65,
+      "speaker": "teacher",
+      "text": "अगर में इसको ना मोडु, तो उसके तु चोद अलगलक साईज के है, टिके, दो चुड़ अ लगग सायज खे आना, उदो, जो लंभावाला च्छछोध है. उक अन सा है? लाल वाग ले, कि बलैक वल?",
+      "is_question": true
+    },
+    {
+      "start": 2358.65,
+      "end": 2367.94,
+      "speaker": "teacher",
+      "text": "बलाग वाला क्या है",
+      "is_question": true
+    },
+    {
+      "start": 2367.94,
+      "end": 2369.2,
+      "speaker": "student",
+      "text": "माझनेस",
+      "is_question": false
+    },
+    {
+      "start": 2369.2,
+      "end": 2373.18,
+      "speaker": "teacher",
+      "text": "बर लाल वोला ख्यआ है",
+      "is_question": false
+    },
+    {
+      "start": 2373.18,
+      "end": 2377.33,
+      "speaker": "teacher",
+      "text": "ब्लस किस के साथ जुड़ा ही वहापे",
+      "is_question": false
+    },
+    {
+      "start": 2377.33,
+      "end": 2378.33,
+      "speaker": "student",
+      "text": "जोडा हि किनी ज्डौडर",
+      "is_question": false
+    },
+    {
+      "start": 2378.33,
+      "end": 2387.16,
+      "speaker": "teacher",
+      "text": "और माहिलें कि सा जड़्ड वआप यहा आभ जीग क्ता",
+      "is_question": false
+    },
+    {
+      "start": 2387.16,
+      "end": 2390.16,
+      "speaker": "teacher",
+      "text": "तो लंबी बाली चोट़ है कोंची",
+      "is_question": false
+    },
+    {
+      "start": 2390.16,
+      "end": 2391.19,
+      "speaker": "student",
+      "text": "साहीड है",
+      "is_question": false
+    },
+    {
+      "start": 2391.19,
+      "end": 2393.19,
+      "speaker": "student",
+      "text": "देड में",
+      "is_question": false
+    },
+    {
+      "start": 2393.19,
+      "end": 2399.86,
+      "speaker": "teacher",
+      "text": "सान बता हो नरको",
+      "is_question": false
+    },
+    {
+      "start": 2399.86,
+      "end": 2401.86,
+      "speaker": "student",
+      "text": "लंभी बाली क्या है",
+      "is_question": false
+    },
+    {
+      "start": 2401.86,
+      "end": 2403.86,
+      "speaker": "student",
+      "text": "लमभा ला क्छा हो दर",
+      "is_question": false
+    },
+    {
+      "start": 2403.86,
+      "end": 2405.86,
+      "speaker": "student",
+      "text": "और चोटा वाला किया आप आते है",
+      "is_question": false
+    },
+    {
+      "start": 2405.86,
+      "end": 2408.92,
+      "speaker": "teacher",
+      "text": "जो लोग",
+      "is_question": false
+    },
+    {
+      "start": 2408.92,
+      "end": 2410.92,
+      "speaker": "student",
+      "text": "ये देडिय आ बना अपको यो डी",
+      "is_question": false
+    },
+    {
+      "start": 2410.92,
+      "end": 2412.92,
+      "speaker": "student",
+      "text": "या दी दिल बैट्री औ़ बटरी के चनाप",
+      "is_question": false
+    },
+    {
+      "start": 2412.92,
+      "end": 2414.92,
+      "speaker": "student",
+      "text": "औ रे लगा हु",
+      "is_question": false
+    },
+    {
+      "start": 2414.92,
+      "end": 2416.92,
+      "speaker": "student",
+      "text": "मैं अ ब",
+      "is_question": false
+    },
+    {
+      "start": 2416.92,
+      "end": 2418.92,
+      "speaker": "student",
+      "text": "ताईम आर्फ वो",
+      "is_question": false
+    },
+    {
+      "start": 2418.92,
+      "end": 2438.07,
+      "speaker": "teacher",
+      "text": "वी तुछ त्रिए पो",
+      "is_question": false
+    },
+    {
+      "start": 2438.07,
+      "end": 2440.07,
+      "speaker": "student",
+      "text": "अगर साच में जोड़ लेए तो क्या जागा?",
+      "is_question": false
+    },
+    {
+      "start": 2440.07,
+      "end": 2442.49,
+      "speaker": "student",
+      "text": "फुज जगग जैग है",
+      "is_question": false
+    },
+    {
+      "start": 2442.49,
+      "end": 2449.86,
+      "speaker": "teacher",
+      "text": "नहु वा",
+      "is_question": false
+    },
+    {
+      "start": 2449.86,
+      "end": 2451.18,
+      "speaker": "student",
+      "text": "जला",
+      "is_question": false
+    },
+    {
+      "start": 2451.18,
+      "end": 2452.18,
+      "speaker": "student",
+      "text": "ने जरा",
+      "is_question": false
+    },
+    {
+      "start": 2452.18,
+      "end": 2454.18,
+      "speaker": "student",
+      "text": "और पेंषिल औ़गेरी करो",
+      "is_question": false
+    },
+    {
+      "start": 2454.18,
+      "end": 2455.18,
+      "speaker": "student",
+      "text": "जेली ज़्िए करी खरो",
+      "is_question": false
+    },
+    {
+      "start": 2455.18,
+      "end": 2456.18,
+      "speaker": "student",
+      "text": "ताई जहला",
+      "is_question": false
+    },
+    {
+      "start": 2456.18,
+      "end": 2462.33,
+      "speaker": "teacher",
+      "text": "तब रही तेख़ो",
+      "is_question": false
+    },
+    {
+      "start": 2462.33,
+      "end": 2472.9,
+      "speaker": "teacher",
+      "text": "जिला",
+      "is_question": false
+    },
+    {
+      "start": 2472.9,
+      "end": 2473.9,
+      "speaker": "student",
+      "text": "चलो",
+      "is_question": false
+    },
+    {
+      "start": 2473.9,
+      "end": 2474.9,
+      "speaker": "student",
+      "text": "पोस कर दिया",
+      "is_question": false
+    },
+    {
+      "start": 2474.9,
+      "end": 2477.4,
+      "speaker": "teacher",
+      "text": "कोग के काँ जी?",
+      "is_question": true
+    },
+    {
+      "start": 2477.4,
+      "end": 2478.4,
+      "speaker": "student",
+      "text": "लाक लैं",
+      "is_question": false
+    },
+    {
+      "start": 2478.4,
+      "end": 2480.4,
+      "speaker": "student",
+      "text": "अग, तो तुट, जला की नहीं ज़ला?",
+      "is_question": false
+    },
+    {
+      "start": 2480.4,
+      "end": 2481.4,
+      "speaker": "student",
+      "text": "नई ज्ला",
+      "is_question": false
+    },
+    {
+      "start": 2481.4,
+      "end": 2484.39,
+      "speaker": "teacher",
+      "text": "ये है अंकी लाएए लिए साइद",
+      "is_question": false
+    },
+    {
+      "start": 2484.39,
+      "end": 2486.68,
+      "speaker": "student",
+      "text": "अर यह अ अक पक्ड़ है, यक लैल वाला पच़़्।",
+      "is_question": false
+    },
+    {
+      "start": 2486.68,
+      "end": 2498.66,
+      "speaker": "teacher",
+      "text": "और तार इसको आसे जोडना चीए",
+      "is_question": false
+    },
+    {
+      "start": 2498.66,
+      "end": 2508.47,
+      "speaker": "teacher",
+      "text": "तिक यै या ब्लैक ववाब प्च़्द।",
+      "is_question": false
+    },
+    {
+      "start": 2508.47,
+      "end": 2510.47,
+      "speaker": "student",
+      "text": "अह यए होगे पोसेटेद",
+      "is_question": false
+    },
+    {
+      "start": 2510.47,
+      "end": 2515.62,
+      "speaker": "teacher",
+      "text": "अगर ये अंकी लाएक वाली साँईद.",
+      "is_question": false
+    },
+    {
+      "start": 2515.62,
+      "end": 2517.62,
+      "speaker": "student",
+      "text": "को यह पख़डव है यांपे एकलायल वब़ा पक़ो.",
+      "is_question": false
+    },
+    {
+      "start": 2517.62,
+      "end": 2521.16,
+      "speaker": "teacher",
+      "text": "और तार इसको आज़े जुडना चीए.",
+      "is_question": false
+    },
+    {
+      "start": 2521.16,
+      "end": 2523.16,
+      "speaker": "student",
+      "text": "तिक यै एं बलागवाब प क़ूए अक अ.",
+      "is_question": false
+    },
+    {
+      "start": 2523.16,
+      "end": 2532.57,
+      "speaker": "teacher",
+      "text": "औगे होगा थो बवजाटेद औंगी हो गादे ना.",
+      "is_question": false
+    },
+    {
+      "start": 2532.57,
+      "end": 2535.92,
+      "speaker": "teacher",
+      "text": "जला जबने लिएना.",
+      "is_question": false
+    },
+    {
+      "start": 2535.92,
+      "end": 2538.21,
+      "speaker": "student",
+      "text": "ज़ला कुछ तो जला",
+      "is_question": false
+    },
+    {
+      "start": 2538.21,
+      "end": 2540.21,
+      "speaker": "student",
+      "text": "अग जरला",
+      "is_question": false
+    },
+    {
+      "start": 2540.21,
+      "end": 2542.52,
+      "speaker": "student",
+      "text": "अंप कर के लिखा",
+      "is_question": false
+    },
+    {
+      "start": 2542.52,
+      "end": 2551.37,
+      "speaker": "teacher",
+      "text": "कैसे पकन ना समझ मैं आप",
+      "is_question": true
+    },
+    {
+      "start": 2551.37,
+      "end": 2554.37,
+      "speaker": "teacher",
+      "text": "वह नी होगा किए वाँपे फैंचिल का बराभर वो नहीं हो",
+      "is_question": false
+    },
+    {
+      "start": 2554.37,
+      "end": 2574.83,
+      "speaker": "teacher",
+      "text": "अरगर ने नोजब",
+      "is_question": false
+    },
+    {
+      "start": 2574.83,
+      "end": 2576.83,
+      "speaker": "student",
+      "text": "ज्डला",
+      "is_question": false
+    },
+    {
+      "start": 2576.83,
+      "end": 2579.31,
+      "speaker": "student",
+      "text": "जिड़ा अम को",
+      "is_question": false
+    },
+    {
+      "start": 2579.31,
+      "end": 2588.06,
+      "speaker": "teacher",
+      "text": "तु दिच़़",
+      "is_question": false
+    },
+    {
+      "start": 2588.06,
+      "end": 2597.42,
+      "speaker": "teacher",
+      "text": "जोड आमे बीचे गर को",
+      "is_question": false
+    },
+    {
+      "start": 2597.42,
+      "end": 2599.42,
+      "speaker": "student",
+      "text": "नई जंडर",
+      "is_question": false
+    },
+    {
+      "start": 2599.42,
+      "end": 2622.21,
+      "speaker": "teacher",
+      "text": "अप तो वो प्यूज अ भाँगा अर जाला ज़ालग जला.",
+      "is_question": false
+    },
+    {
+      "start": 2623.21,
+      "end": 2630.07,
+      "speaker": "teacher",
+      "text": "अमेशा पुजग़़ पलस के साथ लगना हमेसा फुस को फलसके सथब लागता.",
+      "is_question": false
+    },
+    {
+      "start": 2631.84,
+      "end": 2638.26,
+      "speaker": "teacher",
+      "text": "अंपट्टिए तुर्चा बाई पाएपा तेद्बाना और पर तर वाखादा था.",
+      "is_question": false
+    },
+    {
+      "start": 2638.54,
+      "end": 2642.8,
+      "speaker": "teacher",
+      "text": "अपसे पुचाँ अंगे अर तो अतने गरुक में जान्गो.",
+      "is_question": false
+    },
+    {
+      "start": 2643.8,
+      "end": 2647.18,
+      "speaker": "teacher",
+      "text": "अमझेस को हमजा किसके सथ जोड़ेंघ?",
+      "is_question": true
+    },
+    {
+      "start": 2648.18,
+      "end": 2650.18,
+      "speaker": "student",
+      "text": "असको किسके चथजो डवडेंके.",
+      "is_question": false
+    },
+    {
+      "start": 2651.18,
+      "end": 2653.18,
+      "speaker": "student",
+      "text": "लंबी वाली साथ कोंची होती लेटी मैं?",
+      "is_question": false
+    },
+    {
+      "start": 2654.18,
+      "end": 2656.22,
+      "speaker": "student",
+      "text": "अनचोटि वगालि सायद कोई लीटाई मैग?",
+      "is_question": false
+    },
+    {
+      "start": 2657.22,
+      "end": 2659.54,
+      "speaker": "student",
+      "text": "ब्रेद वली बायर के होथी आ?",
+      "is_question": false
+    },
+    {
+      "start": 2659.54,
+      "end": 2661.54,
+      "speaker": "student",
+      "text": "ब्रेट वाली बायर के अथी है",
+      "is_question": false
+    },
+    {
+      "start": 2661.54,
+      "end": 2663.75,
+      "speaker": "student",
+      "text": "प्लाक",
+      "is_question": false
+    },
+    {
+      "start": 2663.75,
+      "end": 2665.75,
+      "speaker": "student",
+      "text": "अर बलाग वलीबावायार की अती हा",
+      "is_question": false
+    },
+    {
+      "start": 2665.75,
+      "end": 2671.5,
+      "speaker": "teacher",
+      "text": "अलर वो बब बरेत वब्ली क्लज है",
+      "is_question": false
+    },
+    {
+      "start": 2671.5,
+      "end": 2672.5,
+      "speaker": "student",
+      "text": "तो भुच्षी भालि कोंची हूँ",
+      "is_question": false
+    },
+    {
+      "start": 2672.5,
+      "end": 2675.86,
+      "speaker": "teacher",
+      "text": "बुत्शी वुली, खुन्चि हुूू",
+      "is_question": false
+    },
+    {
+      "start": 2675.86,
+      "end": 2676.86,
+      "speaker": "student",
+      "text": "बिद्नास",
+      "is_question": false
+    },
+    {
+      "start": 2676.86,
+      "end": 2679.44,
+      "speaker": "teacher",
+      "text": "अ, थीख जा, जो",
+      "is_question": false
+    },
+    {
+      "start": 2679.44,
+      "end": 2681.44,
+      "speaker": "student",
+      "text": "अब एक तास्क देगे जारे हूँ",
+      "is_question": false
+    },
+    {
+      "start": 2681.44,
+      "end": 2682.68,
+      "speaker": "student",
+      "text": "अंप दोनो को",
+      "is_question": false
+    },
+    {
+      "start": 2682.68,
+      "end": 2684.6,
+      "speaker": "student",
+      "text": "यहाँ पे द्रोएंग करनी है",
+      "is_question": false
+    },
+    {
+      "start": 2684.6,
+      "end": 2685.6,
+      "speaker": "student",
+      "text": "असी",
+      "is_question": false
+    },
+    {
+      "start": 2685.6,
+      "end": 2687.64,
+      "speaker": "student",
+      "text": "अन नहीं अही अर",
+      "is_question": false
+    },
+    {
+      "start": 2687.64,
+      "end": 2688.64,
+      "speaker": "student",
+      "text": "कुच और",
+      "is_question": false
+    },
+    {
+      "start": 2688.64,
+      "end": 2690.04,
+      "speaker": "student",
+      "text": "जिस आप में जोडोग है",
+      "is_question": false
+    },
+    {
+      "start": 2690.04,
+      "end": 2691.24,
+      "speaker": "student",
+      "text": "तो भी जलनी ची हें",
+      "is_question": false
+    },
+    {
+      "start": 2691.24,
+      "end": 2692.44,
+      "speaker": "student",
+      "text": "पर थोदी शी",
+      "is_question": false
+    },
+    {
+      "start": 2692.44,
+      "end": 2694.44,
+      "speaker": "student",
+      "text": "अ सी इनोवेटिव हो दीची",
+      "is_question": false
+    },
+    {
+      "start": 2694.44,
+      "end": 2695.44,
+      "speaker": "student",
+      "text": "अ नीजी लेए लोटी ने लीए",
+      "is_question": false
+    },
+    {
+      "start": 2695.44,
+      "end": 2697.44,
+      "speaker": "student",
+      "text": "द्रोई मनाई",
+      "is_question": false
+    },
+    {
+      "start": 2697.44,
+      "end": 2698.44,
+      "speaker": "student",
+      "text": "अलगलव",
+      "is_question": false
+    },
+    {
+      "start": 2698.44,
+      "end": 2700.44,
+      "speaker": "student",
+      "text": "यहाँ आपकी अगनीची येवाप की औग़ी आनी ची",
+      "is_question": false
+    },
+    {
+      "start": 2700.44,
+      "end": 2701.82,
+      "speaker": "student",
+      "text": "तीके",
+      "is_question": false
+    },
+    {
+      "start": 2701.82,
+      "end": 2709.84,
+      "speaker": "teacher",
+      "text": "जावएक पेंसिल लेकिएग",
+      "is_question": false
+    },
+    {
+      "start": 2709.84,
+      "end": 2712.8,
+      "speaker": "teacher",
+      "text": "यी क्या है",
+      "is_question": true
+    },
+    {
+      "start": 2712.8,
+      "end": 2713.8,
+      "speaker": "student",
+      "text": "बआगा हा",
+      "is_question": false
+    },
+    {
+      "start": 2713.8,
+      "end": 2717.17,
+      "speaker": "teacher",
+      "text": "बहुत लो",
+      "is_question": false
+    },
+    {
+      "start": 2717.17,
+      "end": 2718.17,
+      "speaker": "student",
+      "text": "तिक तो बोल्ग की है",
+      "is_question": false
+    },
+    {
+      "start": 2718.17,
+      "end": 2719.17,
+      "speaker": "student",
+      "text": "ना",
+      "is_question": false
+    },
+    {
+      "start": 2719.17,
+      "end": 2721.06,
+      "speaker": "student",
+      "text": "अंगे उपर क्के ला",
+      "is_question": false
+    },
+    {
+      "start": 2721.06,
+      "end": 2723.06,
+      "speaker": "student",
+      "text": "अर्च्ट्ब बीगी बाग़्ा",
+      "is_question": false
+    },
+    {
+      "start": 2723.06,
+      "end": 2729.08,
+      "speaker": "teacher",
+      "text": "अग, मस्ती नहीं, क्या अर्य है?",
+      "is_question": true
+    },
+    {
+      "start": 2729.08,
+      "end": 2733.08,
+      "speaker": "teacher",
+      "text": "बैट एक स्टिना, अंग जुक्रि नावो खड़्ी गा,",
+      "is_question": false
+    },
+    {
+      "start": 2733.08,
+      "end": 2737.08,
+      "speaker": "teacher",
+      "text": "अ ब्रेश्वाड, ये जो लाल भालिव़ार है,",
+      "is_question": false
+    },
+    {
+      "start": 2737.08,
+      "end": 2741.24,
+      "speaker": "teacher",
+      "text": "को प्शो रेडान है असके अ।, शाँश रामाई,",
+      "is_question": false
+    },
+    {
+      "start": 2741.24,
+      "end": 2746.24,
+      "speaker": "teacher",
+      "text": "अ, और बलाक वालीव्भार, बी खाद यी पिक्षागा रीग.",
+      "is_question": false
+    },
+    {
+      "start": 2781.52,
+      "end": 2785.84,
+      "speaker": "teacher",
+      "text": "अगर बाट्री च्नाख और ये औगा अर मैं चालू कर रही हूँ।",
+      "is_question": false
+    },
+    {
+      "start": 2786.84,
+      "end": 2789.84,
+      "speaker": "teacher",
+      "text": "ताइमर वो चोड़ा प्रदा लाडर पुद लोग लेग़ी त्रूतो",
+      "is_question": false
+    },
+    {
+      "start": 2790.84,
+      "end": 2792.84,
+      "speaker": "student",
+      "text": "दर दो पाद़ पिकरी करीगे तरुतो",
+      "is_question": false
+    },
+    {
+      "start": 2793.84,
+      "end": 2794.84,
+      "speaker": "student",
+      "text": "लगला रोँ उगोट",
+      "is_question": false
+    },
+    {
+      "start": 2795.84,
+      "end": 2797.45,
+      "speaker": "student",
+      "text": "लहा उनकोद",
+      "is_question": false
+    },
+    {
+      "start": 2798.45,
+      "end": 2800.45,
+      "speaker": "student",
+      "text": "लिए तेर साथ दे आसा",
+      "is_question": false
+    },
+    {
+      "start": 2800.45,
+      "end": 2802.77,
+      "speaker": "student",
+      "text": "ला़वाई लिब त्रूट",
+      "is_question": false
+    },
+    {
+      "start": 2802.77,
+      "end": 2805.77,
+      "speaker": "teacher",
+      "text": "दर दव, निकरि करि खाँजा",
+      "is_question": false
+    },
+    {
+      "start": 2805.77,
+      "end": 2808.22,
+      "speaker": "student",
+      "text": "लग, लल, वगग",
+      "is_question": false
+    },
+    {
+      "start": 2808.22,
+      "end": 2816.63,
+      "speaker": "teacher",
+      "text": "दालग तर, देज़ दियार साद",
+      "is_question": false
+    },
+    {
+      "start": 2816.63,
+      "end": 2818.63,
+      "speaker": "student",
+      "text": "ने वैग मैं, बैज नाड",
+      "is_question": false
+    },
+    {
+      "start": 2818.63,
+      "end": 2826.04,
+      "speaker": "teacher",
+      "text": "वेग",
+      "is_question": false
+    },
+    {
+      "start": 2826.04,
+      "end": 2828.42,
+      "speaker": "student",
+      "text": "तारच तैम नी कुन साला",
+      "is_question": false
+    },
+    {
+      "start": 2828.42,
+      "end": 2833.12,
+      "speaker": "teacher",
+      "text": "तम लेका मिला लै, जे लीका जास्तो पूर",
+      "is_question": false
+    },
+    {
+      "start": 2833.12,
+      "end": 2839.73,
+      "speaker": "teacher",
+      "text": "ते द्र के जज्ता, तो जी",
+      "is_question": false
+    },
+    {
+      "start": 2839.73,
+      "end": 2854.59,
+      "speaker": "teacher",
+      "text": "अगर बादना लगा याख लाग लोग, लैगद लर लेग हैं",
+      "is_question": false
+    },
+    {
+      "start": 2854.59,
+      "end": 2857.88,
+      "speaker": "teacher",
+      "text": "अस्प्ट्ब लिए आश्दा बद्धुग",
+      "is_question": false
+    },
+    {
+      "start": 2857.88,
+      "end": 2861.23,
+      "speaker": "teacher",
+      "text": "अह आस्स्तिक ल्गे लीए",
+      "is_question": false
+    },
+    {
+      "start": 2861.23,
+      "end": 2871.58,
+      "speaker": "teacher",
+      "text": "तुमनो तोचर साँ ल लक्डार",
+      "is_question": false
+    },
+    {
+      "start": 2871.58,
+      "end": 2873.58,
+      "speaker": "student",
+      "text": "ती चैन ल के अं",
+      "is_question": false
+    },
+    {
+      "start": 2873.58,
+      "end": 2876.65,
+      "speaker": "teacher",
+      "text": "दार में ये आं",
+      "is_question": false
+    },
+    {
+      "start": 2876.65,
+      "end": 2878.65,
+      "speaker": "student",
+      "text": "दर मैं लुका राना",
+      "is_question": false
+    },
+    {
+      "start": 2878.65,
+      "end": 2881.1,
+      "speaker": "student",
+      "text": "तिलेक न रें",
+      "is_question": false
+    },
+    {
+      "start": 2881.1,
+      "end": 2885.45,
+      "speaker": "teacher",
+      "text": "तो बाग लाएग कर लगे तुब",
+      "is_question": false
+    },
+    {
+      "start": 2885.45,
+      "end": 2887.8,
+      "speaker": "student",
+      "text": "लोकर ने लिए ताब",
+      "is_question": false
+    },
+    {
+      "start": 2887.8,
+      "end": 2895.33,
+      "speaker": "teacher",
+      "text": "लेगकर में त्मा कार है ल्गा दरशें",
+      "is_question": false
+    },
+    {
+      "start": 2895.33,
+      "end": 2897.33,
+      "speaker": "student",
+      "text": "वायर थोड़ दावे राउ",
+      "is_question": false
+    },
+    {
+      "start": 2897.33,
+      "end": 2903.26,
+      "speaker": "teacher",
+      "text": "नहीं नई",
+      "is_question": false
+    },
+    {
+      "start": 2903.26,
+      "end": 2904.26,
+      "speaker": "student",
+      "text": "शम्बू वळ थु दब",
+      "is_question": false
+    },
+    {
+      "start": 2904.26,
+      "end": 2906.33,
+      "speaker": "student",
+      "text": "निस लम्र आई",
+      "is_question": false
+    },
+    {
+      "start": 2906.33,
+      "end": 2908.33,
+      "speaker": "student",
+      "text": "व्यर स्विदा",
+      "is_question": false
+    },
+    {
+      "start": 2908.33,
+      "end": 2909.33,
+      "speaker": "student",
+      "text": "लं लल",
+      "is_question": false
+    },
+    {
+      "start": 2909.33,
+      "end": 2910.33,
+      "speaker": "student",
+      "text": "द्रान",
+      "is_question": false
+    },
+    {
+      "start": 2910.33,
+      "end": 2912.33,
+      "speaker": "student",
+      "text": "यह वो लाग नाँ गया लेग, तब लज्ट तो इगे",
+      "is_question": false
+    },
+    {
+      "start": 2912.33,
+      "end": 2913.33,
+      "speaker": "student",
+      "text": "वाईरू भी दर",
+      "is_question": false
+    },
+    {
+      "start": 2913.33,
+      "end": 2917.34,
+      "speaker": "teacher",
+      "text": "लोग कर सब मादे ते भि दार",
+      "is_question": false
+    },
+    {
+      "start": 2917.34,
+      "end": 2918.34,
+      "speaker": "student",
+      "text": "चोर",
+      "is_question": false
+    },
+    {
+      "start": 2918.34,
+      "end": 2920.34,
+      "speaker": "student",
+      "text": "नहीं नुए तिटार",
+      "is_question": false
+    },
+    {
+      "start": 2920.34,
+      "end": 2923.88,
+      "speaker": "teacher",
+      "text": "मेरी बेरि",
+      "is_question": false
+    },
+    {
+      "start": 2923.88,
+      "end": 2930.26,
+      "speaker": "teacher",
+      "text": "अगर",
+      "is_question": false
+    },
+    {
+      "start": 2930.26,
+      "end": 2931.26,
+      "speaker": "student",
+      "text": "अलग सद कैं से है",
+      "is_question": false
+    },
+    {
+      "start": 2931.26,
+      "end": 2933.22,
+      "speaker": "student",
+      "text": "अके",
+      "is_question": false
+    },
+    {
+      "start": 2933.22,
+      "end": 2935.22,
+      "speaker": "student",
+      "text": "चाल आज",
+      "is_question": false
+    },
+    {
+      "start": 2935.22,
+      "end": 2937.02,
+      "speaker": "student",
+      "text": "आल अर्द",
+      "is_question": false
+    },
+    {
+      "start": 2937.02,
+      "end": 2938.02,
+      "speaker": "student",
+      "text": "जीस करनी आन",
+      "is_question": false
+    },
+    {
+      "start": 2938.02,
+      "end": 2949.91,
+      "speaker": "teacher",
+      "text": "अंचा बच्छे कैसे हो",
+      "is_question": true
+    },
+    {
+      "start": 2949.91,
+      "end": 2951.91,
+      "speaker": "student",
+      "text": "तो यह सब साइड के रब दो",
+      "is_question": false
+    },
+    {
+      "start": 2951.91,
+      "end": 2954.91,
+      "speaker": "teacher",
+      "text": "हाद में एक पैंसिल रहा भना अप नाम किसार",
+      "is_question": false
+    },
+    {
+      "start": 2954.91,
+      "end": 2955.91,
+      "speaker": "student",
+      "text": "लिक या?",
+      "is_question": false
+    },
+    {
+      "start": 2955.91,
+      "end": 2957.91,
+      "speaker": "student",
+      "text": "तब मैं सिल मेख ये और लेग यै",
+      "is_question": false
+    },
+    {
+      "start": 2957.91,
+      "end": 2959.04,
+      "speaker": "student",
+      "text": "नरने?",
+      "is_question": false
+    },
+    {
+      "start": 2959.04,
+      "end": 2961.04,
+      "speaker": "student",
+      "text": "इसके पास मेही जली दस की गिलजी तार",
+      "is_question": false
+    },
+    {
+      "start": 2961.04,
+      "end": 2963.04,
+      "speaker": "student",
+      "text": "ददस, नहां",
+      "is_question": false
+    },
+    {
+      "start": 2963.04,
+      "end": 2965.04,
+      "speaker": "student",
+      "text": "सात",
+      "is_question": false
+    },
+    {
+      "start": 2965.04,
+      "end": 2966.04,
+      "speaker": "student",
+      "text": "पढद रेए बाट",
+      "is_question": false
+    },
+    {
+      "start": 2966.04,
+      "end": 2967.04,
+      "speaker": "student",
+      "text": "सास",
+      "is_question": false
+    },
+    {
+      "start": 2967.04,
+      "end": 2968.17,
+      "speaker": "student",
+      "text": "तिहे",
+      "is_question": false
+    },
+    {
+      "start": 2968.17,
+      "end": 3013.92,
+      "speaker": "teacher",
+      "text": "अगर तो बज़ाद बाट बना बीजाग तुछ़़।",
+      "is_question": false
+    },
+    {
+      "start": 3013.92,
+      "end": 3035.6,
+      "speaker": "teacher",
+      "text": "तीखे ताख़ी उसकी बहाड जान",
+      "is_question": false
+    },
+    {
+      "start": 3035.6,
+      "end": 3039.62,
+      "speaker": "teacher",
+      "text": "तब ब पच्ट़ तरीगा लग़े राए",
+      "is_question": false
+    },
+    {
+      "start": 3039.62,
+      "end": 3041.62,
+      "speaker": "student",
+      "text": "तक असक्च तेखी आप प्शट़्िटी तिखा रगे लाई",
+      "is_question": false
+    },
+    {
+      "start": 3041.62,
+      "end": 3051.98,
+      "speaker": "teacher",
+      "text": "तत बिज्द़ सर्ग्बि उदर पेपर सेट की टी करा़",
+      "is_question": false
+    },
+    {
+      "start": 3051.98,
+      "end": 3053.98,
+      "speaker": "student",
+      "text": "तो अप सब तरीका लग लाग है",
+      "is_question": false
+    },
+    {
+      "start": 3053.98,
+      "end": 3055.98,
+      "speaker": "student",
+      "text": "तु आप तब सुच्टी कभी तलीकवा रग़ लोग",
+      "is_question": false
+    },
+    {
+      "start": 3055.98,
+      "end": 3066.46,
+      "speaker": "teacher",
+      "text": "ता समजा आ आने",
+      "is_question": false
+    },
+    {
+      "start": 3066.46,
+      "end": 3077.54,
+      "speaker": "teacher",
+      "text": "त्बवोली करना",
+      "is_question": false
+    },
+    {
+      "start": 3077.54,
+      "end": 3109.53,
+      "speaker": "teacher",
+      "text": "तीज़, आयी शी मैद दी",
+      "is_question": false
+    },
+    {
+      "start": 3109.53,
+      "end": 3113.51,
+      "speaker": "teacher",
+      "text": "बताती हूँ मैं",
+      "is_question": false
+    },
+    {
+      "start": 3113.51,
+      "end": 3115.51,
+      "speaker": "student",
+      "text": "मैत जाने दो मेरे कूं",
+      "is_question": false
+    },
+    {
+      "start": 3115.51,
+      "end": 3118.09,
+      "speaker": "teacher",
+      "text": "तिके, औजन दू, उसको और जनदु",
+      "is_question": false
+    },
+    {
+      "start": 3118.09,
+      "end": 3138.71,
+      "speaker": "teacher",
+      "text": "तेके",
+      "is_question": false
+    },
+    {
+      "start": 3138.71,
+      "end": 3142.71,
+      "speaker": "teacher",
+      "text": "अपने देशान दो पर दियानदे जो बदिए दूएगा नाँपे नम लिख दैना अना",
+      "is_question": false
+    },
+    {
+      "start": 3142.71,
+      "end": 3144.71,
+      "speaker": "student",
+      "text": "और यहाप ख़्सी कक्षामबे पड़रो वो ल्गना",
+      "is_question": false
+    },
+    {
+      "start": 3144.71,
+      "end": 3146.71,
+      "speaker": "student",
+      "text": "तिक्या वुएतनाबधर लो फैले",
+      "is_question": false
+    },
+    {
+      "start": 3146.71,
+      "end": 3149.19,
+      "speaker": "student",
+      "text": "मरादी में लेको",
+      "is_question": false
+    },
+    {
+      "start": 3149.19,
+      "end": 3152.57,
+      "speaker": "teacher",
+      "text": "अंपराती",
+      "is_question": false
+    },
+    {
+      "start": 3152.57,
+      "end": 3154.57,
+      "speaker": "student",
+      "text": "इंगलिष मेरे लीक तो डिक दو",
+      "is_question": false
+    },
+    {
+      "start": 3154.57,
+      "end": 3157.21,
+      "speaker": "teacher",
+      "text": "इआप है",
+      "is_question": false
+    },
+    {
+      "start": 3157.21,
+      "end": 3160.77,
+      "speaker": "teacher",
+      "text": "यहाँ प्राजु मैं अपना नाम और अमना कच्षा मै वो लिग दो",
+      "is_question": false
+    },
+    {
+      "start": 3160.77,
+      "end": 3162.5,
+      "speaker": "student",
+      "text": "मैद देख लेजो",
+      "is_question": false
+    },
+    {
+      "start": 3162.5,
+      "end": 3163.78,
+      "speaker": "student",
+      "text": "ता जी तीट्टा",
+      "is_question": false
+    },
+    {
+      "start": 3163.78,
+      "end": 3169.11,
+      "speaker": "teacher",
+      "text": "तो मराती मै, जिस मैस जम तै",
+      "is_question": false
+    },
+    {
+      "start": 3169.11,
+      "end": 3171.58,
+      "speaker": "student",
+      "text": "मरी दी, तिक",
+      "is_question": false
+    },
+    {
+      "start": 3171.58,
+      "end": 3174.02,
+      "speaker": "student",
+      "text": "मर दि में लीकना है, मर मरदी मे ल्ग हो",
+      "is_question": false
+    },
+    {
+      "start": 3174.02,
+      "end": 3176.26,
+      "speaker": "student",
+      "text": "मूस इस भी मरहाति पर पुर करूनी माझ",
+      "is_question": false
+    },
+    {
+      "start": 3176.26,
+      "end": 3179.08,
+      "speaker": "teacher",
+      "text": "तेके, औग कछा",
+      "is_question": false
+    },
+    {
+      "start": 3277.51,
+      "end": 3281.51,
+      "speaker": "teacher",
+      "text": "बैट्री अर वो सब जोडा है, उसका एक दाग्राम बनादू.",
+      "is_question": false
+    },
+    {
+      "start": 3281.51,
+      "end": 3284.51,
+      "speaker": "teacher",
+      "text": "तीके, याध है तो बड़ाए दो.",
+      "is_question": false
+    },
+    {
+      "start": 3284.51,
+      "end": 3285.51,
+      "speaker": "student",
+      "text": "बाट़राँ के साथ?",
+      "is_question": false
+    },
+    {
+      "start": 3285.51,
+      "end": 3287.51,
+      "speaker": "student",
+      "text": "द्रूइं ब नाने.",
+      "is_question": false
+    },
+    {
+      "start": 3287.51,
+      "end": 3292.51,
+      "speaker": "teacher",
+      "text": "वैसा अलाब कुछ ज़िस, जैस आपने बंआए, वेसावना दु.",
+      "is_question": false
+    },
+    {
+      "start": 3292.51,
+      "end": 3296.53,
+      "speaker": "teacher",
+      "text": "आसा ही बिडना सुत्ते है.",
+      "is_question": false
+    },
+    {
+      "start": 3296.53,
+      "end": 3306.02,
+      "speaker": "teacher",
+      "text": "जेसे बनाना अपने ही साब से भनाँ",
+      "is_question": false
+    },
+    {
+      "start": 3306.02,
+      "end": 3307.02,
+      "speaker": "student",
+      "text": "अन इस में",
+      "is_question": false
+    },
+    {
+      "start": 3307.02,
+      "end": 3308.02,
+      "speaker": "student",
+      "text": "अस मैं",
+      "is_question": false
+    },
+    {
+      "start": 3308.02,
+      "end": 3311.06,
+      "speaker": "teacher",
+      "text": "इखाली जगा मै इس मे इ स मेग खाए जागन",
+      "is_question": false
+    },
+    {
+      "start": 3311.06,
+      "end": 3320.16,
+      "speaker": "teacher",
+      "text": "बड़ा लेए",
+      "is_question": false
+    },
+    {
+      "start": 3320.16,
+      "end": 3322.16,
+      "speaker": "student",
+      "text": "कैसे मेरे चोटम ब बाडा सकतो बताशा",
+      "is_question": false
+    },
+    {
+      "start": 3322.16,
+      "end": 3334.94,
+      "speaker": "teacher",
+      "text": "उडुड जै उतर",
+      "is_question": false
+    },
+    {
+      "start": 3334.94,
+      "end": 3336.94,
+      "speaker": "student",
+      "text": "बैटरी बंआउ चाहे तो लीडी भंईउ",
+      "is_question": false
+    },
+    {
+      "start": 3336.94,
+      "end": 3338.94,
+      "speaker": "student",
+      "text": "कै से मी वनाु",
+      "is_question": false
+    },
+    {
+      "start": 3338.94,
+      "end": 3340.94,
+      "speaker": "student",
+      "text": "अदिटिए बाना सकते है?",
+      "is_question": false
+    },
+    {
+      "start": 3340.94,
+      "end": 3341.94,
+      "speaker": "student",
+      "text": "वान आसकता.",
+      "is_question": false
+    },
+    {
+      "start": 3341.94,
+      "end": 3344.23,
+      "speaker": "student",
+      "text": "बैटरी भी बनासक्ते, अली वना असक तो,",
+      "is_question": false
+    },
+    {
+      "start": 3344.23,
+      "end": 3346.23,
+      "speaker": "student",
+      "text": "अत दुम तुब तीनो का,",
+      "is_question": false
+    },
+    {
+      "start": 3346.23,
+      "end": 3347.23,
+      "speaker": "student",
+      "text": "दिमाग एक जेस हैं?",
+      "is_question": false
+    },
+    {
+      "start": 3348.36,
+      "end": 3349.36,
+      "speaker": "student",
+      "text": "ये बताव मेरे को.",
+      "is_question": false
+    },
+    {
+      "start": 3349.36,
+      "end": 3350.36,
+      "speaker": "student",
+      "text": "नहीं ना,",
+      "is_question": false
+    },
+    {
+      "start": 3350.36,
+      "end": 3354.82,
+      "speaker": "teacher",
+      "text": "उडिगी अेदर बआटेजो.",
+      "is_question": false
+    },
+    {
+      "start": 3355.82,
+      "end": 3357.82,
+      "speaker": "student",
+      "text": "चीटीं करने में तबलोग माहिड हो.",
+      "is_question": false
+    },
+    {
+      "start": 3357.82,
+      "end": 3363.4,
+      "speaker": "teacher",
+      "text": "बाट्री भी ब़ा सकते हो लीटी वी प़़न सक्ते लोग",
+      "is_question": false
+    },
+    {
+      "start": 3363.4,
+      "end": 3366.0,
+      "speaker": "teacher",
+      "text": "अज तुमने क्या सीक्षा है",
+      "is_question": true
+    },
+    {
+      "start": 3366.0,
+      "end": 3368.0,
+      "speaker": "student",
+      "text": "वो ही नाना हे तोंगे",
+      "is_question": false
+    },
+    {
+      "start": 3368.0,
+      "end": 3373.34,
+      "speaker": "teacher",
+      "text": "वूँ",
+      "is_question": false
+    },
+    {
+      "start": 3373.34,
+      "end": 3374.94,
+      "speaker": "student",
+      "text": "तमको आता हो, बना दु",
+      "is_question": false
+    },
+    {
+      "start": 3374.94,
+      "end": 3381.86,
+      "speaker": "teacher",
+      "text": "मेर को बत पुछो",
+      "is_question": false
+    },
+    {
+      "start": 3381.86,
+      "end": 3383.46,
+      "speaker": "student",
+      "text": "अ जच तंपने या सिक्का",
+      "is_question": false
+    },
+    {
+      "start": 3383.46,
+      "end": 3385.75,
+      "speaker": "student",
+      "text": "त्मनो जो सीख्खा वओ ब बला",
+      "is_question": false
+    },
+    {
+      "start": 3385.75,
+      "end": 3388.38,
+      "speaker": "teacher",
+      "text": "तिकषे है सब जुन",
+      "is_question": false
+    },
+    {
+      "start": 3388.38,
+      "end": 3389.38,
+      "speaker": "student",
+      "text": "बेगो मत पुष़़।",
+      "is_question": false
+    },
+    {
+      "start": 3389.38,
+      "end": 3393.55,
+      "speaker": "teacher",
+      "text": "तेखे जल ली चानो।",
+      "is_question": false
+    },
+    {
+      "start": 3393.55,
+      "end": 3395.65,
+      "speaker": "student",
+      "text": "तीस तगी न्दी। सब का सगिन रीू मैं",
+      "is_question": false
+    },
+    {
+      "start": 3395.65,
+      "end": 3401.9,
+      "speaker": "teacher",
+      "text": "तर्टी, तुन्गाई, अप्डिएट, ज़ेन्नो,",
+      "is_question": false
+    },
+    {
+      "start": 3401.9,
+      "end": 3410.4,
+      "speaker": "teacher",
+      "text": "तिस थक इंटि।, सपका सक्झिन्रीु मैः",
+      "is_question": false
+    },
+    {
+      "start": 3410.4,
+      "end": 3414.82,
+      "speaker": "teacher",
+      "text": "तोगटा, आप आस्वाग, नद्चाए,",
+      "is_question": false
+    },
+    {
+      "start": 3414.82,
+      "end": 3427.36,
+      "speaker": "teacher",
+      "text": "तो तरीवाग तुब आप तीखाद ताई तेखी तब क्याख तिखे तैखिगाजा त्यख़ाए तम तताउग़ तक तहीग क्रदीट तंगे थापदेगी थीचाँग.",
+      "is_question": true
+    },
+    {
+      "start": 3427.36,
+      "end": 3430.36,
+      "speaker": "teacher",
+      "text": "अपने चाँ बाजु ने एक श्वार दिया है वोगागे तिक कर तेखाउ",
+      "is_question": false
+    },
+    {
+      "start": 3430.36,
+      "end": 3436.06,
+      "speaker": "teacher",
+      "text": "अस्थ नहीं अर्फ़्ा थे आप नाप से अन प्रदे लिए बच्छा पर बत्री लेदी अ पेंसली ये नद पाचु में एख शक्चवर थियआ है",
+      "is_question": false
+    },
+    {
+      "start": 3436.06,
+      "end": 3441.92,
+      "speaker": "teacher",
+      "text": "यहाँ दूस्रा अप्सिन दिक्रटा है कुम सब को",
+      "is_question": false
+    },
+    {
+      "start": 3441.92,
+      "end": 3444.56,
+      "speaker": "teacher",
+      "text": "दोस्च्र दीक्ट्र है",
+      "is_question": false
+    },
+    {
+      "start": 3444.56,
+      "end": 3446.26,
+      "speaker": "student",
+      "text": "देक्कर रहा हा ए",
+      "is_question": false
+    },
+    {
+      "start": 3446.26,
+      "end": 3450.1,
+      "speaker": "teacher",
+      "text": "उस में पुचा हे कि आज आम आने क्या क्झीजे यूँस की",
+      "is_question": true
+    },
+    {
+      "start": 3450.1,
+      "end": 3451.94,
+      "speaker": "student",
+      "text": "पहला हए, पेपर",
+      "is_question": false
+    },
+    {
+      "start": 3451.94,
+      "end": 3453.42,
+      "speaker": "student",
+      "text": "द्स्त्र का बाटरी",
+      "is_question": false
+    },
+    {
+      "start": 3453.42,
+      "end": 3454.82,
+      "speaker": "student",
+      "text": "लेदी अर्पेंसली",
+      "is_question": false
+    },
+    {
+      "start": 3454.82,
+      "end": 3457.82,
+      "speaker": "teacher",
+      "text": "ती तो चीजो में से अपने क्या क्झा लिए ल्चीया है",
+      "is_question": true
+    },
+    {
+      "start": 3457.82,
+      "end": 3467.17,
+      "speaker": "teacher",
+      "text": "बाजु मे एक स्कौर दिया एं, चोख्ठा दीयः है, वहाँपे तिक कर तुछ.",
+      "is_question": false
+    },
+    {
+      "start": 3467.17,
+      "end": 3470.73,
+      "speaker": "teacher",
+      "text": "आई लेए, देखा थिख.",
+      "is_question": false
+    },
+    {
+      "start": 3470.73,
+      "end": 3473.73,
+      "speaker": "teacher",
+      "text": "लीएं ते द्खर थो ने लाई, तंब पेश्ट रोग.",
+      "is_question": false
+    },
+    {
+      "start": 3473.73,
+      "end": 3476.33,
+      "speaker": "teacher",
+      "text": "कर्दिः.",
+      "is_question": false
+    },
+    {
+      "start": 3476.33,
+      "end": 3479.57,
+      "speaker": "teacher",
+      "text": "कर दिया किंकिं को होगा है हा तुब पर करदो",
+      "is_question": false
+    },
+    {
+      "start": 3490.18,
+      "end": 3491.46,
+      "speaker": "student",
+      "text": "जल्डिग अरगर तिक",
+      "is_question": false
+    },
+    {
+      "start": 3496.35,
+      "end": 3499.27,
+      "speaker": "teacher",
+      "text": "इस में से क्या खियोंस किय आप तीक कर्दवाँ",
+      "is_question": true
+    },
+    {
+      "start": 3499.27,
+      "end": 3503.11,
+      "speaker": "teacher",
+      "text": "त्यो तेज तो प्रशीषी तबाई दुत बाहिद तरब",
+      "is_question": false
+    },
+    {
+      "start": 3507.98,
+      "end": 3508.98,
+      "speaker": "student",
+      "text": "करिड दीख",
+      "is_question": false
+    },
+    {
+      "start": 3509.06,
+      "end": 3515.31,
+      "speaker": "teacher",
+      "text": "पीचे नीजे पुंचा हाए अप",
+      "is_question": false
+    },
+    {
+      "start": 3515.31,
+      "end": 3520.5,
+      "speaker": "teacher",
+      "text": "बाटरी के अपने बट्री अर बल्प जली जोगा असको लगी बनादरी है.",
+      "is_question": false
+    },
+    {
+      "start": 3520.5,
+      "end": 3523.66,
+      "speaker": "teacher",
+      "text": "अन बी लिए ब्राथा लेगे लाग़े प्रदाए.",
+      "is_question": false
+    },
+    {
+      "start": 3523.66,
+      "end": 3529.87,
+      "speaker": "teacher",
+      "text": "तो आपी करने में तुए मजग आरा थों को.",
+      "is_question": false
+    },
+    {
+      "start": 3529.87,
+      "end": 3534.9,
+      "speaker": "teacher",
+      "text": "आस उस मे फ़हले कुस्छन मेझे विशा है कि आत जब आने,",
+      "is_question": false
+    },
+    {
+      "start": 3534.9,
+      "end": 3540.9,
+      "speaker": "teacher",
+      "text": "अर क्या असा किया, तब इजा के बाटरी और बल्प जली",
+      "is_question": true
+    },
+    {
+      "start": 3540.9,
+      "end": 3546.88,
+      "speaker": "teacher",
+      "text": "थब क्छ आप है उसको थे",
+      "is_question": false
+    },
+    {
+      "start": 3546.88,
+      "end": 3553.9,
+      "speaker": "teacher",
+      "text": "अली टी अग बबातरी कैसे ज़ोडी तोबगा कै वो एलीटीजलि",
+      "is_question": true
+    },
+    {
+      "start": 3553.9,
+      "end": 3557.51,
+      "speaker": "teacher",
+      "text": "ये भता, है, लिखना आ अंप को",
+      "is_question": false
+    },
+    {
+      "start": 3557.51,
+      "end": 3561.99,
+      "speaker": "teacher",
+      "text": "यापे, कि एटिटा औग, बैट्री",
+      "is_question": false
+    },
+    {
+      "start": 3561.99,
+      "end": 3564.99,
+      "speaker": "teacher",
+      "text": "को कैसे आपने जोडा तबी जाते है वो जला",
+      "is_question": true
+    },
+    {
+      "start": 3564.99,
+      "end": 3566.99,
+      "speaker": "student",
+      "text": "तार तेखा पीटी श्पिल लिए?",
+      "is_question": false
+    },
+    {
+      "start": 3566.99,
+      "end": 3569.06,
+      "speaker": "student",
+      "text": "नहीं ने, मराटि में लेकने",
+      "is_question": false
+    },
+    {
+      "start": 3569.06,
+      "end": 3571.34,
+      "speaker": "student",
+      "text": "पुस्मा जी को अज़्ा दिख?",
+      "is_question": false
+    },
+    {
+      "start": 3571.34,
+      "end": 3573.34,
+      "speaker": "student",
+      "text": "आले मेर समथ लूंगी",
+      "is_question": false
+    },
+    {
+      "start": 3573.34,
+      "end": 3574.34,
+      "speaker": "student",
+      "text": "विस्ट देंसर मदलो आतो",
+      "is_question": false
+    },
+    {
+      "start": 3574.34,
+      "end": 3576.34,
+      "speaker": "student",
+      "text": "वुगि मैरो कोग नई समतने हां",
+      "is_question": false
+    },
+    {
+      "start": 3576.34,
+      "end": 3578.34,
+      "speaker": "student",
+      "text": "अगर उपर वाले बोस को समझने है।",
+      "is_question": false
+    },
+    {
+      "start": 3578.34,
+      "end": 3581.27,
+      "speaker": "teacher",
+      "text": "और भो मराटी।",
+      "is_question": false
+    },
+    {
+      "start": 3581.27,
+      "end": 3583.27,
+      "speaker": "student",
+      "text": "तो ममराती में लिखो।",
+      "is_question": false
+    },
+    {
+      "start": 3583.27,
+      "end": 3589.04,
+      "speaker": "teacher",
+      "text": "पहले कुष्टन मे ये पुत्चा है कि बेट़्ी",
+      "is_question": false
+    },
+    {
+      "start": 3589.04,
+      "end": 3592.04,
+      "speaker": "teacher",
+      "text": "औग लीटि को आपने कैसे जोडा",
+      "is_question": true
+    },
+    {
+      "start": 3592.04,
+      "end": 3594.04,
+      "speaker": "student",
+      "text": "तब इजाके वो जला",
+      "is_question": false
+    },
+    {
+      "start": 3594.04,
+      "end": 3596.2,
+      "speaker": "student",
+      "text": "ज़ली जन्ब, लेगो",
+      "is_question": false
+    },
+    {
+      "start": 3596.2,
+      "end": 3598.2,
+      "speaker": "student",
+      "text": "के से लगना हो",
+      "is_question": false
+    },
+    {
+      "start": 3598.2,
+      "end": 3600.2,
+      "speaker": "student",
+      "text": "केसे, रिए ल्खना एं",
+      "is_question": false
+    },
+    {
+      "start": 3600.2,
+      "end": 3605.65,
+      "speaker": "teacher",
+      "text": "जेसे मैंने आखा वैसे अखो लिखना है और ज़सा अंगरा हाँ बैसाब असो अ खो",
+      "is_question": false
+    },
+    {
+      "start": 3605.65,
+      "end": 3607.65,
+      "speaker": "student",
+      "text": "ल्गना आये बाई अर्जाश ना पीट लेखचना.",
+      "is_question": false
+    },
+    {
+      "start": 3607.65,
+      "end": 3611.38,
+      "speaker": "teacher",
+      "text": "इस में नहीं लगचा हमने.",
+      "is_question": false
+    },
+    {
+      "start": 3611.38,
+      "end": 3612.38,
+      "speaker": "student",
+      "text": "ए विआश.",
+      "is_question": false
+    },
+    {
+      "start": 3612.38,
+      "end": 3615.82,
+      "speaker": "teacher",
+      "text": "आका औख अयेग आन.",
+      "is_question": false
+    },
+    {
+      "start": 3615.82,
+      "end": 3617.82,
+      "speaker": "student",
+      "text": "आस्वा एश मै दो गर्स्नाया.",
+      "is_question": false
+    },
+    {
+      "start": 3617.82,
+      "end": 3624.65,
+      "speaker": "teacher",
+      "text": "अज अक अंकी लेडी जली थी ना",
+      "is_question": false
+    },
+    {
+      "start": 3624.65,
+      "end": 3626.65,
+      "speaker": "student",
+      "text": "ज़लीती",
+      "is_question": false
+    },
+    {
+      "start": 3626.65,
+      "end": 3628.84,
+      "speaker": "student",
+      "text": "जर ली ती",
+      "is_question": false
+    },
+    {
+      "start": 3628.84,
+      "end": 3631.84,
+      "speaker": "teacher",
+      "text": "इसी वेश्ट लोग भी अरे दोर कर से लिजट",
+      "is_question": false
+    },
+    {
+      "start": 3631.84,
+      "end": 3634.38,
+      "speaker": "teacher",
+      "text": "नहीं ने नै",
+      "is_question": false
+    },
+    {
+      "start": 3634.38,
+      "end": 3637.38,
+      "speaker": "teacher",
+      "text": "अमने जेलीडे पी औमारी घलीने की गलाएगी",
+      "is_question": false
+    },
+    {
+      "start": 3637.38,
+      "end": 3640.38,
+      "speaker": "teacher",
+      "text": "जम दे अत बाजा तो कैसे चलाय थे वो सीखा जाना",
+      "is_question": true
+    },
+    {
+      "start": 3640.38,
+      "end": 3642.51,
+      "speaker": "student",
+      "text": "क्या बैटी हूँ",
+      "is_question": false
+    },
+    {
+      "start": 3642.51,
+      "end": 3644.51,
+      "speaker": "student",
+      "text": "अस अन पुट",
+      "is_question": false
+    },
+    {
+      "start": 3644.51,
+      "end": 3649.17,
+      "speaker": "teacher",
+      "text": "आप आल चाउ तरीब़़ दाब तीप्लो तिपलो",
+      "is_question": false
+    },
+    {
+      "start": 3649.17,
+      "end": 3656.14,
+      "speaker": "teacher",
+      "text": "आस्णाद बद्बिद़, गो ज्रे शाथ है",
+      "is_question": false
+    },
+    {
+      "start": 3656.14,
+      "end": 3657.86,
+      "speaker": "student",
+      "text": "तब ही परजन में लिखो",
+      "is_question": false
+    },
+    {
+      "start": 3657.86,
+      "end": 3660.54,
+      "speaker": "teacher",
+      "text": "गट्टा याड़े गर तागे लेगा",
+      "is_question": false
+    },
+    {
+      "start": 3660.54,
+      "end": 3663.18,
+      "speaker": "teacher",
+      "text": "इशु",
+      "is_question": false
+    },
+    {
+      "start": 3663.18,
+      "end": 3667.58,
+      "speaker": "teacher",
+      "text": "मैंनो उसको वाँ बिताए वो भाई बेदि़",
+      "is_question": false
+    },
+    {
+      "start": 3667.58,
+      "end": 3670.34,
+      "speaker": "teacher",
+      "text": "बाट तमा दीड बैद",
+      "is_question": false
+    },
+    {
+      "start": 3670.34,
+      "end": 3672.34,
+      "speaker": "student",
+      "text": "बडला बाजा आदने को सीखाई नी हैं ना?",
+      "is_question": false
+    },
+    {
+      "start": 3672.34,
+      "end": 3684.34,
+      "speaker": "teacher",
+      "text": "दिख देए ने सीकाए में जो आतने सिचाँ आ ज़ो लिए को",
+      "is_question": false
+    },
+    {
+      "start": 3684.34,
+      "end": 3686.34,
+      "speaker": "student",
+      "text": "दीच या लीग का यह लेग हो?",
+      "is_question": false
+    },
+    {
+      "start": 3686.34,
+      "end": 3690.57,
+      "speaker": "teacher",
+      "text": "नहीं सी कागे निज दो रिग दून नई सी खा",
+      "is_question": false
+    },
+    {
+      "start": 3690.57,
+      "end": 3695.68,
+      "speaker": "teacher",
+      "text": "तो दाश लगी लोग, द़न रेश, अगट्या",
+      "is_question": false
+    },
+    {
+      "start": 3695.68,
+      "end": 3698.34,
+      "speaker": "teacher",
+      "text": "अप दोनो जाएके उदर उतर बआदजा",
+      "is_question": false
+    },
+    {
+      "start": 3698.34,
+      "end": 3700.48,
+      "speaker": "student",
+      "text": "वडिषिट पट़ग नहीं",
+      "is_question": false
+    },
+    {
+      "start": 3700.48,
+      "end": 3730.16,
+      "speaker": "teacher",
+      "text": "देशल लप़ी दिएं",
+      "is_question": false
+    },
+    {
+      "start": 3730.16,
+      "end": 3735.06,
+      "speaker": "teacher",
+      "text": "दीख के जै निक हो दुग",
+      "is_question": false
+    },
+    {
+      "start": 3735.06,
+      "end": 3736.67,
+      "speaker": "student",
+      "text": "मेरे सामने चीटिग करोगे तो लो",
+      "is_question": false
+    },
+    {
+      "start": 3736.67,
+      "end": 3738.17,
+      "speaker": "student",
+      "text": "पुत बीग़ नेग",
+      "is_question": false
+    },
+    {
+      "start": 3738.17,
+      "end": 3740.17,
+      "speaker": "student",
+      "text": "बलाव मेखा मैंगो",
+      "is_question": false
+    },
+    {
+      "start": 3740.17,
+      "end": 3745.02,
+      "speaker": "teacher",
+      "text": "तु दा में खागी बाज़ा साँच़",
+      "is_question": false
+    },
+    {
+      "start": 3745.02,
+      "end": 3747.02,
+      "speaker": "student",
+      "text": "अग्श्याप दे ख्यटागाद",
+      "is_question": false
+    },
+    {
+      "start": 3747.02,
+      "end": 3749.34,
+      "speaker": "student",
+      "text": "अह आप",
+      "is_question": false
+    },
+    {
+      "start": 3749.34,
+      "end": 3751.34,
+      "speaker": "student",
+      "text": "नहीं आरे थीखे",
+      "is_question": false
+    },
+    {
+      "start": 3751.34,
+      "end": 3753.34,
+      "speaker": "student",
+      "text": "तो सेखन कुएशन पया जाते है",
+      "is_question": false
+    },
+    {
+      "start": 3753.34,
+      "end": 3755.34,
+      "speaker": "student",
+      "text": "पुकि बोड ताम बेच कर रह तुमलो",
+      "is_question": false
+    },
+    {
+      "start": 3755.34,
+      "end": 3757.34,
+      "speaker": "student",
+      "text": "अलिए का?",
+      "is_question": false
+    },
+    {
+      "start": 3757.34,
+      "end": 3759.34,
+      "speaker": "student",
+      "text": "प्च्छन अस्टी का",
+      "is_question": false
+    },
+    {
+      "start": 3759.34,
+      "end": 3761.34,
+      "speaker": "student",
+      "text": "लिख लो",
+      "is_question": false
+    },
+    {
+      "start": 3761.34,
+      "end": 3763.34,
+      "speaker": "student",
+      "text": "या चल",
+      "is_question": false
+    },
+    {
+      "start": 3763.34,
+      "end": 3772.19,
+      "speaker": "teacher",
+      "text": "वैसे सम लेग ना",
+      "is_question": false
+    },
+    {
+      "start": 3772.19,
+      "end": 3774.26,
+      "speaker": "student",
+      "text": "ये अ पासे",
+      "is_question": false
+    },
+    {
+      "start": 3774.26,
+      "end": 3776.26,
+      "speaker": "student",
+      "text": "तेभ रावता",
+      "is_question": false
+    },
+    {
+      "start": 3776.26,
+      "end": 3780.26,
+      "speaker": "teacher",
+      "text": "बद्र बर ये बाब याँ बने प्रबाया था पेपर एब़ा यो बलोग चीटिं कर रहे थे",
+      "is_question": false
+    },
+    {
+      "start": 3780.26,
+      "end": 3783.34,
+      "speaker": "teacher",
+      "text": "कुछी को एंच्टें",
+      "is_question": false
+    },
+    {
+      "start": 3783.34,
+      "end": 3785.6,
+      "speaker": "student",
+      "text": "बैच अगचं दी कूछि को",
+      "is_question": false
+    },
+    {
+      "start": 3785.6,
+      "end": 3788.6,
+      "speaker": "teacher",
+      "text": "बेदा मैं कोबलाक लगन लें जेगा",
+      "is_question": false
+    },
+    {
+      "start": 3788.6,
+      "end": 3790.6,
+      "speaker": "student",
+      "text": "नहीं ने जाडिए",
+      "is_question": false
+    },
+    {
+      "start": 3790.6,
+      "end": 3802.55,
+      "speaker": "teacher",
+      "text": "नाई पुस पाश परश्वाग",
+      "is_question": false
+    },
+    {
+      "start": 3802.55,
+      "end": 3806.29,
+      "speaker": "teacher",
+      "text": "तुम सब शारा मानी चीए तोंगा",
+      "is_question": false
+    },
+    {
+      "start": 3806.29,
+      "end": 3807.49,
+      "speaker": "student",
+      "text": "ता चाम की आग",
+      "is_question": false
+    },
+    {
+      "start": 3807.49,
+      "end": 3823.55,
+      "speaker": "teacher",
+      "text": "अम ना टीख",
+      "is_question": false
+    },
+    {
+      "start": 3823.55,
+      "end": 3825.03,
+      "speaker": "student",
+      "text": "अग लिखना है",
+      "is_question": false
+    },
+    {
+      "start": 3825.03,
+      "end": 3828.27,
+      "speaker": "teacher",
+      "text": "गटे से",
+      "is_question": false
+    },
+    {
+      "start": 3828.27,
+      "end": 3829.27,
+      "speaker": "student",
+      "text": "गते सी",
+      "is_question": false
+    },
+    {
+      "start": 3829.27,
+      "end": 3830.67,
+      "speaker": "student",
+      "text": "वाई लीट",
+      "is_question": false
+    },
+    {
+      "start": 3830.67,
+      "end": 3832.56,
+      "speaker": "student",
+      "text": "तब",
+      "is_question": false
+    },
+    {
+      "start": 3832.56,
+      "end": 3833.56,
+      "speaker": "student",
+      "text": "वड़",
+      "is_question": false
+    },
+    {
+      "start": 3833.56,
+      "end": 3836.32,
+      "speaker": "teacher",
+      "text": "गर टिग",
+      "is_question": false
+    },
+    {
+      "start": 3836.32,
+      "end": 3838.32,
+      "speaker": "student",
+      "text": "जैसे तंब को ल्गना या बैसर लेखो",
+      "is_question": false
+    },
+    {
+      "start": 3838.32,
+      "end": 3839.32,
+      "speaker": "student",
+      "text": "मैं समझजवूं",
+      "is_question": false
+    },
+    {
+      "start": 3839.32,
+      "end": 3841.28,
+      "speaker": "student",
+      "text": "समया",
+      "is_question": false
+    },
+    {
+      "start": 3841.28,
+      "end": 3845.86,
+      "speaker": "teacher",
+      "text": "के लुख न लोग",
+      "is_question": false
+    },
+    {
+      "start": 3845.86,
+      "end": 3846.86,
+      "speaker": "student",
+      "text": "तर देस कोटग",
+      "is_question": false
+    },
+    {
+      "start": 3846.86,
+      "end": 3847.86,
+      "speaker": "student",
+      "text": "दानि",
+      "is_question": false
+    },
+    {
+      "start": 3847.86,
+      "end": 3852.86,
+      "speaker": "teacher",
+      "text": "तीदशी रेगी तिदेयो",
+      "is_question": false
+    }
+  ],
+  "stats": {
+    "duration_s": 3859.7,
+    "teacher_talk_s": 2357.7,
+    "student_talk_s": 527.6,
+    "teacher_talk_pct": 81.7,
+    "student_talk_pct": 18.3,
+    "teacher_turns": 140,
+    "student_turns": 136,
+    "teacher_questions": 32,
+    "student_responses": 19,
+    "speaker_switches": 269,
+    "silence_total_s": 944.1,
+    "longest_silence_s": 472.6
+  },
+  "metrics": [
+    {
+      "key": "teacher_dominance",
+      "name": "Teacher Dominance Ratio",
+      "value": 0.82,
+      "display": "82%",
+      "formula": "teacher talk time ÷ total speech time",
+      "explanation": "Share of all speech that comes from the teacher.",
+      "interpretation": "Lecture-heavy: the teacher dominates the airtime; students get little room to speak."
+    },
+    {
+      "key": "student_participation",
+      "name": "Student Participation Indicator",
+      "value": 2.11,
+      "display": "2.1 turns/min",
+      "formula": "student speaking turns ÷ session minutes",
+      "explanation": "How frequently students take the floor, normalized by session length.",
+      "interpretation": "Strong participation: students speak up frequently."
+    },
+    {
+      "key": "interaction_density",
+      "name": "Interaction Density",
+      "value": 4.18,
+      "display": "4.2 switches/min",
+      "formula": "teacher↔student speaker switches ÷ session minutes",
+      "explanation": "How often the conversation passes between teacher and students — a proxy for back-and-forth dialogue.",
+      "interpretation": "Dialogic classroom: frequent back-and-forth exchange."
+    },
+    {
+      "key": "question_response_rate",
+      "name": "Question–Response Rate",
+      "value": 0.59,
+      "display": "59%",
+      "formula": "teacher questions answered by a student within 5 s ÷ total teacher questions",
+      "explanation": "How many of the teacher's questions actually draw a student response.",
+      "interpretation": "Mixed uptake: some questions go unanswered."
+    }
+  ],
+  "summary": "In this 64-minute session, the teacher spoke for 82% of the speech time and students for 18%. Students took the floor 136 times, and the conversation switched between teacher and students 269 times. The teacher asked 32 questions, of which 19 drew a student response. About 944 s of the session was silent (longest pause 473 s). Lecture-heavy: the teacher dominates the airtime; students get little room to speak. Dialogic classroom: frequent back-and-forth exchange."
+}

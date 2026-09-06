@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+faster-whisper
+speechbrain
+torch
+torchaudio
+scikit-learn
+soundfile
+numpy
+gdown

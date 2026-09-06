@@ -1,0 +1,13 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# Heavy / regenerable data — audio is re-fetched with gdown, models download on first run.
+# backend/data/results/ (the pre-computed analyses) IS committed so the demo works after clone.
+backend/data/audio/
+backend/data/models/
+backend/data/uploads/
+backend/data/*.log
+
+# Node (frontend/.gitignore covers node_modules, .next, etc.)
